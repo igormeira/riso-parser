@@ -1,0 +1,31 @@
+digraph Thesaurus {
+thing [style=filled, color=white];
+jaguar [style=filled, color=white];
+pantera [style=filled, color=white];
+mammal [style=filled, color=white];
+car [style=filled, color=white];
+animal [style=filled, color=white];
+vehicle [style=filled, color=white];
+fang [style=filled, color=white];
+jaguarXF [style=filled, color=white];
+jaguarFType [style=filled, color=white];
+jaguar_animal [style=filled, color=white];
+jaguar_car [style=filled, color=white];
+fang_animal [style=filled, color=white];
+
+fang -> fang_animal [label="has-context"];
+jaguar -> jaguar_animal [label="has-context"];
+jaguar -> jaguar_car [label="has-context"];
+
+
+vehicle -> thing [label="is-a"];
+mammal -> animal [label="is-a"];
+jaguar_car -> car [label="is-a"];
+car -> vehicle [label="is-a"];
+jaguar_animal -> pantera [label="is-a"];
+pantera -> mammal [label="is-a"];
+animal -> thing [label="is-a"];
+fang_animal -> jaguar_animal [label="part-of"];
+jaguarXF -> jaguar_car [label="is-a"];
+jaguarFType -> jaguar_car [label="is-a"];
+}

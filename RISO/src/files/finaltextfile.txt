@@ -1,0 +1,121 @@
+[
+{
+"type":"fang",
+"isa": [],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": [],
+"hascontext": ["animal"]
+},
+
+{
+"type":"jaguar",
+"isa": [],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": [],
+"hascontext": ["animal", "car"]
+},
+
+{
+"type":"vehicle",
+"isa": ["thing"],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": ["car"],
+"hascontext": []
+},
+
+{
+"type":"mammal",
+"isa": ["animal"],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": ["pantera"],
+"hascontext": []
+},
+
+{
+"type":"jaguar_car",
+"isa": ["car"],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": ["jaguarXF", "jaguarFType"],
+"hascontext": []
+},
+
+{
+"type":"car",
+"isa": ["vehicle"],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": ["jaguar_car"],
+"hascontext": []
+},
+
+{
+"type":"jaguar_animal",
+"isa": ["pantera"],
+"partof": [],
+"haspart": ["fang_animal"],
+"instanceof": [],
+"hassubtype": [],
+"hascontext": []
+},
+
+{
+"type":"pantera",
+"isa": ["mammal"],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": ["jaguar_animal"],
+"hascontext": []
+},
+
+{
+"type":"animal",
+"isa": ["thing"],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": ["mammal"],
+"hascontext": []
+},
+
+{
+"type":"fang_animal",
+"isa": [],
+"partof": ["jaguar_animal"],
+"haspart": [],
+"instanceof": [],
+"hassubtype": [],
+"hascontext": []
+},
+
+{
+"type":"jaguarXF",
+"isa": ["jaguar_car"],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": [],
+"hascontext": []
+},
+
+{
+"type":"jaguarFType",
+"isa": ["jaguar_car"],
+"partof": [],
+"haspart": [],
+"instanceof": [],
+"hassubtype": [],
+"hascontext": []
+}
+]
