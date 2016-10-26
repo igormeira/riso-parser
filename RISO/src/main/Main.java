@@ -93,6 +93,31 @@ public class Main {
 						termLista.getHas_context().add(hascontext);
 					}
 				}
+				if (term.getContext_of().size() > 0) {
+					for (String contextof : term.getContext_of()) {
+						termLista.getContext_of().add(contextof);
+					}
+				}
+				if (term.getHas_instance().size() > 0) {
+					for (String hasinstance : term.getHas_instance()) {
+						termLista.getHas_instance().add(hasinstance);
+					}
+				}
+				if (term.getAcronym_of().size() > 0) {
+					for (String acronymof : term.getAcronym_of()) {
+						termLista.getAcronym_of().add(acronymof);
+					}
+				}
+				if (term.getHas_acronym().size() > 0) {
+					for (String hasacronym : term.getHas_acronym()) {
+						termLista.getHas_acronym().add(hasacronym);
+					}
+				}
+				if (term.getIndexing().size() > 0) {
+					for (String indexing : term.getIndexing()) {
+						termLista.getIndexing().add(indexing);
+					}
+				}
 			}
 		}
 	}
@@ -125,6 +150,11 @@ public class Main {
 		else if (newElements[2].equals("instance-of")) term.getInstance_of().add(newElements[1]);
 		else if (newElements[2].equals("has-subtype")) term.getHas_subtype().add(newElements[1]);
 		else if (newElements[2].equals("has-context")) term.getHas_context().add(newElements[1]);
+		else if (newElements[2].equals("has-instance")) term.getHas_instance().add(newElements[1]);
+		else if (newElements[2].equals("has-acronym")) term.getHas_acronym().add(newElements[1]);
+		else if (newElements[2].equals("acronym-of")) term.getAcronym_of().add(newElements[1]);
+		else if (newElements[2].equals("context-of")) term.getContext_of().add(newElements[1]);
+		else if (newElements[2].equals("indexing")) term.getIndexing().add(newElements[1]);
 		
 		return newTerm;
 	}
@@ -162,7 +192,12 @@ public class Main {
 			finalStr += concatHasPart(term);
 			finalStr += concatInstanceOf(term);
 			finalStr += concatHasSubtype(term);
-			finalStr += concatHasContext(term);
+			finalStr += concatHasInstance(term);
+			finalStr += concatHasAcronym(term);
+			finalStr += concatAcronymOf(term);
+			finalStr += concatContextOf(term);
+			finalStr += concatIndexing(term);
+			finalStr += concatHasContext(term);			
 			
 			if (term.getType() != null && term.getType().equals(lista.get(lista.size()-1).getType())) {
 				finalStr += "}" + System.lineSeparator();
@@ -175,6 +210,8 @@ public class Main {
 		return finalStr;		
 	}
 	
+
+	//Inverse Relations 
 	private static void addInverseRelation() {
 		for (Term majorTerm : lista) {
 			//IsA relation
@@ -217,6 +254,46 @@ public class Main {
 					}
 				}
 			}
+			//HasContext relation
+			for (String hc : majorTerm.getHas_context()) {
+				for (Term term : lista) {
+					if (term.getType().equals(hc)) {
+						if (!term.getContext_of().contains(majorTerm.getType())) {
+							term.getContext_of().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//ContextOf relation
+			for (String co : majorTerm.getContext_of()) {
+				for (Term term : lista) {
+					if (term.getType().equals(co)) {
+						if (!term.getHas_context().contains(majorTerm.getType())) {
+							term.getHas_context().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//HasAcronym relation
+			for (String ha : majorTerm.getHas_acronym()) {
+				for (Term term : lista) {
+					if (term.getType().equals(ha)) {
+						if (!term.getAcronym_of().contains(majorTerm.getType())) {
+							term.getAcronym_of().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//AcronymOf relation
+			for (String ao : majorTerm.getAcronym_of()) {
+				for (Term term : lista) {
+					if (term.getType().equals(ao)) {
+						if (!term.getHas_acronym().contains(majorTerm.getType())) {
+							term.getHas_acronym().add(majorTerm.getType());
+						}
+					}
+				}
+			}
 		}
 		
 	}
@@ -249,6 +326,37 @@ public class Main {
 		
 		if (term.getHas_context().size() == 0) {
 			str += "]" + System.lineSeparator();
+		}
+		
+		return str;
+	}
+	
+	private static String concatContextOf(Term term) {
+		String str = "\"contextof\": [";
+		String lastSub = "";
+		
+		for (String element : term.getContext_of()) {
+			if (element.contains("_")) {
+				int indexEnds = element.indexOf("_");
+				String sub = element.substring(0, indexEnds);				
+				element = sub;
+				
+				String lastElement = term.getContext_of().get(term.getContext_of().size()-1);
+				lastSub = lastElement.substring(0, indexEnds);
+			}		
+			if (!str.contains(element)) {
+				str += "\"" + element + "\"";
+				if (element.equals(term.getContext_of().get(term.getContext_of().size()-1)) || element.equals(lastSub)) {
+					str += "]," + System.lineSeparator();
+				}
+				else {
+					str += ", ";
+				}
+			}
+		}
+		
+		if (term.getContext_of().size() == 0) {
+			str += "]," + System.lineSeparator();
 		}
 		
 		return str;
@@ -353,21 +461,81 @@ public class Main {
 		
 		return str;
 	}
-
-	private static String concatTerms(Term term) {
-		String str = "\"terms\": [";
+	
+	private static String concatHasInstance(Term term) {
+		String str = "\"hasinstance\": [";
 		
-		for (String element : term.getTerms()) {
+		for (String element : term.getInstance_of()) {
 			str += "\"" + element + "\"";
-			if (element.equals(term.getTerms().get(term.getTerms().size()-1))) {
-				str += ",]" + System.lineSeparator();
+			if (element.equals(term.getInstance_of().get(term.getInstance_of().size()-1))) {
+				str += "]," + System.lineSeparator();
 			}
 			else {
 				str += ", ";
 			}
 		}
 		
-		if (term.getTerms().size() == 0) {
+		if (term.getInstance_of().size() == 0) {
+			str += "]," + System.lineSeparator();
+		}
+		
+		return str;
+	}
+	
+	private static String concatHasAcronym(Term term) {
+		String str = "\"hasacronym\": [";
+		
+		for (String element : term.getHas_acronym()) {
+			str += "\"" + element + "\"";
+			if (element.equals(term.getHas_acronym().get(term.getHas_acronym().size()-1))) {
+				str += "]," + System.lineSeparator();
+			}
+			else {
+				str += ", ";
+			}
+		}
+		
+		if (term.getHas_acronym().size() == 0) {
+			str += "]," + System.lineSeparator();
+		}
+		
+		return str;
+	}
+	
+	private static String concatAcronymOf(Term term) {
+		String str = "\"acronymof\": [";
+		
+		for (String element : term.getAcronym_of()) {
+			str += "\"" + element + "\"";
+			if (element.equals(term.getAcronym_of().get(term.getAcronym_of().size()-1))) {
+				str += "]," + System.lineSeparator();
+			}
+			else {
+				str += ", ";
+			}
+		}
+		
+		if (term.getAcronym_of().size() == 0) {
+			str += "]," + System.lineSeparator();
+		}
+		
+		return str;
+	}
+	
+	private static String concatIndexing(Term term) {
+		String str = "\"indexing\": [";
+		
+		for (String element : term.getIndexing()) {
+			str += "\"" + element + "\"";
+			if (element.equals(term.getIndexing().get(term.getIndexing().size()-1))) {
+				str += "]," + System.lineSeparator();
+			}
+			else {
+				str += ", ";
+			}
+		}
+		
+		if (term.getIndexing().size() == 0) {
 			str += "]," + System.lineSeparator();
 		}
 		

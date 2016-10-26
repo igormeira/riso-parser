@@ -6,6 +6,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": [],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": [],
+"indexing": [],
 "hascontext": ["animal"]
 },
 
@@ -16,6 +21,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": [],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": [],
+"indexing": [],
 "hascontext": ["animal", "car"]
 },
 
@@ -26,6 +36,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": ["car"],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": [],
+"indexing": [],
 "hascontext": []
 },
 
@@ -36,6 +51,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": ["pantera"],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": [],
+"indexing": [],
 "hascontext": []
 },
 
@@ -46,6 +66,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": ["jaguarXF", "jaguarFType"],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": ["jaguar"],
+"indexing": [],
 "hascontext": []
 },
 
@@ -56,6 +81,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": ["jaguar_car"],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": [],
+"indexing": [],
 "hascontext": []
 },
 
@@ -66,6 +96,11 @@
 "haspart": ["fang_animal"],
 "instanceof": [],
 "hassubtype": [],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": ["jaguar"],
+"indexing": [],
 "hascontext": []
 },
 
@@ -76,6 +111,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": ["jaguar_animal"],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": [],
+"indexing": [],
 "hascontext": []
 },
 
@@ -86,6 +126,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": ["mammal"],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": [],
+"indexing": [],
 "hascontext": []
 },
 
@@ -96,6 +141,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": [],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": ["fang"],
+"indexing": [],
 "hascontext": []
 },
 
@@ -106,6 +156,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": [],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": [],
+"indexing": [],
 "hascontext": []
 },
 
@@ -116,6 +171,11 @@
 "haspart": [],
 "instanceof": [],
 "hassubtype": [],
+"hasinstance": [],
+"hasacronym": [],
+"acronymof": [],
+"contextof": [],
+"indexing": [],
 "hascontext": []
 }
 ]
