@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;RDF Relations/src/files&apos;&#x0D;&#x0A;- Original project: &apos;RISO - RDF-to-RDFClean&apos;&#x0D;&#x0A;- Destination element: &apos;RDF Relations/src/files&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     rdfclean.txt&#x0D;&#x0A;     rdf.txt" description="Copy files" destination="=RDF Relations/src&lt;files" element1="src/files/rdfclean.txt" element2="src/files/rdf.txt" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1489535467406" units="0" version="1.0"/>
+</session>

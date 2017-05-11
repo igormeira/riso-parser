@@ -1,0 +1,10380 @@
+[
+{
+"type":"species-specific",
+"DerivedFrom": ["specific"],
+},
+
+{
+"type":"father some cub",
+},
+
+{
+"type":"large wild cat that life in north america",
+},
+
+{
+"type":"lion-peugeot type vd and v 4 d",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"tigereye",
+"RelatedTo": ["tiger beetle"],
+},
+
+{
+"type":"for lion",
+"IsA": ["album"],
+},
+
+{
+"type":"yacht design specialist",
+},
+
+{
+"type":"tiger williams",
+"IsA": ["athlete", "ice hockey player"],
+},
+
+{
+"type":"hunter",
+"CapableOf": ["fear lion"],
+},
+
+{
+"type":"tiger aircraft",
+"IsA": ["organisation", "company"],
+"AtLocation": ["martinsburg west virginia", "unite state"],
+},
+
+{
+"type":"eye of tiger",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"jacques-louis lion",
+"IsA": ["scientist"],
+},
+
+{
+"type":"leopard torpedo",
+"IsA": ["fish"],
+},
+
+{
+"type":"lion tail",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"jaguarAnimal",
+"hasContext": ["small tiger", "o", "specific", "doe not contain these word mammal tiger leopard jaguar", "neofelis nebulosa", "organisation", "panthera onca", "mammal genus"],
+},
+
+{
+"type":"New World member",
+},
+
+{
+"type":"lion of oz",
+"IsA": ["film"],
+},
+
+{
+"type":"board",
+"Description":"a flat piece of material designed for a special purpose",
+},
+
+{
+"type":"final fantasy tactic war of lion",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"lie in jungle",
+},
+
+{
+"type":"wild tiger woman",
+"IsA": ["single"],
+},
+
+{
+"type":"origin of war of 1812",
+},
+
+{
+"type":"lion club international",
+"IsA": ["secularity", "organisation"],
+},
+
+{
+"type":"lair",
+"RelatedTo": ["lion", "lion den"],
+},
+
+{
+"type":"tiger arena",
+"IsA": ["build", "place", "architectural structure", "stadium"],
+"AtLocation": ["savannah georgia", "savannah state university", "unite state"],
+},
+
+{
+"type":"hm tiger",
+"Description":"1747",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"tiger cowrie",
+"Description":"cowrie whose shell is used for ornament",
+"IsA": ["cowrie"],
+},
+
+{
+"type":"jaguar xj 13",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"lion witch and wardrobe",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"snore",
+"UsedFor": ["sound like lion"],
+},
+
+{
+"type":"film",
+},
+
+{
+"type":"move car",
+"HasSubevent": ["fender bender"],
+},
+
+{
+"type":"have spot",
+},
+
+{
+"type":"tiger wood foundation",
+"IsA": ["organisation"],
+},
+
+{
+"type":"song from lion cage",
+"IsA": ["album"],
+},
+
+{
+"type":"tiger georgia",
+"IsA": ["populate place", "town", "settlement"],
+"PartOf": ["rabun county georgia", "georgia"],
+},
+
+{
+"type":"tank destroyer",
+},
+
+{
+"type":"air time best of glass tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"SimilarTo",
+},
+
+{
+"type":"arctocephalus",
+"Description":"fur seals",
+"MemberOf": ["otariidae"],
+},
+
+{
+"type":"also lion",
+},
+
+{
+"type":"jaguar e-type",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"jungle cat",
+"IsA": ["mammal"],
+},
+
+{
+"type":"melbourne",
+"PartOf": ["australia"],
+},
+
+{
+"type":"band",
+"IsA": ["organisation"],
+},
+
+{
+"type":"jaguar xj 220",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"red lion",
+"Description":"theatre",
+"IsA": ["build", "elizabethan era", "theatre", "place", "architectural structure"],
+"AtLocation": ["london borough of tower hamlet"],
+},
+
+{
+"type":"hamilton tiger",
+"Description":"ice hockey",
+"IsA": ["organisation", "sport team", "hockey team"],
+},
+
+{
+"type":"maple",
+},
+
+{
+"type":"european lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"jaguar field",
+"IsA": ["build", "place", "architectural structure", "stadium"],
+"AtLocation": ["mobile alabama", "alabama", "unite state", "university of south alabama"],
+},
+
+{
+"type":"scarlet tiger moth",
+"IsA": ["insect"],
+"DerivedFrom": ["moth"],
+},
+
+{
+"type":"be on horn of dilemma",
+},
+
+{
+"type":"safari",
+},
+
+{
+"type":"navy",
+},
+
+{
+"type":"pride tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"eye of tiger",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"polished aluminium propeller",
+},
+
+{
+"type":"fierce animal",
+},
+
+{
+"type":"tiger shark",
+"Description":"large dangerous warm-water shark with striped or spotted body",
+"IsA": ["requiem shark"],
+"MemberOf": ["galeocerdo"],
+},
+
+{
+"type":"very fast",
+},
+
+{
+"type":"lion fur",
+},
+
+{
+"type":"roselyne et le lion",
+"IsA": ["film"],
+},
+
+{
+"type":"spot cat",
+},
+
+{
+"type":"kingborough lion unite soccer club",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"steel",
+},
+
+{
+"type":"locomotive",
+},
+
+{
+"type":"relate to tiger",
+},
+
+{
+"type":"crescent-banded tiger-fish",
+"Synonym": ["jarbua terapon"],
+},
+
+{
+"type":"africa",
+},
+
+{
+"type":"tiger and crane fist",
+"IsA": ["film"],
+},
+
+{
+"type":"panthera youngi",
+"IsA": ["mammal"],
+},
+
+{
+"type":"detroit lion",
+"IsA": ["american football team", "organisation", "sport team"],
+},
+
+{
+"type":"small tiger",
+},
+
+{
+"type":"great north tiger f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"fable",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"giant tiger",
+"IsA": ["organisation", "company"],
+"AtLocation": ["ottawa", "canada", "ontario"],
+},
+
+{
+"type":"sea lion",
+"Description":"song",
+"IsA": ["single"],
+},
+
+{
+"type":"road",
+"IsA": ["place"],
+},
+
+{
+"type":"jaguar xk 140",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"tamil",
+},
+
+{
+"type":"pench tiger reserve",
+"IsA": ["place", "protect area"],
+"AtLocation": ["india", "seoni madhya pradesh"],
+},
+
+{
+"type":"indo-chinese tiger",
+"IsA": ["protect specie"],
+},
+
+{
+"type":"yout to see tiger",
+},
+
+{
+"type":"jarbua terapon",
+},
+
+{
+"type":"formosan cloud leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"red lion area school district",
+"IsA": ["educational institution", "school"],
+},
+
+{
+"type":"hm lion",
+"Description":"c34",
+"IsA": ["tiger class cruiser"],
+},
+
+{
+"type":"panthera leo vereshchagini",
+"IsA": ["mammal"],
+},
+
+{
+"type":"lafcadio lion who shoot back",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"guitar",
+"Description":"the lion sleeps tonight",
+"IsA": ["album"],
+},
+
+{
+"type":"apia leichhardt tiger",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"soundtrack",
+},
+
+{
+"type":"young lion",
+"Description":"singapore football team",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"suspension bridge",
+},
+
+{
+"type":"tiger i",
+"IsA": ["heavy tank"],
+},
+
+{
+"type":"california",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"indian leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"leopard",
+"Description":"the pelt of a leopard",
+"IsA": ["fur"],
+},
+
+{
+"type":"yanbian baekdu tiger f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"lion king 1Ã‚Â½",
+"IsA": ["film"],
+},
+
+{
+"type":"moutain lion",
+"IsA": ["call puma or cougar"],
+},
+
+{
+"type":"arctiid",
+"Description":"stout-bodied broad-winged moth with conspicuously striped or spotted wings",
+"MemberOf": ["arctiidae"],
+},
+
+{
+"type":"bonthain tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"what lion",
+},
+
+{
+"type":"lion grove garden",
+"IsA": ["place", "world heritage site"],
+},
+
+{
+"type":"tiger",
+"Description":"dc comics",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"columbia missouri",
+"IsA": ["place"],
+},
+
+{
+"type":"tiger of sweden",
+"IsA": ["organisation", "company", "public company"],
+"AtLocation": ["stockholm"],
+},
+
+{
+"type":"toxopeus yellow tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"beast",
+},
+
+{
+"type":"red lion york county pennsylvania",
+"IsA": ["populate place", "place", "settlement"],
+"PartOf": ["pennsylvania", "york county pennsylvania"],
+},
+
+{
+"type":"lion-peugeot type v 4 c 3",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"hungry tiger of oz",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tiger stadium",
+"Description":"lsu",
+"IsA": ["build", "place", "architectural structure", "stadium"],
+"AtLocation": ["baton rouge louisiana"],
+},
+
+{
+"type":"specie",
+},
+
+{
+"type":"ambystoma californiense",
+},
+
+{
+"type":"mate",
+},
+
+{
+"type":"snow spot",
+},
+
+{
+"type":"hm lion",
+"Description":"1910",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"republic tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"indian sand tiger",
+"IsA": ["fish"],
+},
+
+{
+"type":"tame tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"panthera pardus",
+},
+
+{
+"type":"cayman island",
+},
+
+{
+"type":"bird",
+"IsA": ["animal"],
+},
+
+{
+"type":"myrmeleon",
+"Description":"antlions",
+},
+
+{
+"type":"roar lion river",
+"IsA": ["stream", "natural place", "place", "river"],
+},
+
+{
+"type":"leopard dace",
+"IsA": ["fish"],
+},
+
+{
+"type":"born lion",
+"IsA": ["album"],
+},
+
+{
+"type":"histria tiger",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"one day as lion",
+"Description":"ep",
+"IsA": ["album", "extend play"],
+},
+
+{
+"type":"seychelles tiger chameleon",
+"IsA": ["reptile"],
+},
+
+{
+"type":"end lion",
+},
+
+{
+"type":"water ski",
+"DerivedFrom": ["water ski"],
+},
+
+{
+"type":"gazelle in stomach",
+"AtLocation": ["lion"],
+},
+
+{
+"type":"old red lion theatre",
+"IsA": ["build", "fringe theatre", "theatre", "place", "architectural structure"],
+},
+
+{
+"type":"town",
+"IsA": ["place"],
+},
+
+{
+"type":"lion hair",
+},
+
+{
+"type":"nissan leopard",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"tiger and snow",
+"IsA": ["film"],
+},
+
+{
+"type":"bigeye sand tiger",
+"IsA": ["fish"],
+},
+
+{
+"type":"black earth tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"northern leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"australia",
+},
+
+{
+"type":"hunt zebra",
+},
+
+{
+"type":"stockholm",
+},
+
+{
+"type":"india but not in africa",
+},
+
+{
+"type":"tiger bay state forest",
+"IsA": ["place", "protect area"],
+"AtLocation": ["florida", "volusia county florida"],
+},
+
+{
+"type":"churchill leopard",
+"IsA": ["film"],
+},
+
+{
+"type":"rana",
+"Description":"type genus of the ranidae",
+},
+
+{
+"type":"prey on other animal",
+},
+
+{
+"type":"attack of tiger",
+"IsA": ["television episode"],
+},
+
+{
+"type":"leopard tortoise",
+"IsA": ["reptile"],
+},
+
+{
+"type":"twin tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"tiger",
+"Description":"security software",
+"IsA": ["software"],
+},
+
+{
+"type":"grunter",
+},
+
+{
+"type":"lion mane",
+},
+
+{
+"type":"bloemfontein young tiger",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"jaguar 420 and daimler sovereign",
+"Description":"1966Ã¢â‚¬â€œ69",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"UsedFor",
+},
+
+{
+"type":"spot",
+},
+
+{
+"type":"lion and unicorn",
+"Description":"journal",
+"IsA": ["periodical literature", "academic journal", "write work"],
+},
+
+{
+"type":"this picture",
+"IsA": ["paint you can see four different animal on picture on leave you see grey elefant then you can see tree on right lion be lie on grind sky on leave look brigt sky on leave look like sun-rise"],
+},
+
+{
+"type":"paint tiger parrot",
+"IsA": ["bird"],
+},
+
+{
+"type":"lion corporation",
+"IsA": ["organisation", "company", "kabushiki gaisha"],
+"AtLocation": ["japan", "sumida tokyo"],
+},
+
+{
+"type":"hunt human",
+},
+
+{
+"type":"lion-en-sullias",
+"IsA": ["populate place", "place", "settlement"],
+},
+
+{
+"type":"car",
+"Description":"a motor vehicle with four wheels",
+},
+
+{
+"type":"livingston island",
+"IsA": ["place"],
+},
+
+{
+"type":"fender musical instrument corporation",
+"IsA": ["privately hold company", "organisation", "company"],
+"AtLocation": ["unite state", "scottsdale arizona"],
+},
+
+{
+"type":"gambelia",
+"Description":"leopard lizards",
+"IsA": ["reptile genus"],
+"MemberOf": ["iguanidae"],
+},
+
+{
+"type":"lion air",
+"IsA": ["airline", "organisation", "company"],
+},
+
+{
+"type":"glimpse of tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tooth of lion rule divine",
+"IsA": ["band"],
+},
+
+{
+"type":"rugby player",
+},
+
+{
+"type":"lionheart",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"greek mythology",
+"Description":"the mythology of the ancient greeks",
+},
+
+{
+"type":"mandy lion",
+"IsA": ["artist", "musical artist", "person"],
+},
+
+{
+"type":"fish genus",
+"Description":"any of various genus of fish",
+},
+
+{
+"type":"black tiger",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"lion",
+"hasContext": ["lie down", "large wild cat", "airline", "plural", "musical work", "new york city", "battlecruiser", "dangerous game", "end lion", "build", "with mane", "television episode", "leaf", "top of mountain", "yarn", "hunt gazelle", "comic character", "small lion", "tiger kin", "insect", "scary roar", "sound scary", "be eat by lion", "train his cat", "macaca silenus", "halmstad", "infrastructure", "fear massai warrior", "buy meat in shop", "beast", "endagered specie", "subspecies of western mountain lion", "also lion", "salisbury north carolina", "ink lion", "lion frog", "stream", "eat elephant", "kin", "young lion", "mountain lion", "carnivore he only eat meat", "paint you can see four different animal on picture on leave you see grey elefant then you can see tree on right lion be lie on grind sky on leave look brigt sky on leave look like sun-rise", "privately hold company", "lion howl", "el dorado arkansas", "suspension bridge", "deal with lion", "find in zoo", "ship", "educational institution", "periodical literature", "veldt", "act in tarzan movie", "play in wizard of oz", "trap lion", "lion noise", "london borough of tower hamlet", "japanese", "secularity", "paint", "felidae", "cry", "mouth of lion", "tame lion", "washington", "in veldt", "jungle king", "plain sight of lion", "judah", "find in troop", "dangerous to person", "larva", "big mane", "military conflict", "cat lion", "lion as pet", "tarzan movie", "legal case", "record label", "man animal", "fear lion", "artist", "plainview", "cartoon", "eat cabbage", "planet", "beat lion", "circle it prey", "mythical monster", "british royalty", "able to do many other thing", "myrmeleon", "event", "big cat", "hunt zebra", "chobe", "bridge", "low mainland", "lion shout", "die from lion catch it", "lion voice", "service club", "sharp tooth", "populate place", "relate to mountain lion", "do not eat cabbage", "tolerate fly", "old testament", "american football team", "call cougers and panther", "lion belly", "atrocious animal", "lion need", "big", "sunset on leave", "elizabethan era", "chrysopidae", "egyptian deity", "large animal", "musical artist", "food", "santa monica california", "safari", "call cougar", "rhodesian ridgeback", "lion sound", "belly of lion", "organisation", "rotary lion", "find in pride", "mate", "keep lion", "lion lamb", "hemerobiidae", "repel lion", "natural place", "forceps", "like lion", "large wild cat that life in north america", "wilkes-barre pennsylvania", "lion and", "office holder", "lion fur", "london", "academic journal", "celebrity", "add thrill to circus", "greek mythology", "live in den", "fringe theatre", "eat gazelle", "lion family", "speedway team", "safari animal", "throw to wolf", "cat family", "good hunter", "relate to cat", "cat and all cat can purr", "represent by lion", "statue", "theatre", "mean of transportation", "dangerous", "carnivore", "four leg", "beast king", "supreme court of unite state case", "foo dog", "extend play", "kill zebra", "lion mane", "lion tiger", "revere by early american", "aphis", "purr much loud than cat", "lion hair", "giraffe lion", "canadian football team", "scary away intruder", "young mammal", "train lion", "from africa", "company", "share zebra", "route of transportation", "book", "carnivoirs", "mane tooth", "carnivore animal", "what lion", "have circuis", "place", "lion group", "make nature movie", "lion den", "beard", "native to africa", "prey on other animal", "soundtrack", "wild cat", "be eat raw flesh", "panthera leo persica", "ballwin missouri", "fictional character", "architectural structure", "social climber", "mane on their head", "alert", "large than breadbox", "rush to and fro", "know as cougar", "nemean", "cun can purr much loud than cat", "specie", "hair lion", "almost exstinct in some area", "neuropteron", "military person", "wild", "large", "public company", "symbolize power", "lighthouse", "mammal family", "hurt person", "lion small animal could be ferret", "scarecrow lion", "unite state", "dangerous animal", "find in africa", "mountain", "kill", "agressive animal", "lie in jungle", "aggressive animal", "device", "sport team", "television show", "golden", "body of water", "pinnipedia", "kabushiki gaisha", "unite kingdom", "group of lion", "hunt for food", "tooth", "lion sometimes", "steel", "stadium", "eat other animal", "one of large marsupial carnivore", "king of animal kingdom", "symbol", "cave", "feline predator", "nabalus", "father some cub", "kill goat", "weapon", "carlstadt new jersey", "main cause of death among human", "settlement", "king of", "call puma or cougar", "live in group call pride", "hunt", "doe hunt", "protect area", "automobile", "african mammal", "fierce animal", "symbolize royalty", "lion", "herb", "in zoo", "musical", "lion stomach", "you see lion", "call king of jungle", "software", "film", "lion kin", "like cat", "zoo to have on display", "would eat all animal in this picture", "do not have lion as pet", "large beast", "live in africa", "japan", "group lion", "africa", "lion path", "world heritage site", "motherlode", "corner prey", "music download", "mammal genus", "video game", "soccer player", "mountain lion belly", "animal group", "represent courage", "sumida tokyo", "savannah", "eat your brother", "sound like lion", "single", "circus", "wild animal from africa", "hunt lion", "australia", "see lion", "eumetopias jubatus", "hunt prey", "purr", "abig cat", "locomotive", "prophet", "symbolize strenght", "marsupial", "dreadnought", "city town and borough", "write work", "entertain", "cowardly", "executive search", "hunter", "department store", "hunt human", "soccer club", "decendents of mountain lion", "meet lion", "award", "barbary lion", "large city zoo", "felis", "aircraft", "asian supermarket", "lion lie down", "sweden", "lion call", "groudle glen railway", "lion bear", "subsidiary", "keep as pet", "animal kingdom", "large group with other lion", "cage with lion", "big cat", "cat animal", "toledo ohio", "station"],
+},
+
+{
+"type":"alabama",
+"IsA": ["place"],
+"PartOf": ["unite state"],
+},
+
+{
+"type":"transport person across water very fast",
+},
+
+{
+"type":"three lion",
+"IsA": ["single"],
+},
+
+{
+"type":"wordnet",
+},
+
+{
+"type":"tiger mountain",
+"IsA": ["natural place", "mountain"],
+},
+
+{
+"type":"south american sea lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"amphibian",
+"IsA": ["animal"],
+},
+
+{
+"type":"namco tiger armor vehicle",
+"IsA": ["device", "weapon"],
+},
+
+{
+"type":"rush to and fro",
+},
+
+{
+"type":"large fierce shark",
+},
+
+{
+"type":"hm leopard",
+"Description":"1897",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"nemean lion",
+"Description":"an enormous lion strangled by hercules as the first of his 12 labors",
+"IsA": ["mythical monster"],
+},
+
+{
+"type":"roar",
+"RelatedTo": ["lion howl", "lion noise", "lion shout", "lion voice", "lion sound", "what lion", "lion call"],
+},
+
+{
+"type":"lemur",
+"AtLocation": ["mountain lion belly"],
+},
+
+{
+"type":"sannat lion f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"bcc lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"endagered specie",
+},
+
+{
+"type":"tiger brand",
+"IsA": ["jse limit", "organisation", "company", "public company"],
+"AtLocation": ["gauteng", "south africa"],
+},
+
+{
+"type":"manado yellow tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"ac lion",
+"IsA": ["privately hold company", "organisation", "company", "executive search"],
+"AtLocation": ["new york city", "unite state"],
+},
+
+{
+"type":"tiger bread",
+},
+
+{
+"type":"london",
+},
+
+{
+"type":"Causes",
+},
+
+{
+"type":"lion king",
+"Description":"video game",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"cougar",
+"Description":"large american feline resembling a lion",
+"IsA": ["wildcat"],
+"MemberOf": ["felis"],
+},
+
+{
+"type":"live in group call pride",
+},
+
+{
+"type":"leopard-skin pill-box hat",
+"IsA": ["single"],
+},
+
+{
+"type":"periodical literature",
+},
+
+{
+"type":"pride of lion",
+"IsA": ["band"],
+},
+
+{
+"type":"fly tiger",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger foot",
+"IsA": ["single"],
+},
+
+{
+"type":"eumetopias",
+"Description":"sea lions",
+"IsA": ["mammal genus"],
+"MemberOf": ["otariidae"],
+},
+
+{
+"type":"tiger rise",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"simon sorcerer i i lion wizard and wardrobe",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"smalltooth sand tiger",
+"IsA": ["fish"],
+},
+
+{
+"type":"ant lion",
+"Description":"winged insect resembling a dragonfly",
+"IsA": ["neuropteron"],
+"MemberOf": ["myrmeleon"],
+},
+
+{
+"type":"corporation",
+"IsA": ["company"],
+},
+
+{
+"type":"train lion",
+},
+
+{
+"type":"carbon fibre fin",
+},
+
+{
+"type":"catch tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"tiger daughter",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"lion shout",
+},
+
+{
+"type":"tiger brennan drive",
+"IsA": ["infrastructure", "route of transportation", "architectural structure", "road"],
+},
+
+{
+"type":"cougar",
+"Synonym": ["mountain lion"],
+},
+
+{
+"type":"hm leopard",
+"Description":"1790",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"lion witch and wardrobe",
+"Description":"1979 film",
+"IsA": ["film"],
+},
+
+{
+"type":"mountain ghost",
+"Synonym": ["mountain lion"],
+},
+
+{
+"type":"lionhearted",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"scottsdale arizona",
+},
+
+{
+"type":"indian ghost",
+"Synonym": ["mountain lion"],
+},
+
+{
+"type":"tigress",
+"RelatedTo": ["tiger"],
+},
+
+{
+"type":"baja california leopard lizard",
+"IsA": ["reptile"],
+},
+
+{
+"type":"cub",
+"Description":"the young of certain carnivorous mammals such as the bear or wolf or lion",
+"IsA": ["young mammal"],
+},
+
+{
+"type":"jaguar smile",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"sabre-toothed",
+},
+
+{
+"type":"tiger men magazine",
+"IsA": ["magazine"],
+},
+
+{
+"type":"sea lion",
+"Description":"locomotive",
+"IsA": ["mean of transportation", "locomotive"],
+},
+
+{
+"type":"subsidiary",
+},
+
+{
+"type":"ice hockey player",
+},
+
+{
+"type":"run in snow",
+},
+
+{
+"type":"planet",
+},
+
+{
+"type":"london lion f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"british royalty",
+},
+
+{
+"type":"fasciated tiger heron",
+"IsA": ["bird"],
+},
+
+{
+"type":"executive search",
+},
+
+{
+"type":"hunt lion",
+},
+
+{
+"type":"be tiger",
+},
+
+{
+"type":"see lion",
+},
+
+{
+"type":"tuscany lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"fur",
+"Description":"the dressed hairy coat of a mammal",
+},
+
+{
+"type":"find in zoo",
+},
+
+{
+"type":"aggressive animal",
+},
+
+{
+"type":"bengal tiger",
+"Description":"2001 film",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger haynes",
+"IsA": ["person"],
+},
+
+{
+"type":"tiger salamander",
+"Description":"widely distributed brown or black north american salamander with vertical yellowish blotches",
+"IsA": ["ambystomid"],
+},
+
+{
+"type":"motorboat",
+"Description":"a boat propelled by an internal-combustion engine",
+},
+
+{
+"type":"company",
+},
+
+{
+"type":"fender",
+"Description":"an inclined metal frame at the front of a locomotive to clear the track",
+"IsA": ["framework"],
+"PartOf": ["locomotive"],
+},
+
+{
+"type":"lucky one",
+"Description":"pride tiger album",
+"IsA": ["album"],
+},
+
+{
+"type":"fender skirt",
+"Synonym": ["spat"],
+},
+
+{
+"type":"ant lion",
+"IsA": ["insect"],
+},
+
+{
+"type":"pakhui tiger reserve",
+"IsA": ["administrative region", "populate place", "place"],
+},
+
+{
+"type":"eat",
+},
+
+{
+"type":"colombo",
+},
+
+{
+"type":"sunbeam tiger",
+"Description":"1925",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"rufescent tiger heron",
+"IsA": ["bird"],
+},
+
+{
+"type":"jaguar xj r-12",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"pennsylvania",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"escape tiger",
+},
+
+{
+"type":"blue tiger",
+"Description":"locomotive",
+"IsA": ["mean of transportation", "locomotive"],
+},
+
+{
+"type":"pedro lion",
+"IsA": ["band"],
+},
+
+{
+"type":"wrestler",
+},
+
+{
+"type":"lion king simba mighty adventure",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"boat",
+},
+
+{
+"type":"no emmisions law",
+"AtLocation": ["speedboat in many state"],
+},
+
+{
+"type":"definitive rock collection",
+"Description":"white lion album",
+"IsA": ["album"],
+},
+
+{
+"type":"tiger pistol shrimp",
+"IsA": ["crustacean"],
+},
+
+{
+"type":"grumman f-11 tiger",
+"IsA": ["fighter aircraft", "mean of transportation", "aircraft"],
+},
+
+{
+"type":"fearless tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"do not have lion as pet",
+},
+
+{
+"type":"sound of speedboat",
+"ReceivesAction": ["hear from great distance"],
+},
+
+{
+"type":"fender blemish",
+},
+
+{
+"type":"leopardus tigrinus",
+},
+
+{
+"type":"find in leap",
+},
+
+{
+"type":"tiger wife",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"complete very well at golf",
+},
+
+{
+"type":"smiledon californicus",
+"Description":"north american sabertooth",
+"IsA": ["saber-toothed tiger"],
+"MemberOf": ["smiledon"],
+},
+
+{
+"type":"meet lion",
+},
+
+{
+"type":"fender-bender",
+"Description":"a collision between motor vehicles that produces minor damage",
+"IsA": ["collision"],
+},
+
+{
+"type":"tiger tyson",
+"IsA": ["adult actor", "actor"],
+},
+
+{
+"type":"social climber",
+"Description":"someone seeking social prominence by obsequious behavior",
+},
+
+{
+"type":"hunt for food",
+},
+
+{
+"type":"hm lion",
+"Description":"1709",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"operation steel tiger",
+"IsA": ["military conflict", "event"],
+"PartOf": ["vietnam war"],
+},
+
+{
+"type":"western leopard toad",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"four lion",
+"IsA": ["film"],
+},
+
+{
+"type":"attack helicopter",
+},
+
+{
+"type":"trap tiger",
+},
+
+{
+"type":"scary roar",
+},
+
+{
+"type":"lion and cobra",
+"IsA": ["album"],
+},
+
+{
+"type":"extreme tiger",
+"IsA": ["athlete", "wrestler"],
+},
+
+{
+"type":"bread",
+},
+
+{
+"type":"jaguar xk",
+"Description":"x150",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"transit bus",
+},
+
+{
+"type":"black fender",
+"IsA": ["single"],
+},
+
+{
+"type":"tiger tail",
+"IsA": ["film"],
+},
+
+{
+"type":"fighter aircraft",
+},
+
+{
+"type":"paper tiger and possess no tooth",
+},
+
+{
+"type":"go ghetto tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"tiger lily",
+"Description":"uk band",
+"IsA": ["band"],
+},
+
+{
+"type":"magazine",
+"IsA": ["periodical literature", "write work"],
+},
+
+{
+"type":"have circuis",
+},
+
+{
+"type":"find in troop",
+},
+
+{
+"type":"veldt",
+},
+
+{
+"type":"snow leopard trust",
+"IsA": ["non-profit organisation", "organisation"],
+"AtLocation": ["seattle"],
+},
+
+{
+"type":"lion of desert",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger quoll",
+"IsA": ["mammal"],
+},
+
+{
+"type":"groudle glen railway",
+},
+
+{
+"type":"tiger on beat",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger road",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"call puma or cougar",
+},
+
+{
+"type":"tiger lillie",
+"IsA": ["band"],
+},
+
+{
+"type":"tex-mex",
+"Description":"freddy fender album",
+"IsA": ["album"],
+},
+
+{
+"type":"leopard 6 litre roadster",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"tiger in smoke",
+"IsA": ["book", "film", "write work"],
+},
+
+{
+"type":"american lion",
+"Description":"book",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"cat lion",
+},
+
+{
+"type":"lion and witch",
+"IsA": ["album", "extend play"],
+},
+
+{
+"type":"natural place",
+},
+
+{
+"type":"neofelis nebulosa",
+},
+
+{
+"type":"world heritage site",
+},
+
+{
+"type":"group",
+"Description":"military aviation unit",
+},
+
+{
+"type":"kirby tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"do not eat cabbage",
+},
+
+{
+"type":"in africa",
+},
+
+{
+"type":"lion rock",
+"IsA": ["natural place", "mountain"],
+},
+
+{
+"type":"blind",
+},
+
+{
+"type":"beauty be tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"men who tread on tiger tail",
+"IsA": ["film"],
+},
+
+{
+"type":"cat",
+"IsA": ["wild animal", "predator", "mammal", "feline"],
+"RelatedTo": ["small tiger", "small lion", "little tiger", "house tiger"],
+"PartOf": ["fur"],
+},
+
+{
+"type":"tiger will survive",
+"IsA": ["album"],
+},
+
+{
+"type":"battle hymn of tiger mother",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"zuoying district",
+},
+
+{
+"type":"lion frog",
+},
+
+{
+"type":"american lion",
+"IsA": ["mammal"],
+"Synonym": ["mountain lion"],
+},
+
+{
+"type":"half black half asian",
+},
+
+{
+"type":"sand tiger",
+"Description":"shallow-water shark with sharp jagged teeth found on both sides of atlantic",
+"IsA": ["shark"],
+"MemberOf": ["carcharias"],
+},
+
+{
+"type":"hm lion",
+"Description":"1777",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"supermarine sea lion ii",
+"IsA": ["mean of transportation", "aircraft"],
+},
+
+{
+"type":"jaguar xj r-15",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"lady or tiger",
+"DerivedFrom": ["lady"],
+},
+
+{
+"type":"felder tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"sunda cloud leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"march",
+"RelatedTo": ["lion", "lion lamb"],
+},
+
+{
+"type":"ambystomid",
+"Description":"small to moderate-sized terrestrial or semiaquatic new world salamander",
+},
+
+{
+"type":"ride tiger",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"you see lion",
+},
+
+{
+"type":"south china tiger",
+"IsA": ["mammal"],
+},
+
+{
+"type":"sumbawa tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"limit partnership",
+},
+
+{
+"type":"panthera leo persica",
+},
+
+{
+"type":"p. lion",
+"IsA": ["artist", "musical artist", "person"],
+},
+
+{
+"type":"jaguar xk",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"tiger dance",
+"IsA": ["album"],
+},
+
+{
+"type":"be eat by lion",
+},
+
+{
+"type":"young lion",
+"Description":"tv series",
+"IsA": ["television show"],
+"AtLocation": ["sydney", "australia", "new south wale"],
+},
+
+{
+"type":"coventry",
+},
+
+{
+"type":"queensland lion soccer club",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"leopard flounder",
+"IsA": ["fish"],
+},
+
+{
+"type":"siberian tiger",
+"IsA": ["mammal"],
+"DerivedFrom": ["siberian", "tiger"],
+},
+
+{
+"type":"than",
+},
+
+{
+"type":"i never",
+"AtLocation": ["speedboat"],
+},
+
+{
+"type":"picture be in two part on leave be elephant stand against sunset sky on right giraffe and something that look like buffalo be stand in front of tree behind which sky be blue in foreground span both pictures",
+"IsA": ["lion lie down"],
+},
+
+{
+"type":"paint you can see four different animal on picture on leave you see grey elefant then you can see tree on right lion be lie on grind sky on leave look brigt sky on leave look like sun-rise",
+},
+
+{
+"type":"entertain",
+},
+
+{
+"type":"circus trainer",
+"CapableOf": ["train tiger"],
+},
+
+{
+"type":"courage",
+"RelatedTo": ["lion", "lion need", "cowardly lion"],
+"Antonym": ["cowardly lion"],
+},
+
+{
+"type":"jaguar xj",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"baltimore",
+"IsA": ["place"],
+},
+
+{
+"type":"supermarine sea lion i",
+"IsA": ["mean of transportation", "aircraft"],
+},
+
+{
+"type":"scarecrow lion",
+},
+
+{
+"type":"young mammal",
+"Description":"any immature mammal",
+},
+
+{
+"type":"cub",
+"DerivedFrom": ["cub"],
+},
+
+{
+"type":"like cat",
+},
+
+{
+"type":"sumida tokyo",
+},
+
+{
+"type":"repair shop",
+},
+
+{
+"type":"small lion",
+},
+
+{
+"type":"son of lion",
+"IsA": ["film"],
+},
+
+{
+"type":"clutch of tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"machias maine",
+"IsA": ["place"],
+},
+
+{
+"type":"australian sea lion",
+"Description":"a variety of sea lion found in australia",
+"IsA": ["sea lion"],
+"MemberOf": ["zalophus"],
+},
+
+{
+"type":"hasText",
+},
+
+{
+"type":"blue tiger",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"lion",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"stripe tail",
+},
+
+{
+"type":"paper tiger",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"lion commentary on unix 6th edition with source code",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"Jaguar D-Type",
+"hasContext": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"decendents of mountain lion",
+},
+
+{
+"type":"young lion",
+},
+
+{
+"type":"invincible tiger legend of han tao",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"lion path",
+},
+
+{
+"type":"leopard lily",
+"Description":"lily of western united states having orange-red to crimson maroon-spotted flowers",
+"IsA": ["lily"],
+},
+
+{
+"type":"us coeur de lion",
+"Description":"1861",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"lion of judah",
+"IsA": ["live album", "film"],
+"DerivedFrom": ["judah", "lion"],
+},
+
+{
+"type":"superagui lion tamarin",
+"IsA": ["mammal"],
+},
+
+{
+"type":"dirty tiger crazy frog",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger beetle",
+"IsA": ["insect"],
+"DerivedFrom": ["tiger"],
+},
+
+{
+"type":"jharkhand",
+"IsA": ["place"],
+},
+
+{
+"type":"mouth of lion",
+},
+
+{
+"type":"hasContext",
+},
+
+{
+"type":"predatory carnivore and so may attack person",
+},
+
+{
+"type":"leopard syndrome",
+"IsA": ["disease"],
+},
+
+{
+"type":"television show",
+},
+
+{
+"type":"supreme court of unite state case",
+},
+
+{
+"type":"jaguar xj",
+"Description":"x351",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"speedboat race",
+"HasProperty": ["noisy"],
+},
+
+{
+"type":"grumman f 11 f super tiger",
+"IsA": ["fighter aircraft", "mean of transportation", "aircraft"],
+},
+
+{
+"type":"snow",
+},
+
+{
+"type":"lion foot",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"scientist",
+"IsA": ["person"],
+},
+
+{
+"type":"tiger",
+"Description":"the group",
+"IsA": ["band"],
+},
+
+{
+"type":"ligularia",
+"Description":"leopard plants",
+"IsA": ["asterid dicot genus"],
+"MemberOf": ["compositae"],
+},
+
+{
+"type":"lady",
+},
+
+{
+"type":"bornean cloud leopard",
+"RelatedTo": ["cloud leopard"],
+},
+
+{
+"type":"monkey and tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"world war i i when lion roar",
+"IsA": ["film"],
+},
+
+{
+"type":"very large cat",
+},
+
+{
+"type":"primovula panthera",
+"IsA": ["animal", "mollusca"],
+},
+
+{
+"type":"ek tha tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"fear of tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"tiger prabhakar",
+"IsA": ["person"],
+},
+
+{
+"type":"homebuilt aircraft",
+},
+
+{
+"type":"hemerobiidae",
+"Description":"brown lacewings",
+},
+
+{
+"type":"liliane tiger",
+"IsA": ["adult actor", "actor"],
+},
+
+{
+"type":"sphinx",
+"Description":"a riddling winged monster with a woman&apos;s head and breast on a lion&apos;s body",
+"IsA": ["mythical monster"],
+},
+
+{
+"type":"animal trainer",
+"NotDesires": ["beeaten by tiger"],
+},
+
+{
+"type":"bridgwater",
+"IsA": ["place"],
+},
+
+{
+"type":"leopardess",
+"Description":"female leopard",
+"IsA": ["leopard"],
+},
+
+{
+"type":"trelawny tiger",
+"IsA": ["organisation", "speedway team", "sport team"],
+},
+
+{
+"type":"fly tiger",
+"IsA": ["group", "organisation", "military unit"],
+},
+
+{
+"type":"lion-peugeot type vd 2",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"go to zoo",
+"Causes": ["see lion", "yout to see tiger", "meet lion"],
+"HasSubevent": ["you see lion"],
+},
+
+{
+"type":"fictional character",
+},
+
+{
+"type":"sinbad and eye of tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"best golfer",
+},
+
+{
+"type":"painter",
+"Synonym": ["mountain lion"],
+},
+
+{
+"type":"hm lion",
+"Description":"1847",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"judah",
+},
+
+{
+"type":"tiger cat",
+"Description":"a cat having a striped coat",
+"IsA": ["domestic cat"],
+},
+
+{
+"type":"lion and",
+},
+
+{
+"type":"lion-peugeot type vc 3",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"lion stomach",
+},
+
+{
+"type":"burlington county new jersey",
+"IsA": ["place"],
+},
+
+{
+"type":"tiger island",
+"IsA": ["stratovolcano", "natural place", "mountain"],
+},
+
+{
+"type":"gambelia silus",
+},
+
+{
+"type":"hm tiger",
+"Description":"c20",
+"IsA": ["tiger class cruiser"],
+},
+
+{
+"type":"carnivore animal",
+},
+
+{
+"type":"bc lion",
+"IsA": ["organisation", "canadian football team", "sport team"],
+"AtLocation": ["british columbia", "vancouver", "canada"],
+},
+
+{
+"type":"sea lion cave",
+"IsA": ["natural place", "place", "cave"],
+"AtLocation": ["lane county oregon"],
+},
+
+{
+"type":"zalophus",
+"Description":"sea lions",
+"IsA": ["mammal genus"],
+"MemberOf": ["otariidae"],
+},
+
+{
+"type":"indochinese leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"m tiger f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"white tiger",
+"Description":"heroes for hire",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"cave",
+},
+
+{
+"type":"baton rouge louisiana",
+"IsA": ["place"],
+},
+
+{
+"type":"small fast boat",
+},
+
+{
+"type":"rattlesnake",
+"Description":"pit viper with horny segments at the end of the tail that rattle when shaken",
+},
+
+{
+"type":"lion-peugeot type vc 2",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"jaguar",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"symbolize strenght",
+},
+
+{
+"type":"saber-toothed tiger",
+"DerivedFrom": ["saber-toothed"],
+},
+
+{
+"type":"leopard fringe-fingered lizard",
+"IsA": ["reptile"],
+},
+
+{
+"type":"main battle tank",
+"IsA": ["device", "weapon"],
+},
+
+{
+"type":"jaguar land rover",
+"IsA": ["organisation", "company", "subsidiary"],
+"AtLocation": ["gaydon"],
+},
+
+{
+"type":"IsA",
+},
+
+{
+"type":"my tiger my time",
+"IsA": ["band"],
+},
+
+{
+"type":"statue",
+"Description":"a sculpture representing a human or animal",
+},
+
+{
+"type":"androcles and lion",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"chrysopidae",
+"Description":"green lacewings",
+},
+
+{
+"type":"marsupial",
+},
+
+{
+"type":"least tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"lion",
+"Description":"the hot monkey album",
+"IsA": ["album"],
+},
+
+{
+"type":"mammal family",
+"Description":"a family of mammals",
+},
+
+{
+"type":"mudguard",
+"Synonym": ["fender"],
+},
+
+{
+"type":"detroit",
+"IsA": ["place"],
+},
+
+{
+"type":"lion claw",
+"IsA": ["film"],
+},
+
+{
+"type":"stripe cat",
+},
+
+{
+"type":"lion witch and wardrobe",
+"Description":"1967 tv serial",
+"IsA": ["television show"],
+},
+
+{
+"type":"plain sight of lion",
+},
+
+{
+"type":"ridin tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"lion air australia",
+"IsA": ["airline", "organisation", "company"],
+},
+
+{
+"type":"ceylon tiger",
+"Description":"butterfly",
+"IsA": ["insect"],
+},
+
+{
+"type":"atlas lion",
+"Synonym": ["barbary lion"],
+},
+
+{
+"type":"tiger smith",
+"IsA": ["athlete", "cricketer"],
+},
+
+{
+"type":"eastern tiger swallowtail",
+"IsA": ["insect"],
+},
+
+{
+"type":"sport team",
+},
+
+{
+"type":"operation tiger hammer",
+"IsA": ["military conflict", "event"],
+"PartOf": ["post-invasion iraq"],
+},
+
+{
+"type":"leopard frog",
+"IsA": ["animal"],
+},
+
+{
+"type":"two tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"essendon lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"tiger wood pga tour 2004",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"lion",
+"Description":"locomotive",
+"IsA": ["build", "place", "architectural structure"],
+"AtLocation": ["machias maine"],
+},
+
+{
+"type":"lion-jaw forceps",
+"Description":"a type of forceps",
+"IsA": ["forceps"],
+},
+
+{
+"type":"extend play",
+},
+
+{
+"type":"white lion hit version vol 1",
+"IsA": ["album"],
+},
+
+{
+"type":"sumatran tiger",
+"IsA": ["mammal"],
+"DerivedFrom": ["tiger"],
+},
+
+{
+"type":"snow leopard commando unit",
+"IsA": ["organisation", "military unit", "special force"],
+},
+
+{
+"type":"dannatt tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"know as cougar",
+},
+
+{
+"type":"musical",
+},
+
+{
+"type":"cat family",
+},
+
+{
+"type":"lion",
+"Description":"video game",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"tiger army",
+"IsA": ["band"],
+},
+
+{
+"type":"palamau tiger reserve",
+"IsA": ["place", "protect area"],
+"AtLocation": ["india", "jharkhand"],
+},
+
+{
+"type":"guard",
+"Description":"a device designed to prevent injury or accidents",
+},
+
+{
+"type":"lion capital llp",
+"IsA": ["privately hold company", "organisation", "company"],
+"AtLocation": ["london", "unite kingdom"],
+},
+
+{
+"type":"plateau tiger salamander",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"from lion mouth",
+"IsA": ["album"],
+},
+
+{
+"type":"act in tarzan movie",
+},
+
+{
+"type":"state",
+"Description":"a politically organized body of people under a single government",
+},
+
+{
+"type":"gazelle",
+"AtLocation": ["mouth of lion", "plain sight of lion", "lion belly", "belly of lion", "lion stomach", "lion path"],
+},
+
+{
+"type":"play golf",
+},
+
+{
+"type":"tiger london zoological garden",
+"IsA": ["film"],
+},
+
+{
+"type":"bridge of lion",
+"IsA": ["infrastructure", "bridge", "route of transportation", "place", "architectural structure", "steel"],
+},
+
+{
+"type":"detroit tiger minor league player",
+"IsA": ["baseball player"],
+},
+
+{
+"type":"tigrine",
+"RelatedTo": ["tiger beetle", "tiger"],
+},
+
+{
+"type":"trinil tiger",
+"IsA": ["mammal"],
+},
+
+{
+"type":"cat and all cat can purr",
+},
+
+{
+"type":"book",
+},
+
+{
+"type":"lion mouse",
+"IsA": ["book", "film", "write work"],
+},
+
+{
+"type":"aphis-lion",
+"DerivedFrom": ["aphis"],
+},
+
+{
+"type":"miniature tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"young of tiger and tigress",
+"IsA": ["cub"],
+},
+
+{
+"type":"album",
+"IsA": ["musical work"],
+},
+
+{
+"type":"lion-peugeot type v 2 y 3",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"lion-peugeot type vc and vc 1",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"great white tiger platoon",
+"IsA": ["film"],
+},
+
+{
+"type":"fly tiger",
+"Description":"marvel comics",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"fender bender",
+},
+
+{
+"type":"person front of liberation tiger",
+"IsA": ["political party", "organisation"],
+},
+
+{
+"type":"opelika alabama",
+"IsA": ["place"],
+},
+
+{
+"type":"salt creek tiger beetle",
+"IsA": ["insect"],
+},
+
+{
+"type":"cricketer",
+},
+
+{
+"type":"korea university",
+},
+
+{
+"type":"village",
+"IsA": ["place"],
+},
+
+{
+"type":"jaguar xjs",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"large wild cat",
+},
+
+{
+"type":"seven and rag tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"tamil tiger",
+"DerivedFrom": ["tamil"],
+},
+
+{
+"type":"han lion",
+"IsA": ["athlete"],
+},
+
+{
+"type":"theatre",
+},
+
+{
+"type":"flashman and tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"chesapeakeÃ¢â‚¬â€œ leopard affair",
+"IsA": ["military conflict", "event"],
+"PartOf": ["origin of war of 1812"],
+},
+
+{
+"type":"tower block",
+},
+
+{
+"type":"el dorado county california",
+"IsA": ["populate place", "place", "settlement"],
+"PartOf": ["california"],
+},
+
+{
+"type":"golf leopard f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"snow tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"paper tiger",
+"Description":"the nature of a person or organization that appears powerful but is actually powerless and ineffectual",
+"IsA": ["powerlessness"],
+},
+
+{
+"type":"french ship lion",
+"Description":"1803",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"leopard&apos;s-bane",
+"Description":"any of several herbs of the genus doronicum having alternate often clasping stem leaves cultivated for their long stalks of yellow flower heads",
+"MemberOf": ["doronicum"],
+},
+
+{
+"type":"shark",
+},
+
+{
+"type":"wait",
+"Description":"white lion song",
+"IsA": ["single"],
+},
+
+{
+"type":"doronicum",
+"Description":"leopard&apos;s bane",
+"IsA": ["asterid dicot genus"],
+"MemberOf": ["compositae"],
+},
+
+{
+"type":"black",
+},
+
+{
+"type":"jaguar xk 150",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"bankstown city lion football club",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"hydrofoil",
+"Description":"a speedboat that is equipped with winglike structures that lift it so that it skims the water at high speeds",
+"IsA": ["speedboat"],
+},
+
+{
+"type":"squirrel",
+"RelatedTo": ["lion"],
+},
+
+{
+"type":"lion tamer",
+"UsedFor": ["lion"],
+},
+
+{
+"type":"pull tiger tail",
+"IsA": ["band"],
+},
+
+{
+"type":"lioness",
+"Description":"a female lion",
+"IsA": ["lion"],
+},
+
+{
+"type":"vicious animal",
+},
+
+{
+"type":"lion-peugeot type v 2 y 2",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"cartoon",
+},
+
+{
+"type":"red lion airport",
+"IsA": ["infrastructure", "airport", "architectural structure"],
+"AtLocation": ["burlington county new jersey"],
+},
+
+{
+"type":"nabalus",
+"Description":"genus of north american and east asian perennial herbs",
+},
+
+{
+"type":"jaguar mark v",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"exercise tiger",
+"IsA": ["military conflict", "event"],
+"PartOf": ["world war ii"],
+},
+
+{
+"type":"mythical monster",
+"Description":"a monster renowned in folklore and myth",
+},
+
+{
+"type":"subspecies of western mountain lion",
+},
+
+{
+"type":"housecats",
+"IsA": ["decendents of mountain lion"],
+"ReceivesAction": ["relate to mountain lion"],
+},
+
+{
+"type":"rio grande leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"atrocious animal",
+},
+
+{
+"type":"forceps",
+"Description":"an extractor consisting of a pair of pincers used in medical treatment",
+},
+
+{
+"type":"don randall",
+"Description":"fender",
+"IsA": ["person"],
+},
+
+{
+"type":"tiger",
+"Description":"the dance party album",
+"IsA": ["album"],
+},
+
+{
+"type":"remember white lion",
+"IsA": ["album"],
+},
+
+{
+"type":"eumetopias jubatus",
+},
+
+{
+"type":"DefinedAs",
+},
+
+{
+"type":"wildcat",
+"Description":"any small or medium-sized cat resembling the domestic cat and living in the wild",
+"MemberOf": ["felis"],
+},
+
+{
+"type":"Panthera genus",
+"hasContext": ["mammal genus"],
+},
+
+{
+"type":"bornean cloud leopard",
+},
+
+{
+"type":"leopard head",
+"RelatedTo": ["leopard"],
+},
+
+{
+"type":"fend",
+},
+
+{
+"type":"ethelbert tiger",
+"IsA": ["television show"],
+},
+
+{
+"type":"alert",
+},
+
+{
+"type":"elephant rhino lion and cape buffalo",
+"IsA": ["dangerous game"],
+},
+
+{
+"type":"big than",
+},
+
+{
+"type":"lion noise",
+},
+
+{
+"type":"pride",
+"Description":"a group of lions",
+"IsA": ["animal group"],
+},
+
+{
+"type":"den of lion",
+"IsA": ["film"],
+},
+
+{
+"type":"thylacine",
+},
+
+{
+"type":"tlaloc leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"sariska tiger reserve",
+"IsA": ["national park of india", "administrative region", "populate place", "place"],
+},
+
+{
+"type":"dangerous to person",
+},
+
+{
+"type":"aedes",
+"Description":"yellow-fever mosquitos",
+},
+
+{
+"type":"brehm tiger parrot",
+"IsA": ["bird"],
+},
+
+{
+"type":"large tiger and tiny cat",
+},
+
+{
+"type":"lion and tiger and bear",
+"IsA": ["album"],
+},
+
+{
+"type":"leopard shark",
+"IsA": ["fish"],
+"DerivedFrom": ["shark"],
+},
+
+{
+"type":"lion brand",
+"IsA": ["yarn", "organisation", "company"],
+"AtLocation": ["unite state", "carlstadt new jersey"],
+},
+
+{
+"type":"call king of jungle",
+},
+
+{
+"type":"bengal tiger at baghdad zoo",
+"IsA": ["play", "write work"],
+},
+
+{
+"type":"call cougers and panther",
+},
+
+{
+"type":"cheetah",
+"IsA": ["cat"],
+},
+
+{
+"type":"leopard-spotted swellshark",
+"IsA": ["fish"],
+},
+
+{
+"type":"tiger vnc",
+"IsA": ["software"],
+},
+
+{
+"type":"tail",
+"PartOf": ["animal", "cat", "zebra"],
+},
+
+{
+"type":"sea lion",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"lion group",
+},
+
+{
+"type":"Synonym",
+},
+
+{
+"type":"panthera",
+"Description":"lions",
+"IsA": ["mammal genus"],
+"MemberOf": ["felidae"],
+},
+
+{
+"type":"stratovolcano",
+},
+
+{
+"type":"panthera tigris",
+"Synonym": ["tiger"],
+},
+
+{
+"type":"InstanceOf",
+},
+
+{
+"type":"carcharhinidae",
+"Description":"largest family of living sharks",
+},
+
+{
+"type":"tarzan and golden lion",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"leopard",
+"IsA": ["cat"],
+"RelatedTo": ["spot tiger", "hunter", "snow spot", "have spot", "spot cat", "mac", "fawn", "big", "snow", "spot", "wild animal", "wild", "spot cheetah", "have", "mac software", "cat", "mac o", "streak", "jungle", "jungle cat", "large cat"],
+"RelatedTo": ["feline"],
+"RelatedTo": ["animal"],
+"RelatedTo": ["big cat", "wild cat", "software"],
+"RelatedTo": ["cat spot", "cheetah", "feline fawn"],
+"IsA": ["book"],
+"RelatedTo": ["o"],
+},
+
+{
+"type":"tiger arizona",
+"IsA": ["populate place", "ghost town", "town", "settlement"],
+"PartOf": ["arizona", "pinal county arizona"],
+},
+
+{
+"type":"speedboat in many state",
+},
+
+{
+"type":"amur leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"keep lion",
+},
+
+{
+"type":"lie down with lion",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"live in world",
+},
+
+{
+"type":"jungle king",
+},
+
+{
+"type":"tiger rockfish",
+"IsA": ["fish"],
+},
+
+{
+"type":"tiger army ii i ghost tiger rise",
+"IsA": ["album"],
+},
+
+{
+"type":"tiger onitsuka",
+"IsA": ["artist", "musical artist", "person"],
+},
+
+{
+"type":"jaguar xf",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"steel tiger record",
+"IsA": ["record label", "organisation", "company"],
+"AtLocation": ["yorkshire"],
+},
+
+{
+"type":"mane on their head",
+},
+
+{
+"type":"lion-peugeot type vy and vy 2",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"cat spot",
+},
+
+{
+"type":"automobile engine",
+},
+
+{
+"type":"leopard moth",
+"DerivedFrom": ["moth"],
+},
+
+{
+"type":"18079 lion-stoppato",
+"IsA": ["planet"],
+},
+
+{
+"type":"afghan leopard gecko",
+"IsA": ["reptile"],
+},
+
+{
+"type":"lion brewery inc",
+"IsA": ["organisation", "company"],
+"AtLocation": ["wilkes-barre pennsylvania"],
+},
+
+{
+"type":"chobe",
+},
+
+{
+"type":"HasA",
+},
+
+{
+"type":"fender",
+"Synonym": ["wing", "mudguard"],
+"PartOf": ["automobile"],
+},
+
+{
+"type":"make nature movie",
+},
+
+{
+"type":"lion of al-rassan",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"wembley lion",
+"Description":"speedway",
+"IsA": ["organisation", "speedway team", "sport team"],
+},
+
+{
+"type":"tarzan and leopard men",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"cowardly lion of oz",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"operation tiger",
+"IsA": ["military conflict", "event"],
+"PartOf": ["bosnian war"],
+},
+
+{
+"type":"tiger hill kargil",
+"IsA": ["natural place", "mountain"],
+},
+
+{
+"type":"behold lion",
+"IsA": ["album"],
+},
+
+{
+"type":"acre of lion",
+"IsA": ["band"],
+},
+
+{
+"type":"port lion alaska",
+"IsA": ["populate place", "city", "settlement", "city town and borough"],
+"PartOf": ["kodiak island borough alaska", "alaska"],
+},
+
+{
+"type":"streak",
+},
+
+{
+"type":"disease",
+},
+
+{
+"type":"hm tiger",
+"Description":"1913",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"sm leopard",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"us sea leopard",
+"Description":"ss-483",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"tiger lily",
+"RelatedTo": ["tiger beetle"],
+"DerivedFrom": ["lily"],
+},
+
+{
+"type":"vicious",
+},
+
+{
+"type":"i get tiger by tail",
+"Description":"buck owens album",
+"IsA": ["album", "studio album"],
+},
+
+{
+"type":"city",
+"IsA": ["place"],
+},
+
+{
+"type":"jaguarCarro",
+"hasContext": ["automobile", "boat"],
+},
+
+{
+"type":"sabre-toothed tiger",
+},
+
+{
+"type":"clemson tiger sport network",
+"IsA": ["organisation", "company"],
+"AtLocation": ["clemson south carolina"],
+},
+
+{
+"type":"tasmanian tiger",
+},
+
+{
+"type":"leopard catshark",
+"IsA": ["fish"],
+},
+
+{
+"type":"sekhet",
+"Description":"a lion-headed egyptian goddess",
+"InstanceOf": ["egyptian deity"],
+},
+
+{
+"type":"white-crested tiger heron",
+"IsA": ["bird"],
+},
+
+{
+"type":"guerreran leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"throw to lion",
+"Synonym": ["throw to wolf"],
+},
+
+{
+"type":"lion lamb man",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger-perch",
+"Synonym": ["jarbua terapon"],
+},
+
+{
+"type":"tiger blade",
+"IsA": ["film"],
+},
+
+{
+"type":"zampa lion",
+"IsA": ["fictional character", "person"],
+},
+
+{
+"type":"fold chair",
+"UsedFor": ["tame lion"],
+},
+
+{
+"type":"fisher r-80 tiger moth",
+"IsA": ["homebuilt aircraft", "mean of transportation", "aircraft"],
+},
+
+{
+"type":"dangerous",
+},
+
+{
+"type":"tiger colosseum",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"tiger of sea",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tasmanian tiger",
+"DefinedAs": ["thylacinus cynocephalus"],
+"Synonym": ["thylacine"],
+},
+
+{
+"type":"similar leopard",
+},
+
+{
+"type":"s. o s",
+"Description":"the tiger took my family",
+"IsA": ["single"],
+},
+
+{
+"type":"cyber tiger",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"tiger logic",
+"IsA": ["organisation", "company", "public company"],
+"AtLocation": ["california", "irvine california"],
+},
+
+{
+"type":"leopard who have run with me",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tarzan and lion man",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"leonine",
+},
+
+{
+"type":"lion of comarre and against fall of night",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"ambystoma tigrinum stebbinsi",
+},
+
+{
+"type":"larva",
+"Description":"the immature free-living form of most invertebrates and amphibians and fish which at hatching from the egg is fundamentally unlike its parent and must metamorphose",
+},
+
+{
+"type":"garden tiger moth",
+"IsA": ["insect"],
+"DerivedFrom": ["moth"],
+},
+
+{
+"type":"lion small animal could be ferret",
+},
+
+{
+"type":"carcharias",
+"Description":"sand sharks",
+},
+
+{
+"type":"crustacean",
+"IsA": ["animal"],
+},
+
+{
+"type":"jaguar mark x",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"irish tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"lion and liar",
+"IsA": ["album"],
+},
+
+{
+"type":"leonids",
+"RelatedTo": ["lion"],
+},
+
+{
+"type":"athlete",
+"IsA": ["person"],
+},
+
+{
+"type":"coleoptera",
+"Description":"beetles",
+},
+
+{
+"type":"rabun county georgia",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"relate to mountain lion",
+},
+
+{
+"type":"jaguar",
+"Description":"archie comics",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"lion cun",
+"CapableOf": ["purr much loud than cat"],
+},
+
+{
+"type":"sri lankan leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"yagoona lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"mac software",
+},
+
+{
+"type":"walrus",
+"RelatedTo": ["lion", "sea lion"],
+},
+
+{
+"type":"lynx",
+"RelatedTo": ["wild tiger", "tiger"],
+},
+
+{
+"type":"tiger in india but not",
+"AtLocation": ["in africa", "africa"],
+},
+
+{
+"type":"lion house bridgwater",
+"IsA": ["build", "place", "architectural structure"],
+"AtLocation": ["bridgwater"],
+},
+
+{
+"type":"kaohsiung",
+"IsA": ["place"],
+},
+
+{
+"type":"jaguar hunter",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"best of freddy fender",
+"IsA": ["album"],
+},
+
+{
+"type":"hurt person",
+},
+
+{
+"type":"happy tiger record",
+"IsA": ["record label", "organisation", "company"],
+"AtLocation": ["century city los angeles"],
+},
+
+{
+"type":"tiglon",
+"Description":"offspring of a male tiger and a female lion",
+"IsA": ["big cat"],
+},
+
+{
+"type":"de havilland tiger moth",
+"IsA": ["mean of transportation", "trainer", "aircraft"],
+},
+
+{
+"type":"king",
+"IsA": ["man"],
+},
+
+{
+"type":"african",
+"DerivedFrom": ["africa"],
+},
+
+{
+"type":"fat tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"hockey team",
+},
+
+{
+"type":"tiger elephant",
+},
+
+{
+"type":"carnivoirs",
+},
+
+{
+"type":"shark",
+"Description":"any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales",
+},
+
+{
+"type":"lion oil",
+"IsA": ["organisation", "company"],
+"AtLocation": ["el dorado arkansas"],
+},
+
+{
+"type":"fc inter lion ngoma",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"wild cat",
+},
+
+{
+"type":"trap lion",
+},
+
+{
+"type":"tarzan and leopard woman",
+"IsA": ["film"],
+},
+
+{
+"type":"porno",
+},
+
+{
+"type":"have",
+},
+
+{
+"type":"lion gate chorus",
+"IsA": ["band"],
+},
+
+{
+"type":"manticore",
+"Description":"a mythical monster having the head of man and the body of a lion and the tail of a scorpion",
+"IsA": ["mythical monster"],
+},
+
+{
+"type":"giraffe lion",
+},
+
+{
+"type":"eye of tiger",
+"IsA": ["single"],
+},
+
+{
+"type":"lily",
+"RelatedTo": ["tiger what", "tiger"],
+},
+
+{
+"type":"spat",
+"Synonym": ["fender skirt"],
+},
+
+{
+"type":"lion blood",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"stream",
+},
+
+{
+"type":"anti-tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"wind and lion",
+"IsA": ["film"],
+},
+
+{
+"type":"johnny tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"place",
+},
+
+{
+"type":"sea lion",
+"IsA": ["mammal"],
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"jaguar ss 100",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"little tiger of canton",
+"IsA": ["film"],
+},
+
+{
+"type":"lionship",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"some leopard",
+"HasProperty": ["black"],
+},
+
+{
+"type":"dick tiger",
+"IsA": ["athlete", "boxer"],
+},
+
+{
+"type":"european jaguar",
+"IsA": ["mammal"],
+},
+
+{
+"type":"leon",
+"RelatedTo": ["lion"],
+},
+
+{
+"type":"bronze tiger",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"leopard 1",
+"IsA": ["main battle tank"],
+},
+
+{
+"type":"sumatran chocolate tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"margo lion",
+"Description":"cabaret singer",
+"IsA": ["person"],
+},
+
+{
+"type":"newspaper",
+},
+
+{
+"type":"tiger lance",
+"IsA": ["athlete", "cricketer"],
+},
+
+{
+"type":"lion head light",
+"IsA": ["build", "place", "architectural structure", "lighthouse"],
+"AtLocation": ["georgian bay", "canada", "ontario"],
+},
+
+{
+"type":"amur tiger",
+"DerivedFrom": ["amur"],
+},
+
+{
+"type":"tiger telematics",
+"IsA": ["organisation", "company"],
+},
+
+{
+"type":"martinsburg west virginia",
+},
+
+{
+"type":"sm leopard",
+"Description":"auxiliary cruiser",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"california tiger salamander",
+"DefinedAs": ["ambystoma californiense"],
+},
+
+{
+"type":"moth",
+},
+
+{
+"type":"circus",
+},
+
+{
+"type":"less than 5,000 tiger",
+"CapableOf": ["live in world"],
+},
+
+{
+"type":"chronicle of narnia lion witch and wardrobe",
+"Description":"soundtrack",
+"IsA": ["album", "soundtrack"],
+},
+
+{
+"type":"taiwan",
+"IsA": ["place"],
+},
+
+{
+"type":"leopard frog",
+"Description":"common north american green or brownish frog having white-edged dark oval spots",
+"IsA": ["true frog"],
+"MemberOf": ["rana"],
+},
+
+{
+"type":"lioness",
+"IsA": ["female lion"],
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"lion-peugeot type v 2 c 3",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"leopard 2",
+"IsA": ["main battle tank"],
+},
+
+{
+"type":"carnivore he only eat meat",
+},
+
+{
+"type":"alaska",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"leopard change his spot",
+"DerivedFrom": ["change"],
+},
+
+{
+"type":"kill goat",
+},
+
+{
+"type":"hunt prey",
+},
+
+{
+"type":"tiger please",
+"IsA": ["band"],
+},
+
+{
+"type":"georgian bay",
+"IsA": ["place"],
+},
+
+{
+"type":"plural",
+"Description":"the form of a word that is used to denote more than one",
+},
+
+{
+"type":"kalakkad mundanthurai tiger reserve",
+"IsA": ["administrative region", "populate place", "place"],
+},
+
+{
+"type":"city town and borough",
+},
+
+{
+"type":"unite state",
+"IsA": ["place"],
+},
+
+{
+"type":"leopard",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"soccer player",
+},
+
+{
+"type":"widely-distributed spot wild cat",
+},
+
+{
+"type":"beeaten by tiger",
+},
+
+{
+"type":"spat",
+},
+
+{
+"type":"lion",
+"Description":"a celebrity who is lionized",
+"IsA": ["celebrity"],
+},
+
+{
+"type":"barrier",
+"Description":"a structure or object that impedes free movement",
+},
+
+{
+"type":"go tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"le jaguar",
+"IsA": ["film"],
+},
+
+{
+"type":"le lion-d anger",
+"IsA": ["populate place", "place", "settlement"],
+},
+
+{
+"type":"here come tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"lion-peugeot type v 2 c 2",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"giant leopard moth",
+"IsA": ["insect"],
+"DerivedFrom": ["moth"],
+},
+
+{
+"type":"leopard gecko",
+"IsA": ["reptile"],
+},
+
+{
+"type":"locomotive",
+"Description":"a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks",
+},
+
+{
+"type":"tiger-striped",
+},
+
+{
+"type":"tiger",
+"Description":"japanese band",
+"IsA": ["band"],
+},
+
+{
+"type":"top of mountain",
+},
+
+{
+"type":"indochinese tiger",
+"IsA": ["mammal"],
+},
+
+{
+"type":"richard lion-hearted",
+"Description":"1923 film",
+"IsA": ["film"],
+},
+
+{
+"type":"last day of celtic tiger",
+"IsA": ["play", "write work"],
+},
+
+{
+"type":"motherlode",
+},
+
+{
+"type":"czech lion",
+"IsA": ["award"],
+},
+
+{
+"type":"lion in morning",
+"IsA": ["album"],
+},
+
+{
+"type":"white tiger",
+"Description":"kasper cole",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"neuropteron",
+"Description":"insect having biting mouthparts and four large membranous wings with netlike veins",
+},
+
+{
+"type":"vox jaguar",
+"IsA": ["band"],
+},
+
+{
+"type":"lake",
+"IsA": ["natural place", "place", "body of water"],
+},
+
+{
+"type":"large than breadbox",
+},
+
+{
+"type":"manila lion f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"guitarraJaguar",
+"hasContext": ["musical work", "musical artist", "organisation"],
+},
+
+{
+"type":"steller sea lion",
+"IsA": ["mammal"],
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"great",
+"RelatedTo": ["tony tiger", "tiger"],
+},
+
+{
+"type":"keep as pet",
+},
+
+{
+"type":"beat lion",
+},
+
+{
+"type":"crouch tiger hide dragon",
+"Description":"video game",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"actual tiger",
+"Description":"willis",
+"IsA": ["band"],
+},
+
+{
+"type":"tiger fafara",
+"IsA": ["person"],
+},
+
+{
+"type":"academic journal",
+},
+
+{
+"type":"woolly bear moth",
+"Description":"larva of moth of the family arctiidae",
+"MemberOf": ["arctiidae"],
+},
+
+{
+"type":"honey in lion head",
+"IsA": ["album"],
+},
+
+{
+"type":"natural teak decking",
+},
+
+{
+"type":"easy tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"tiger woman",
+"Description":"1917 film",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger park",
+"IsA": ["build", "place", "architectural structure", "stadium"],
+"AtLocation": ["baton rouge louisiana"],
+},
+
+{
+"type":"beast king",
+},
+
+{
+"type":"jaguar mark vii",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"yorkshire",
+},
+
+{
+"type":"land rover",
+"AtLocation": ["jaguar land rover gaydon centre"],
+},
+
+{
+"type":"tiger snake",
+"IsA": ["reptile"],
+"DerivedFrom": ["tiger"],
+},
+
+{
+"type":"ten tiger from kwangtung",
+"IsA": ["film"],
+},
+
+{
+"type":"sporting character of Jaguar cars",
+},
+
+{
+"type":"white lion inn stratford-upon-avon",
+"IsA": ["build", "place", "architectural structure"],
+"AtLocation": ["stratford-upon-avon"],
+},
+
+{
+"type":"another name for cougar",
+"IsA": ["mountain lion"],
+},
+
+{
+"type":"wolf and lion",
+"IsA": ["television episode"],
+},
+
+{
+"type":"automobile",
+},
+
+{
+"type":"musical work",
+},
+
+{
+"type":"ball",
+"RelatedTo": ["tiger wood", "tiger"],
+},
+
+{
+"type":"tiger",
+"Description":"2007 film",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger jaw",
+"IsA": ["band"],
+},
+
+{
+"type":"saber-toothed tiger",
+"Description":"any of many extinct cats of the old and new worlds having long swordlike upper canine teeth",
+"IsA": ["big cat"],
+},
+
+{
+"type":"agreeable tiger moth",
+"IsA": ["insect"],
+},
+
+{
+"type":"jaguar",
+"Description":"a large spotted feline of tropical america similar to the leopard",
+"IsA": ["big cat"],
+"MemberOf": ["panthera"],
+},
+
+{
+"type":"lion voice",
+},
+
+{
+"type":"javan tiger",
+"IsA": ["mammal"],
+},
+
+{
+"type":"zanzibar leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"otariidae",
+"Description":"sea lions and fur seals",
+"IsA": ["mammal family"],
+"MemberOf": ["pinnipedia"],
+},
+
+{
+"type":"compositae",
+"Description":"aster",
+},
+
+{
+"type":"tiger jk",
+"IsA": ["artist", "musical artist", "person"],
+},
+
+{
+"type":"tiger hotel",
+"IsA": ["build", "place", "architectural structure"],
+"AtLocation": ["columbia missouri"],
+},
+
+{
+"type":"bengal tiger",
+"Description":"southern short-haired tiger",
+"IsA": ["tiger"],
+},
+
+{
+"type":"south american sea lion",
+"Description":"of the southern coast of south america",
+"IsA": ["sea lion"],
+"MemberOf": ["otaria"],
+},
+
+{
+"type":"hunt gazelle",
+},
+
+{
+"type":"buxa tiger reserve",
+"IsA": ["place", "protect area"],
+"AtLocation": ["west bengal", "india"],
+},
+
+{
+"type":"tolerate fly",
+},
+
+{
+"type":"as tall as lion",
+"IsA": ["band"],
+},
+
+{
+"type":"irvine california",
+"PartOf": ["california"],
+},
+
+{
+"type":"video game",
+},
+
+{
+"type":"tiger jones",
+"IsA": ["athlete", "boxer"],
+},
+
+{
+"type":"halmstad",
+},
+
+{
+"type":"london borough of tower hamlet",
+},
+
+{
+"type":"balinese tiger",
+"Synonym": ["bali tiger"],
+},
+
+{
+"type":"sharpe tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"mantegar",
+"Synonym": ["man-tiger"],
+},
+
+{
+"type":"barbary leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"Jaguar Cars",
+},
+
+{
+"type":"jaguar c-x 75",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"beverage",
+"IsA": ["food"],
+},
+
+{
+"type":"psychopsis",
+"Description":"epiphytic orchids of central and south america formerly included in genus oncidium",
+},
+
+{
+"type":"london tiger f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"metro vancouver",
+"IsA": ["populate place", "place", "settlement"],
+},
+
+{
+"type":"morishita tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"lion king",
+"Description":"musical",
+"IsA": ["musical"],
+},
+
+{
+"type":"white lion",
+"IsA": ["band", "film"],
+},
+
+{
+"type":"emma tiger schweiger",
+"IsA": ["person"],
+},
+
+{
+"type":"lion of st mark",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"leopard man",
+"IsA": ["film"],
+},
+
+{
+"type":"DerivedFrom",
+},
+
+{
+"type":"lion sleep tonight",
+"IsA": ["single"],
+},
+
+{
+"type":"steller sea lion",
+"Description":"largest sea lion",
+"IsA": ["sea lion"],
+"MemberOf": ["eumetopias"],
+},
+
+{
+"type":"lionhood",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"cowardly lion",
+"IsA": ["fictional character", "person"],
+},
+
+{
+"type":"leopard woman",
+"IsA": ["film"],
+},
+
+{
+"type":"almost exstinct in some area",
+},
+
+{
+"type":"legal case",
+},
+
+{
+"type":"fear massai warrior",
+},
+
+{
+"type":"lionet",
+"Description":"a small or young lion",
+"IsA": ["lion"],
+},
+
+{
+"type":"kodiak island borough alaska",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"specific",
+},
+
+{
+"type":"insect",
+"IsA": ["animal"],
+},
+
+{
+"type":"tiger conway sr",
+"IsA": ["athlete", "wrestler"],
+},
+
+{
+"type":"oxford lion",
+"IsA": ["organisation", "speedway team", "sport team"],
+},
+
+{
+"type":"lion have wing",
+"IsA": ["film"],
+},
+
+{
+"type":"stripe",
+"RelatedTo": ["tiger skin"],
+},
+
+{
+"type":"fast attack craft",
+},
+
+{
+"type":"hm blake",
+"Description":"c99",
+"IsA": ["tiger class cruiser"],
+},
+
+{
+"type":"prionailurus bengalensis bengalensis",
+},
+
+{
+"type":"tiger shadow",
+"IsA": ["film"],
+},
+
+{
+"type":"represent by lion",
+},
+
+{
+"type":"post-invasion iraq",
+"Description":"2003 to present",
+"IsA": ["military conflict", "event"],
+"PartOf": ["iraq war"],
+},
+
+{
+"type":"bengal",
+},
+
+{
+"type":"leonine",
+"RelatedTo": ["lion"],
+},
+
+{
+"type":"lion tame",
+"CapableOf": ["train his cat", "train lion"],
+"AtLocation": ["circus"],
+},
+
+{
+"type":"terrorist organization",
+"Description":"a political movement that uses terror as a weapon to achieve its goals",
+},
+
+{
+"type":"large fierce shark that have faint stripe",
+},
+
+{
+"type":"tooth",
+},
+
+{
+"type":"hong kong",
+"IsA": ["organisation"],
+},
+
+{
+"type":"de havilland leopard moth",
+"IsA": ["monoplane", "mean of transportation", "aircraft"],
+},
+
+{
+"type":"mary jane",
+"Description":"pull tiger tail song",
+"IsA": ["single"],
+},
+
+{
+"type":"guard",
+"Synonym": ["fender"],
+},
+
+{
+"type":"lion bay british columbia",
+"IsA": ["populate place", "settlement", "village"],
+"PartOf": ["metro vancouver", "low mainland"],
+},
+
+{
+"type":"lion cub",
+"CapableOf": ["purr"],
+"HasProperty": ["able to do many other thing"],
+},
+
+{
+"type":"bornean",
+},
+
+{
+"type":"leopard lizard",
+"Description":"any of several large lizards with many dark spots",
+"IsA": ["iguanid"],
+"MemberOf": ["gambelia"],
+},
+
+{
+"type":"lion london zoological garden",
+"IsA": ["film"],
+},
+
+{
+"type":"smiledon",
+"Description":"saber-toothed tigers",
+"IsA": ["mammal genus"],
+"MemberOf": ["felidae"],
+},
+
+{
+"type":"javan leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"southern leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"body of water",
+},
+
+{
+"type":"bengal tiger",
+"IsA": ["mammal"],
+"DerivedFrom": ["tiger"],
+},
+
+{
+"type":"throw to wolf",
+},
+
+{
+"type":"bali",
+},
+
+{
+"type":"lion in street",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"janet s. fender",
+"IsA": ["scientist"],
+},
+
+{
+"type":"dragon and tiger pagoda",
+"IsA": ["build", "place", "architectural structure", "tower block"],
+"AtLocation": ["kaohsiung", "taiwan", "zuoying district"],
+},
+
+{
+"type":"talented golf player",
+},
+
+{
+"type":"group of lion",
+},
+
+{
+"type":"female lion",
+"CapableOf": ["doe hunt"],
+"NotHasA": ["mane"],
+},
+
+{
+"type":"frigate",
+},
+
+{
+"type":"lion store",
+"IsA": ["organisation", "company", "department store"],
+"AtLocation": ["toledo ohio"],
+},
+
+{
+"type":"save tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"african lion",
+"IsA": ["film"],
+},
+
+{
+"type":"saber tiger",
+"Description":"band",
+"IsA": ["band"],
+},
+
+{
+"type":"lion sound",
+},
+
+{
+"type":"plainview",
+},
+
+{
+"type":"enter",
+"RelatedTo": ["fender"],
+},
+
+{
+"type":"felidae",
+"Description":"cats",
+},
+
+{
+"type":"lion game",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"sea lion rock railway station",
+"IsA": ["infrastructure", "place", "architectural structure", "groudle glen railway", "station"],
+},
+
+{
+"type":"golden lion tamarin",
+"IsA": ["mammal"],
+"DerivedFrom": ["golden", "lion"],
+},
+
+{
+"type":"reptile genus",
+"Description":"a genus of reptiles",
+},
+
+{
+"type":"maltese ruby tiger moth",
+"IsA": ["insect"],
+},
+
+{
+"type":"sleepy tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"tigerlike",
+"RelatedTo": ["tiger beetle"],
+},
+
+{
+"type":"tony tiger",
+},
+
+{
+"type":"blade of tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"old testament",
+"Description":"the collection of books comprising the sacred scripture of the hebrews and recording their history as the chosen people",
+},
+
+{
+"type":"infrastructure",
+},
+
+{
+"type":"phnom penh",
+},
+
+{
+"type":"tiger for malgudi",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"leopard cat",
+"DefinedAs": ["prionailurus bengalensis bengalensis"],
+"DerivedFrom": ["cat"],
+},
+
+{
+"type":"heavy tank",
+"IsA": ["device", "weapon"],
+},
+
+{
+"type":"mildenhall fen tiger",
+"IsA": ["organisation", "speedway team", "sport team"],
+},
+
+{
+"type":"broadcaster",
+},
+
+{
+"type":"liberation tiger of tamil eelam",
+"Description":"a terrorist organization in sri lanka that began in 1970 as a student protest over the limited university access for tamil students",
+"HasContext": ["sri lanka", "terrorism"],
+"InstanceOf": ["terrorist organization"],
+},
+
+{
+"type":"lion in valley",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"predator",
+"IsA": ["animal"],
+},
+
+{
+"type":"sphingine",
+},
+
+{
+"type":"train tiger",
+},
+
+{
+"type":"tell me",
+"Description":"white lion song",
+"IsA": ["single"],
+},
+
+{
+"type":"tax investigator",
+"IsA": ["paper tiger and possess no tooth", "not paper tiger"],
+},
+
+{
+"type":"tiger catshark",
+"IsA": ["fish"],
+},
+
+{
+"type":"purr",
+},
+
+{
+"type":"hm leopard",
+"Description":"f14",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"freddy fender collection",
+"IsA": ["album"],
+},
+
+{
+"type":"leopard",
+"Description":"1918 film",
+"IsA": ["film"],
+},
+
+{
+"type":"little tiger",
+},
+
+{
+"type":"paper tiger",
+"IsA": ["album"],
+"DerivedFrom": ["paper", "tiger"],
+},
+
+{
+"type":"true frog",
+"Description":"insectivorous usually semiaquatic web-footed amphibian with smooth moist skin and long hind legs",
+},
+
+{
+"type":"from tiger",
+},
+
+{
+"type":"five tiger general of tvb",
+"IsA": ["band"],
+},
+
+{
+"type":"tiger beat",
+"IsA": ["magazine"],
+},
+
+{
+"type":"joe lion",
+"IsA": ["song"],
+},
+
+{
+"type":"in air",
+"Description":"true tiger song",
+"IsA": ["single"],
+},
+
+{
+"type":"karl-hermann lion",
+"IsA": ["military person", "person"],
+},
+
+{
+"type":"school of lion",
+"IsA": ["educational institution", "school"],
+},
+
+{
+"type":"lion head",
+"Description":"cape town",
+"IsA": ["natural place", "mountain"],
+},
+
+{
+"type":"lion park",
+"Description":"c-train",
+"IsA": ["infrastructure", "place", "architectural structure", "station"],
+},
+
+{
+"type":"house of tiger king",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tiger",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"song",
+"IsA": ["musical work"],
+},
+
+{
+"type":"speedboat",
+"CapableOf": ["go very fast"],
+"IsA": ["boat", "small fast boat"],
+"UsedFor": ["transport person across water very fast"],
+"HasProperty": ["very fast", "fast but dangerous", "power by gasoline"],
+"HasA": ["outboard motor", "powerful motor"],
+},
+
+{
+"type":"good movie",
+"IsA": ["film"],
+},
+
+{
+"type":"african mammal",
+},
+
+{
+"type":"jaguar class fast attack craft",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"unite africa tiger",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"4198 panthera",
+"IsA": ["planet"],
+},
+
+{
+"type":"pit",
+"RelatedTo": ["lion", "lion sometimes"],
+"UsedFor": ["trap tiger"],
+},
+
+{
+"type":"spot cheetah",
+},
+
+{
+"type":"large fierce cat",
+},
+
+{
+"type":"endanger subspecies of tiger",
+"IsA": ["mammal"],
+},
+
+{
+"type":"lion have phone",
+"IsA": ["television episode"],
+},
+
+{
+"type":"milagros tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"inter lion fc",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"new york city",
+},
+
+{
+"type":"lion in winter",
+"Description":"1968 film",
+"IsA": ["film"],
+},
+
+{
+"type":"circle it prey",
+},
+
+{
+"type":"golf",
+"RelatedTo": ["tiger wood", "tiger game", "tiger sport", "tiger"],
+},
+
+{
+"type":"lion tooth",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"star tiger star ariel",
+"IsA": ["album"],
+},
+
+{
+"type":"operation tiger hound",
+"IsA": ["military conflict", "event"],
+"PartOf": ["vietnam war"],
+},
+
+{
+"type":"tiger stadium",
+"Description":"detroit",
+"IsA": ["build", "place", "architectural structure", "stadium"],
+"AtLocation": ["detroit"],
+},
+
+{
+"type":"horse and lion",
+"HasA": ["mane on their head"],
+},
+
+{
+"type":"steller sea-lion",
+"DefinedAs": ["eumetopias jubatus"],
+},
+
+{
+"type":"lion of babylon",
+"IsA": ["main battle tank"],
+},
+
+{
+"type":"tiger rag magazine",
+"IsA": ["magazine", "newspaper"],
+},
+
+{
+"type":"leaf",
+},
+
+{
+"type":"large group with other lion",
+},
+
+{
+"type":"white tiger",
+"Description":"nathan novel",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tiger wood pga tour 2005",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"lion supermarket",
+"IsA": ["organisation", "company", "asian supermarket"],
+},
+
+{
+"type":"tiger fc",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"leopard 2 e",
+"IsA": ["main battle tank"],
+},
+
+{
+"type":"tiger helix",
+"IsA": ["band"],
+},
+
+{
+"type":"lion of senet",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"species",
+"hasContext": ["estimate at 4000 species year", "specific"],
+},
+
+{
+"type":"vancouver",
+"PartOf": ["british columbia"],
+},
+
+{
+"type":"tiger shark",
+"Description":"marvel comics",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"school",
+"IsA": ["organisation"],
+},
+
+{
+"type":"tiger moth",
+"Description":"medium-sized moth with long richly colored and intricately patterned wings",
+"IsA": ["arctiid"],
+},
+
+{
+"type":"tiger game",
+},
+
+{
+"type":"tiger gate entertainment",
+"IsA": ["organisation", "company"],
+},
+
+{
+"type":"johann lion",
+"IsA": ["athlete", "soccer player"],
+},
+
+{
+"type":"HasContext",
+},
+
+{
+"type":"columbia tiger lily",
+"Description":"lily of western north america with showy orange-red purple-spotted flowers",
+"IsA": ["lily"],
+},
+
+{
+"type":"club",
+"RelatedTo": ["lion", "rotary lion"],
+},
+
+{
+"type":"tiger mask",
+"IsA": ["athlete", "wrestler"],
+},
+
+{
+"type":"deal with lion",
+},
+
+{
+"type":"jaguar c-type",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"eat elephant",
+},
+
+{
+"type":"mudguard",
+"Description":"a curved piece above the wheel of a bicycle or motorcycle to protect the rider from water or mud thrown up by the wheels",
+"IsA": ["fender"],
+},
+
+{
+"type":"medusa tiger by tail",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tiger sport",
+},
+
+{
+"type":"el dorado arkansas",
+},
+
+{
+"type":"macaca silenus",
+},
+
+{
+"type":"girl at lion d or",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"feline fawn",
+},
+
+{
+"type":"lion-peugeot type va",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"pilibhit tiger reserve",
+"IsA": ["administrative region", "populate place", "place"],
+},
+
+{
+"type":"control",
+"Description":"pedro the lion album",
+"IsA": ["album"],
+},
+
+{
+"type":"huddle up nittany lion fan",
+"IsA": ["television show"],
+},
+
+{
+"type":"ruff",
+"RelatedTo": ["lion", "lion mane"],
+},
+
+{
+"type":"tiger on leash",
+"CapableOf": ["wear you out"],
+},
+
+{
+"type":"uncia uncia",
+},
+
+{
+"type":"RelatedTo",
+},
+
+{
+"type":"lion",
+"Description":"band",
+"IsA": ["band"],
+},
+
+{
+"type":"savannah state university",
+},
+
+{
+"type":"fender",
+"Description":"a barrier that surrounds the wheels of a vehicle to block splashing water or mud",
+"IsA": ["barrier"],
+"PartOf": ["car"],
+},
+
+{
+"type":"fur",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"speakeasy tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"lion-sur-mer",
+"IsA": ["populate place", "place", "settlement"],
+},
+
+{
+"type":"lion",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"lion gate",
+"IsA": ["build", "place", "architectural structure"],
+"AtLocation": ["jerusalem"],
+},
+
+{
+"type":"tigger",
+"RelatedTo": ["tiger"],
+},
+
+{
+"type":"lionism",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"tiger wood pga tour 06",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"cowardly",
+},
+
+{
+"type":"musical artist",
+},
+
+{
+"type":"animal",
+"IsA": ["eukaryote", "film"],
+"RelatedTo": ["lion frog", "lion tiger", "giraffe lion", "tiger elephant", "lion bear"],
+},
+
+{
+"type":"psychopsis papilio",
+"Description":"orchid of south america and trinidad having large yellow and reddish-brown flowers",
+"IsA": ["butterfly orchid"],
+},
+
+{
+"type":"galÃƒÂ¡pagos sea lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"single",
+},
+
+{
+"type":"nose",
+"RelatedTo": ["lion", "tiger"],
+},
+
+{
+"type":"selby tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"tarzan movie",
+},
+
+{
+"type":"actor",
+"IsA": ["artist", "person"],
+},
+
+{
+"type":"rate of specie loss",
+"HasProperty": ["estimate at 4000 species year"],
+},
+
+{
+"type":"eight deer jaguar claw",
+"IsA": ["person"],
+},
+
+{
+"type":"hukawng valley tiger reserve",
+"IsA": ["place", "protect area"],
+"AtLocation": ["burma"],
+},
+
+{
+"type":"santa monica california",
+},
+
+{
+"type":"ballwin missouri",
+},
+
+{
+"type":"panthera onca",
+},
+
+{
+"type":"panthera corporation",
+"IsA": ["non-profit organisation", "organisation"],
+},
+
+{
+"type":"tiger class cruiser",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"battlecruiser",
+},
+
+{
+"type":"two form of feline",
+"IsA": ["large tiger and tiny cat"],
+},
+
+{
+"type":"lion of medina",
+"IsA": ["writer"],
+},
+
+{
+"type":"CapableOf",
+},
+
+{
+"type":"hm leopard",
+"Description":"1659",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"lion-tailed macaque",
+"DefinedAs": ["macaca silenus"],
+},
+
+{
+"type":"lion-hunter",
+"Description":"someone who tries to attract social lions as guests",
+"IsA": ["social climber"],
+},
+
+{
+"type":"look at tiger",
+},
+
+{
+"type":"royal leopard f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"norman fender",
+"IsA": ["athlete", "rugby player"],
+},
+
+{
+"type":"japanese sea lion",
+"IsA": ["mammal"],
+"DerivedFrom": ["japanese"],
+},
+
+{
+"type":"easy tiger",
+"Description":"song",
+"IsA": ["single"],
+},
+
+{
+"type":"most person",
+"CapableOf": ["do not have lion as pet"],
+"NotHasA": ["lion as pet"],
+},
+
+{
+"type":"christian lion",
+"IsA": ["band"],
+},
+
+{
+"type":"reptile",
+"IsA": ["animal"],
+},
+
+{
+"type":"break heart",
+"Description":"white lion song",
+"IsA": ["single"],
+},
+
+{
+"type":"tiger my friend",
+"IsA": ["album"],
+},
+
+{
+"type":"tiger shark",
+"Description":"dc comics",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"son of italy lion sc",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"best of white lion",
+"IsA": ["album"],
+},
+
+{
+"type":"tiger",
+"Description":"musician",
+"IsA": ["artist", "musical artist", "person"],
+},
+
+{
+"type":"seattle",
+},
+
+{
+"type":"last lion winston spencer churchill",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"african lion hound",
+"Synonym": ["rhodesian ridgeback"],
+},
+
+{
+"type":"snow leopard",
+},
+
+{
+"type":"tiger force",
+"IsA": ["organisation", "military unit", "special force"],
+},
+
+{
+"type":"tiger wood pga tour 08",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"train his cat",
+},
+
+{
+"type":"joel lion",
+"IsA": ["office holder", "person"],
+},
+
+{
+"type":"between lion",
+"IsA": ["television show"],
+},
+
+{
+"type":"ubon tiger f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"massillon ohio",
+"IsA": ["place"],
+},
+
+{
+"type":"operate system",
+},
+
+{
+"type":"nishinomiya",
+},
+
+{
+"type":"comic character",
+},
+
+{
+"type":"lion howl",
+},
+
+{
+"type":"Desires",
+},
+
+{
+"type":"mane",
+"RelatedTo": ["also lion", "lion fur", "lion hair", "hair lion"],
+},
+
+{
+"type":"mountain lion belly",
+},
+
+{
+"type":"tame lion",
+},
+
+{
+"type":"tiger tune",
+"IsA": ["band"],
+},
+
+{
+"type":"meet tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tiger wood pga tour 07",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"tiger moth",
+"RelatedTo": ["tiger beetle"],
+"DerivedFrom": ["moth"],
+},
+
+{
+"type":"tiger mask iv",
+"IsA": ["athlete", "wrestler"],
+},
+
+{
+"type":"mac o",
+},
+
+{
+"type":"tiger mangweni",
+"IsA": ["athlete", "rugby player"],
+},
+
+{
+"type":"tiger grunter",
+"DerivedFrom": ["grunter"],
+},
+
+{
+"type":"lion choice",
+"IsA": ["organisation", "corporation"],
+"AtLocation": ["ballwin missouri", "unite state"],
+},
+
+{
+"type":"leopard",
+},
+
+{
+"type":"tiger in rain",
+"IsA": ["album"],
+},
+
+{
+"type":"adult actor",
+},
+
+{
+"type":"house tiger",
+},
+
+{
+"type":"leopard darter",
+"DefinedAs": ["percina pantherina"],
+},
+
+{
+"type":"rhodesian ridgeback",
+},
+
+{
+"type":"big mane",
+},
+
+{
+"type":"jaguar mark iv",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"tiger love",
+"IsA": ["film"],
+},
+
+{
+"type":"english ship lion",
+"Description":"1557",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"jaguar life",
+"IsA": ["film"],
+},
+
+{
+"type":"pet lion",
+"IsA": ["album", "extend play"],
+},
+
+{
+"type":"boat",
+"DerivedFrom": ["boat"],
+},
+
+{
+"type":"sunset on leave",
+},
+
+{
+"type":"tiger beetle",
+"Description":"active usually bright-colored beetle that preys on other insects",
+"IsA": ["beetle"],
+"MemberOf": ["cicindelidae"],
+},
+
+{
+"type":"son of tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"freddy fender",
+"IsA": ["artist", "musical artist", "person"],
+},
+
+{
+"type":"secondhand lion",
+"IsA": ["film"],
+},
+
+{
+"type":"radio station",
+},
+
+{
+"type":"tiger goby",
+"IsA": ["fish"],
+},
+
+{
+"type":"this be mountain lion it",
+"IsA": ["large wild cat that life in north america"],
+},
+
+{
+"type":"tiger class fast attack craft",
+"IsA": ["ship", "fast attack craft", "mean of transportation"],
+},
+
+{
+"type":"noisy",
+},
+
+{
+"type":"lionly",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"vietnam war",
+"IsA": ["military conflict", "event"],
+},
+
+{
+"type":"stirling lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"snow leopard",
+"DefinedAs": ["uncia uncia"],
+"IsA": ["book", "write work", "operate system"],
+"DerivedFrom": ["snow"],
+},
+
+{
+"type":"tiger wood pga tour 09",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"african leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"chiricahua leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"call cougar",
+},
+
+{
+"type":"military person",
+},
+
+{
+"type":"some nation",
+"IsA": ["paper tiger"],
+},
+
+{
+"type":"heart of lion f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"white tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"lion van minden",
+"IsA": ["athlete"],
+},
+
+{
+"type":"bulleen lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"be make honey in lion skull",
+"IsA": ["album"],
+},
+
+{
+"type":"tiger devenish",
+"IsA": ["athlete", "rugby player"],
+},
+
+{
+"type":"lion",
+"Description":"peaks",
+"IsA": ["natural place", "mountain"],
+},
+
+{
+"type":"member of parliament",
+},
+
+{
+"type":"similar",
+},
+
+{
+"type":"lion of amalfi",
+"IsA": ["film"],
+},
+
+{
+"type":"hold that tiger",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"new crouch tiger hide dragon",
+"IsA": ["film"],
+},
+
+{
+"type":"neu lion",
+"IsA": ["organisation", "company", "public company"],
+"AtLocation": ["plainview", "unite state", "new york"],
+},
+
+{
+"type":"jaguar mark ix",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"japan",
+},
+
+{
+"type":"tiger tail seahorse",
+"IsA": ["fish"],
+},
+
+{
+"type":"tiger maple",
+"DerivedFrom": ["maple"],
+},
+
+{
+"type":"SymbolOf",
+},
+
+{
+"type":"two for lion",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"politician",
+},
+
+{
+"type":"lily",
+"Description":"any liliaceous plant of the genus lilium having showy pendulous flowers",
+},
+
+{
+"type":"tiger trap",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"panthera onca mesembrina",
+"IsA": ["mammal"],
+},
+
+{
+"type":"white tiger",
+"Description":"band",
+"IsA": ["band"],
+},
+
+{
+"type":"political party",
+},
+
+{
+"type":"sunbeam tiger",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"galeocerdo",
+"Description":"tiger sharks",
+"IsA": ["fish genus"],
+"MemberOf": ["carcharhinidae"],
+},
+
+{
+"type":"fender",
+},
+
+{
+"type":"ship",
+},
+
+{
+"type":"sea lion tarn",
+"IsA": ["lake"],
+"AtLocation": ["livingston island"],
+},
+
+{
+"type":"naxxar lion f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"pattern",
+"SimilarTo": ["tiger-striped"],
+},
+
+{
+"type":"speedway team",
+},
+
+{
+"type":"three lion",
+"Description":"video game",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"run",
+"UsedFor": ["escape tiger"],
+},
+
+{
+"type":"large beast",
+},
+
+{
+"type":"moon tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"year of leopard",
+"IsA": ["album"],
+},
+
+{
+"type":"lion den",
+},
+
+{
+"type":"false saber-toothed tiger",
+"Description":"north american cat of the miocene and pliocene",
+"IsA": ["saber-toothed tiger"],
+"MemberOf": ["nimravus"],
+},
+
+{
+"type":"aquaplane",
+"Description":"a board that is pulled by a speedboat as a person stands on it and skims over the top of the water",
+"IsA": ["board"],
+},
+
+{
+"type":"sydney",
+"PartOf": ["australia"],
+},
+
+{
+"type":"bespoke design project management company",
+},
+
+{
+"type":"lion foot",
+"Description":"common perennial herb widely distributed in the southern and eastern united states having drooping clusters of pinkish flowers and thick basal leaves suggesting a lion&apos;s foot in shape",
+"IsA": ["herb"],
+"MemberOf": ["nabalus"],
+},
+
+{
+"type":"eat cabbage",
+},
+
+{
+"type":"lion be big cat",
+"CapableOf": ["live in africa"],
+},
+
+{
+"type":"king of",
+},
+
+{
+"type":"sabre-toothed tiger",
+"DerivedFrom": ["sabre-toothed"],
+},
+
+{
+"type":"tiger varadachariar",
+"IsA": ["artist", "musical artist", "person"],
+},
+
+{
+"type":"saber-toothed",
+},
+
+{
+"type":"box",
+"RelatedTo": ["eye tiger", "tiger"],
+},
+
+{
+"type":"tin",
+"RelatedTo": ["lion", "scarecrow lion", "cowardly lion"],
+},
+
+{
+"type":"little lion man",
+"IsA": ["single"],
+},
+
+{
+"type":"savannah georgia",
+"IsA": ["place"],
+},
+
+{
+"type":"tiger bread",
+"DerivedFrom": ["bread"],
+},
+
+{
+"type":"lionise",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"feline predator",
+},
+
+{
+"type":"king of animal kingdom",
+},
+
+{
+"type":"feline animal",
+},
+
+{
+"type":"tiger field",
+"IsA": ["infrastructure", "airport", "architectural structure"],
+},
+
+{
+"type":"lion nathan",
+"IsA": ["organisation", "company", "subsidiary"],
+"AtLocation": ["melbourne", "australia"],
+},
+
+{
+"type":"cub",
+"DefinedAs": ["young lion"],
+},
+
+{
+"type":"gel coat fibreglass",
+},
+
+{
+"type":"in veldt",
+},
+
+{
+"type":"snow leopard",
+"Description":"ep",
+"IsA": ["album"],
+},
+
+{
+"type":"gold lion",
+"IsA": ["single"],
+},
+
+{
+"type":"tiger heli",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"world war ii",
+},
+
+{
+"type":"leo",
+"RelatedTo": ["lion"],
+},
+
+{
+"type":"lion and lioness and their cub",
+"ReceivesAction": ["find in troop", "find in pride"],
+},
+
+{
+"type":"decoration",
+"Description":"something used to beautify",
+},
+
+{
+"type":"tiger tale",
+"IsA": ["book", "film", "write work"],
+},
+
+{
+"type":"romance of young tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"live in den",
+},
+
+{
+"type":"arthropod family",
+"Description":"any of the arthropods",
+},
+
+{
+"type":"ohlone tiger beetle",
+"IsA": ["insect"],
+},
+
+{
+"type":"nemean",
+},
+
+{
+"type":"extinct",
+},
+
+{
+"type":"jaguar xk 120",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"tiger walk",
+"Description":"album",
+"IsA": ["album", "studio album"],
+},
+
+{
+"type":"leopard capital",
+"IsA": ["organisation", "company", "limit partnership"],
+"AtLocation": ["vientiane", "dhaka", "phnom penh", "hong kong", "colombo", "cayman island"],
+},
+
+{
+"type":"leopard and leopardess and their cub",
+"ReceivesAction": ["find in leap"],
+},
+
+{
+"type":"revere by early american",
+},
+
+{
+"type":"british columbia",
+"PartOf": ["canada"],
+},
+
+{
+"type":"three heart and three lion",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"Panthera onca",
+"hasContext": ["specie", "panthera onca"],
+},
+
+{
+"type":"find in africa",
+},
+
+{
+"type":"tiger trail",
+"IsA": ["film"],
+},
+
+{
+"type":"british lion",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"anatolian leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"domestic cat",
+"Description":"any domesticated member of the genus felis",
+},
+
+{
+"type":"pride",
+"Description":"white lion album",
+"IsA": ["album"],
+},
+
+{
+"type":"aquaplane",
+"DerivedFrom": ["aquaplane"],
+},
+
+{
+"type":"bear",
+"IsA": ["mammal", "carnivore"],
+"RelatedTo": ["lion", "lion and", "lion tiger", "tiger"],
+"Antonym": ["lion tiger"],
+},
+
+{
+"type":"st. louis lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"tiger lim",
+"IsA": ["artist", "comedian", "person"],
+},
+
+{
+"type":"four leg",
+},
+
+{
+"type":"london lion",
+"Description":"speedway",
+"IsA": ["organisation", "speedway team", "sport team"],
+},
+
+{
+"type":"paisley lion",
+"IsA": ["organisation", "speedway team", "sport team"],
+},
+
+{
+"type":"powerlessness",
+"Description":"the quality of lacking strength or power",
+},
+
+{
+"type":"lion and lamb",
+"IsA": ["film"],
+},
+
+{
+"type":"zebra",
+"IsA": ["mammal"],
+"NotCapableOf": ["hunt lion"],
+},
+
+{
+"type":"singapore",
+},
+
+{
+"type":"administrative region",
+},
+
+{
+"type":"southern lion rugby union football club",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"hungry tiger",
+"IsA": ["fictional character", "person"],
+},
+
+{
+"type":"fawn",
+},
+
+{
+"type":"lion tamarin",
+"IsA": ["mammal"],
+},
+
+{
+"type":"music inspire by chronicle of narnia lion witch and wardrobe",
+"IsA": ["album"],
+},
+
+{
+"type":"stadium",
+},
+
+{
+"type":"low mainland",
+},
+
+{
+"type":"salisbury north carolina",
+},
+
+{
+"type":"lion fox eagle",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"man animal",
+},
+
+{
+"type":"would eat all animal in this picture",
+},
+
+{
+"type":"tiger and duke",
+"IsA": ["album"],
+},
+
+{
+"type":"tail fin",
+"Description":"one of a pair of decorations projecting above the rear fenders of an automobile",
+"IsA": ["decoration"],
+"PartOf": ["car"],
+},
+
+{
+"type":"sepecat jaguar",
+"IsA": ["mean of transportation", "aircraft"],
+},
+
+{
+"type":"iraq war",
+"IsA": ["military conflict", "event"],
+},
+
+{
+"type":"liger",
+"Description":"offspring of a male lion and a female tiger",
+"IsA": ["big cat"],
+},
+
+{
+"type":"spring from bush",
+},
+
+{
+"type":"gauteng",
+},
+
+{
+"type":"lion elephant giraffe and buffalo",
+"ReceivesAction": ["find in africa"],
+},
+
+{
+"type":"jaguar xj 220",
+"Description":"video game",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"fender-bender",
+"DerivedFrom": ["fender"],
+},
+
+{
+"type":"power by gasoline",
+},
+
+{
+"type":"event",
+},
+
+{
+"type":"lair of lion",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"lion heart",
+"IsA": ["film"],
+},
+
+{
+"type":"tooth of tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"richard lion-hearted dick haymes that be",
+"IsA": ["album"],
+},
+
+{
+"type":"hunt",
+},
+
+{
+"type":"software",
+},
+
+{
+"type":"jaguar",
+"Description":"marvel comics",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"new zealand",
+"IsA": ["place"],
+},
+
+{
+"type":"sea lion woman",
+"IsA": ["song", "music download"],
+},
+
+{
+"type":"mountain",
+"IsA": ["place"],
+},
+
+{
+"type":"bring lion out",
+"IsA": ["album"],
+},
+
+{
+"type":"iguanidae",
+"Description":"new world lizards",
+},
+
+{
+"type":"settlement",
+},
+
+{
+"type":"national park of india",
+},
+
+{
+"type":"best golfer in whole universe",
+},
+
+{
+"type":"example of large animal",
+"IsA": ["lion small animal could be ferret"],
+},
+
+{
+"type":"organisation",
+},
+
+{
+"type":"spokane washington",
+"IsA": ["unite state"],
+"PartOf": ["washington"],
+},
+
+{
+"type":"mammal genus",
+"Description":"a genus of mammals",
+},
+
+{
+"type":"blind tiger",
+"RelatedTo": ["tiger beetle", "moon-blind"],
+"DerivedFrom": ["blind", "tiger"],
+},
+
+{
+"type":"big cat",
+},
+
+{
+"type":"d abrera tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"fish",
+"IsA": ["animal"],
+},
+
+{
+"type":"persian leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"wgc b-tv",
+"AtLocation": ["red lion york county pennsylvania"],
+},
+
+{
+"type":"lion den",
+"Description":"the outer limits",
+"IsA": ["television episode"],
+},
+
+{
+"type":"tiger thompson",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger kin",
+},
+
+{
+"type":"ontario",
+"PartOf": ["canada"],
+},
+
+{
+"type":"percina pantherina",
+},
+
+{
+"type":"bali tiger",
+"IsA": ["mammal"],
+"DerivedFrom": ["bali", "tiger"],
+},
+
+{
+"type":"scary away intruder",
+},
+
+{
+"type":"jaguar 1",
+"IsA": ["tank destroyer", "device", "weapon"],
+},
+
+{
+"type":"action of tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"hanshin tiger",
+"IsA": ["organisation", "company"],
+"AtLocation": ["hyÃ…ï¿½go prefecture", "japan", "nishinomiya"],
+},
+
+{
+"type":"tiger bay",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"panther",
+"Description":"a leopard in the black color phase",
+"IsA": ["leopard"],
+},
+
+{
+"type":"saint meet tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"jerusalem",
+"IsA": ["place"],
+},
+
+{
+"type":"requiem shark",
+"Description":"any of numerous sharks from small relatively harmless bottom-dwellers to large dangerous oceanic and coastal species",
+},
+
+{
+"type":"tiger cub",
+"Description":"a young tiger",
+"IsA": ["cub", "tiger"],
+},
+
+{
+"type":"california sea lion",
+"Description":"often trained as a show animal",
+"IsA": ["sea lion"],
+"MemberOf": ["zalophus"],
+},
+
+{
+"type":"Jaguar Cars heritage",
+},
+
+{
+"type":"bridge",
+},
+
+{
+"type":"mountain lion",
+"IsA": ["large wild cat", "endagered specie", "call cougers and panther", "call cougar", "cat", "almost exstinct in some area", "large cat"],
+"AtLocation": ["top of mountain"],
+"HasProperty": ["dangerous", "revere by early american", "know as cougar"],
+"DerivedFrom": ["mountain", "lion"],
+},
+
+{
+"type":"award",
+},
+
+{
+"type":"preston lion fc",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"northern tiger fc",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"jaguar mark viii",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"tiger bay",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"service club",
+"Description":"a club of professional or business people organized for their coordination and active in public services",
+},
+
+{
+"type":"like lion",
+},
+
+{
+"type":"tigress",
+"Description":"a female tiger",
+"IsA": ["tiger"],
+},
+
+{
+"type":"zoo",
+},
+
+{
+"type":"senior tiger",
+"IsA": ["organisation", "military unit"],
+},
+
+{
+"type":"golden tiger production",
+"IsA": ["film"],
+},
+
+{
+"type":"south devon railway leopard class",
+"IsA": ["mean of transportation", "locomotive"],
+},
+
+{
+"type":"fly tiger line",
+"IsA": ["airline", "organisation", "company"],
+},
+
+{
+"type":"cat animal",
+},
+
+{
+"type":"tiger man",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"chronicle of narnia lion witch and wardrobe",
+"IsA": ["film"],
+},
+
+{
+"type":"doe not contain these word mammal tiger leopard jaguar",
+},
+
+{
+"type":"one of large marsupial carnivore",
+},
+
+{
+"type":"someone",
+"CapableOf": ["train tiger"],
+"AtLocation": ["in with tiger", "cage with lion"],
+},
+
+{
+"type":"lion leaf",
+"DerivedFrom": ["leaf", "lion"],
+},
+
+{
+"type":"soccer club",
+},
+
+{
+"type":"powerful motor",
+},
+
+{
+"type":"speedboat go fast",
+},
+
+{
+"type":"tiger lily california",
+"IsA": ["populate place", "place", "settlement", "unincorporated area"],
+"PartOf": ["el dorado county california"],
+},
+
+{
+"type":"rotary lion",
+},
+
+{
+"type":"aphid lion",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"tiger child",
+"IsA": ["film"],
+},
+
+{
+"type":"leo fender",
+"IsA": ["person"],
+},
+
+{
+"type":"dutch crunch",
+"Synonym": ["tiger bread"],
+},
+
+{
+"type":"smile tiger",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"tiger from tjampa",
+"IsA": ["film"],
+},
+
+{
+"type":"major dell conway of fly tiger",
+"IsA": ["television show"],
+},
+
+{
+"type":"callorhinus",
+"Description":"fur seals",
+"MemberOf": ["otariidae"],
+},
+
+{
+"type":"bhutan",
+},
+
+{
+"type":"chimeric",
+"DerivedFrom": ["chimera"],
+},
+
+{
+"type":"asiatic lion",
+"DefinedAs": ["panthera leo persica"],
+},
+
+{
+"type":"tigerish",
+"RelatedTo": ["tiger beetle"],
+},
+
+{
+"type":"wolf leopard",
+"IsA": ["album"],
+},
+
+{
+"type":"transverse volcanic leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"live album",
+"IsA": ["album"],
+},
+
+{
+"type":"volume i v lion of love",
+"IsA": ["album"],
+},
+
+{
+"type":"male lion",
+"HasA": ["mane"],
+},
+
+{
+"type":"camden tiger",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"animal group",
+"Description":"a group of animals",
+},
+
+{
+"type":"jaguar 2",
+"IsA": ["tank destroyer", "device", "weapon"],
+},
+
+{
+"type":"wild animal",
+"IsA": ["animal"],
+},
+
+{
+"type":"water tiger",
+},
+
+{
+"type":"wildcat",
+"IsA": ["mammal"],
+},
+
+{
+"type":"go very fast",
+},
+
+{
+"type":"six and ten million years old",
+},
+
+{
+"type":"symbolize royalty",
+},
+
+{
+"type":"jaguar love",
+"IsA": ["band"],
+},
+
+{
+"type":"new south wale",
+"IsA": ["place"],
+"PartOf": ["australia"],
+},
+
+{
+"type":"thai tiger airway",
+"IsA": ["airline", "organisation", "company"],
+},
+
+{
+"type":"stadion hajduk lion",
+"IsA": ["build", "place", "architectural structure", "stadium"],
+"AtLocation": ["belgrade"],
+},
+
+{
+"type":"hm tiger bay",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"jaguar",
+"Description":"novel",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"elephant lion and giraffe",
+"IsA": ["wild animal from africa"],
+},
+
+{
+"type":"airline",
+},
+
+{
+"type":"sound scary",
+},
+
+{
+"type":"have tiger by tail",
+"Synonym": ["be on horn of dilemma"],
+},
+
+{
+"type":"river",
+"IsA": ["body of water"],
+},
+
+{
+"type":"white lion record",
+"IsA": ["record label", "organisation", "company"],
+},
+
+{
+"type":"lad and lion",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"pinnipedia",
+"Description":"seals",
+},
+
+{
+"type":"madarasz tiger parrot",
+"IsA": ["bird"],
+},
+
+{
+"type":"Neofelis nebulosa",
+"hasContext": ["neofelis nebulosa"],
+},
+
+{
+"type":"wild tiger",
+},
+
+{
+"type":"jaguar",
+"hasContext": ["musical work", "build", "comic character", "private company limit by share", "doe not contain these word mammal tiger leopard jaguar", "ship", "tank destroyer", "jaguar land rover gaydon centre", "fighter aircraft", "american football team", "organisation", "mean of transportation", "company", "book", "place", "fictional character", "architectural structure", "specie", "black", "device", "sport team", "unite kingdom", "stadium", "weapon", "coventry", "automobile engine", "automobile", "gaydon", "panthera", "panthera onca", "university of south alabama", "software", "film", "video game", "person", "write work", "soccer club", "aircraft", "subsidiary", "wrestler", "big cat"],
+},
+
+{
+"type":"relict leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"comedian",
+},
+
+{
+"type":"leopard cat",
+"Description":"small spotted wildcat of southern asia and malaysia",
+"IsA": ["wildcat"],
+"MemberOf": ["felis"],
+},
+
+{
+"type":"lane county oregon",
+"IsA": ["place"],
+},
+
+{
+"type":"weapon",
+},
+
+{
+"type":"golfer",
+"IsA": ["person"],
+},
+
+{
+"type":"in with tiger",
+},
+
+{
+"type":"doe tiger wear necktie",
+"IsA": ["play", "write work"],
+},
+
+{
+"type":"lion class battleship",
+"IsA": ["ship", "mean of transportation", "dreadnought"],
+},
+
+{
+"type":"last lion",
+"IsA": ["film"],
+},
+
+{
+"type":"david tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"golf player",
+},
+
+{
+"type":"lion and tiger",
+"IsA": ["mammal"],
+},
+
+{
+"type":"person",
+"Description":"a human being",
+},
+
+{
+"type":"mumsi meet lion",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"iron lion zion",
+"IsA": ["single"],
+},
+
+{
+"type":"safari animal",
+},
+
+{
+"type":"lion gate bridge",
+"IsA": ["infrastructure", "suspension bridge", "bridge", "route of transportation", "place", "architectural structure"],
+},
+
+{
+"type":"NotHasA",
+},
+
+{
+"type":"parthenice tiger moth",
+"IsA": ["insect"],
+},
+
+{
+"type":"panthera",
+"IsA": ["mammal"],
+},
+
+{
+"type":"NotCapableOf",
+},
+
+{
+"type":"tigerish",
+},
+
+{
+"type":"foo lion",
+"Synonym": ["foo dog"],
+},
+
+{
+"type":"lyon",
+"RelatedTo": ["lion"],
+},
+
+{
+"type":"cowrie",
+"Description":"any of numerous tropical marine gastropods of the genus cypraea having highly polished usually brightly marked shells",
+},
+
+{
+"type":"fortress",
+"Description":"miniature tigers album",
+"IsA": ["album"],
+},
+
+{
+"type":"lion share",
+"Synonym": ["motherlode"],
+},
+
+{
+"type":"transvaal lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"sri lanka",
+"Description":"a republic on the island of ceylon",
+},
+
+{
+"type":"tiger",
+"Description":"large feline of forests in most of asia having a tawny coat with black stripes",
+"IsA": ["big cat"],
+"MemberOf": ["panthera"],
+},
+
+{
+"type":"mane",
+"Description":"long coarse hair growing from the crest of the animal&apos;s neck",
+"PartOf": ["lion"],
+},
+
+{
+"type":"kill you",
+},
+
+{
+"type":"architectural structure",
+},
+
+{
+"type":"india kingdom of tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"some jaguar",
+"HasProperty": ["black"],
+},
+
+{
+"type":"leo lion king of jungle",
+"IsA": ["film"],
+},
+
+{
+"type":"resist",
+"DerivedFrom": ["fender", "fender", "fender"],
+},
+
+{
+"type":"Antonym",
+},
+
+{
+"type":"crouch tiger hide dragon",
+"Description":"soundtrack",
+"IsA": ["album", "soundtrack"],
+},
+
+{
+"type":"japanese",
+},
+
+{
+"type":"relate to cat",
+},
+
+{
+"type":"leopard class frigate",
+"IsA": ["ship", "frigate", "mean of transportation"],
+},
+
+{
+"type":"special force",
+},
+
+{
+"type":"jse limit",
+},
+
+{
+"type":"sea lion",
+"Description":"any of several large eared seals of the northern pacific related to fur seals but lacking their valuable coat",
+"IsA": ["eared seal"],
+},
+
+{
+"type":"lion donkey and dinosaur",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tiger barb",
+"IsA": ["fish"],
+},
+
+{
+"type":"leopard moray eel",
+"IsA": ["fish"],
+},
+
+{
+"type":"tiger",
+"hasContext": ["small tiger", "feline animal", "hyÃ…ï¿½go prefecture", "homebuilt aircraft", "airline", "similar leopard", "musical work", "arthropod family", "shark", "stripe", "coleoptera", "look at tiger", "century city los angeles", "in with tiger", "build", "beeaten by tiger", "navy", "be on horn of dilemma", "television episode", "relate to tiger", "comic character", "play golf", "be tiger", "tiger kin", "large fierce cat", "group", "national park of india", "korea university", "stripe cat", "infrastructure", "speakeasy", "wild tiger", "state", "lily", "member of parliament", "leopardus tigrinus", "very large cat", "best golfer in whole universe", "administrative region", "siberian", "tasmanian tiger", "doe not contain these word mammal tiger leopard jaguar", "kin", "mountain lion", "privately hold company", "large tiger and tiny cat", "train tiger", "from tiger", "broadcaster", "ship", "live in asia", "periodical literature", "stratovolcano", "martinsburg west virginia", "cub", "jse limit", "cicindela dorsalis dorsalis", "felidae", "golf player", "sound like tiger", "ambystoma tigrinum stebbinsi", "military conflict", "fountainebleau florida", "record label", "beetle", "artist", "cricketer", "political party", "extinct", "circle it prey", "radio station", "tiger-striped", "bread", "ferocious animal", "india but not in africa", "ambystomid", "half black half asian", "event", "big cat", "sri lanka", "savannah state university", "man-tiger", "fighter aircraft", "clemson south carolina", "tiger skin", "tamil", "populate place", "saber-toothed", "blind", "big", "jump though hoop", "jungle", "talented golf player", "eye tiger", "musical artist", "food", "tiger what", "terrorist organization", "stripe tail", "stockholm", "organisation", "domestic cat", "afraid to dismount", "paper tiger and possess no tooth", "vegetable", "natural place", "requiem shark", "lion and", "protect specie", "thylacinus cynocephalus", "similar", "elapid", "spring from bush", "rattlesnake", "fast attack craft", "adult actor", "elapidae", "large fierce shark", "speedway team", "little tiger", "cat family", "predatory carnivore and so may attack person", "gauteng", "world war ii", "mean of transportation", "sabre-toothed tiger", "singapore", "carnivore", "cowrie", "ice hockey player", "lion tiger", "tony tiger", "eat", "canada", "fish genus", "zuoying district", "canadian football team", "blind tiger", "mosquito", "company", "military unit", "tiger elephant", "route of transportation", "book", "zoo", "escape tiger", "place", "aedes", "cub", "shop mall", "bali", "soundtrack", "paper", "complete very well at golf", "vicious animal", "fictional character", "architectural structure", "politician", "powerlessness", "bengal", "ghost town", "tiger beetle", "strip", "specie", "tiger game", "best golfer", "large", "public company", "grunter", "wear you out", "big than", "bali tiger", "stripe animal", "bosnian war", "in africa", "device", "sport team", "tiger sport", "television show", "tiger bread", "roar", "rugby player", "large cat", "crotalus", "hunt for food", "spot tiger", "stadium", "cicindela puritana", "reptile genus", "weapon", "settlement", "tiger", "carcharias", "hamilton ontario", "protect area", "automobile", "moth", "comedian", "vicious", "house tiger", "lady", "panthera", "amur", "drink water", "software", "film", "water tiger", "moon-blind", "lion kin", "person", "south africa", "sabre-toothed", "large fierce shark that have faint stripe", "shark", "hockey team", "not paper tiger", "carcharhinidae", "japan", "africa", "yorkshire", "ferocious", "thylacine", "play", "mammal genus", "video game", "tower block", "live in world", "student newspaper", "single", "nishinomiya", "tigerish", "maple", "lily", "jarbua terapon", "newspaper", "terrorism", "locomotive", "studio album", "person", "write work", "bhutan", "attack helicopter", "yout to see tiger", "trainer", "soccer club", "lepidoptera", "boxer", "psychopsis", "felis", "aircraft", "taichung", "unincorporated area", "ambystoma californiense", "kill you", "trap tiger", "wrestler", "big cat", "special force", "orchid", "than"],
+},
+
+{
+"type":"wilkes-barre pennsylvania",
+},
+
+{
+"type":"ReceivesAction",
+},
+
+{
+"type":"mean of transportation",
+},
+
+{
+"type":"ski",
+"Description":"narrow wood or metal or plastic runners used in pairs for gliding over snow",
+},
+
+{
+"type":"mini-hawk tiger-hawk",
+"IsA": ["mean of transportation", "aircraft"],
+},
+
+{
+"type":"lion for lamb",
+"IsA": ["film"],
+},
+
+{
+"type":"lion brother company build",
+"IsA": ["build", "place", "architectural structure"],
+"AtLocation": ["baltimore"],
+},
+
+{
+"type":"icaricia icarioides fenderi",
+},
+
+{
+"type":"outboard motor",
+},
+
+{
+"type":"build",
+},
+
+{
+"type":"hunter",
+"Description":"someone who hunts game",
+},
+
+{
+"type":"dent",
+"RelatedTo": ["fender blemish", "fender"],
+},
+
+{
+"type":"elapidae",
+"Description":"cobras",
+},
+
+{
+"type":"issoire apm 30 lion",
+"IsA": ["mean of transportation", "aircraft"],
+},
+
+{
+"type":"cicindela dorsalis dorsalis",
+},
+
+{
+"type":"time tiger",
+"IsA": ["software"],
+},
+
+{
+"type":"listen to lion",
+"IsA": ["song"],
+},
+
+{
+"type":"tiger ii",
+"IsA": ["heavy tank"],
+},
+
+{
+"type":"tiger airway australia",
+"IsA": ["airline", "organisation", "company"],
+},
+
+{
+"type":"lie down",
+},
+
+{
+"type":"western tiger swallowtail",
+"IsA": ["insect"],
+},
+
+{
+"type":"white tiger",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"what up tiger lily",
+"IsA": ["film"],
+},
+
+{
+"type":"burma",
+"IsA": ["place"],
+},
+
+{
+"type":"repel lion",
+},
+
+{
+"type":"lion lie down",
+},
+
+{
+"type":"north china leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"lion king",
+"Description":"soundtrack",
+"IsA": ["album", "soundtrack"],
+},
+
+{
+"type":"prophet",
+"Description":"someone who speaks by divine inspiration",
+},
+
+{
+"type":"feed sea lion",
+"IsA": ["film"],
+},
+
+{
+"type":"blind pig",
+"Synonym": ["blind tiger"],
+},
+
+{
+"type":"i",
+"CapableOf": ["deal with lion"],
+},
+
+{
+"type":"symbol",
+},
+
+{
+"type":"buy meat in shop",
+},
+
+{
+"type":"lion ferry",
+"IsA": ["organisation", "company"],
+"AtLocation": ["halmstad", "sweden"],
+},
+
+{
+"type":"william lion",
+"IsA": ["british royalty", "person"],
+},
+
+{
+"type":"populate place",
+},
+
+{
+"type":"your cheatin heart",
+"Description":"freddy fender album",
+"IsA": ["album"],
+},
+
+{
+"type":"large cat",
+"IsA": ["good hunter"],
+},
+
+{
+"type":"main cause of death among human",
+},
+
+{
+"type":"lion after slumber",
+"IsA": ["single"],
+},
+
+{
+"type":"tiger energy drink",
+"IsA": ["beverage"],
+},
+
+{
+"type":"dayton dutch lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"cage with lion",
+},
+
+{
+"type":"taichung",
+},
+
+{
+"type":"main",
+"RelatedTo": ["lion", "lion hair"],
+},
+
+{
+"type":"panthera crassidens",
+"IsA": ["mammal"],
+},
+
+{
+"type":"purr much loud than cat",
+},
+
+{
+"type":"zoo to have on display",
+},
+
+{
+"type":"asian supermarket",
+},
+
+{
+"type":"tear of black tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger",
+"Description":"a fierce or audacious person",
+"IsA": ["person"],
+},
+
+{
+"type":"human",
+"CapableOf": ["hunt lion"],
+},
+
+{
+"type":"greenville lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"abig cat",
+},
+
+{
+"type":"terrorism",
+"Description":"the calculated use of violence against civilians in order to attain goals that are political or religious or ideological in nature",
+},
+
+{
+"type":"plant",
+"IsA": ["eukaryote"],
+},
+
+{
+"type":"person",
+"NotDesires": ["be eat by lion"],
+},
+
+{
+"type":"vientiane",
+},
+
+{
+"type":"tiger in lipstick",
+"IsA": ["film"],
+},
+
+{
+"type":"blind tiger",
+},
+
+{
+"type":"lion gardiner",
+"IsA": ["band"],
+},
+
+{
+"type":"red lion broadcast co. v. federal communication commission",
+"IsA": ["legal case", "supreme court of unite state case"],
+},
+
+{
+"type":"clarence cross-eyed lion",
+"IsA": ["film"],
+},
+
+{
+"type":"fringe theatre",
+},
+
+{
+"type":"change",
+},
+
+{
+"type":"unfinished music no life with lion",
+"IsA": ["album"],
+},
+
+{
+"type":"HasProperty",
+},
+
+{
+"type":"ahead of lion",
+"IsA": ["album"],
+},
+
+{
+"type":"lion of macedon",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"lion sermon",
+"RelatedTo": ["lion"],
+},
+
+{
+"type":"o",
+},
+
+{
+"type":"sinai leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"small dog in stomach",
+"AtLocation": ["lion"],
+},
+
+{
+"type":"island leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"ust tiger radio",
+"IsA": ["broadcaster", "radio station", "organisation"],
+},
+
+{
+"type":"lion need",
+},
+
+{
+"type":"stourbridge lion",
+"IsA": ["mean of transportation", "locomotive"],
+},
+
+{
+"type":"jaguar xk",
+"Description":"x100",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"Series 1 XJ",
+},
+
+{
+"type":"elapid",
+"Description":"any of numerous venomous fanged snakes of warmer parts of both hemispheres",
+},
+
+{
+"type":"cicindelidae",
+"Description":"tiger beetles",
+"IsA": ["arthropod family"],
+"MemberOf": ["coleoptera"],
+},
+
+{
+"type":"savannah",
+},
+
+{
+"type":"lion be in street",
+"IsA": ["film"],
+},
+
+{
+"type":"unite kingdom",
+},
+
+{
+"type":"fender skirt",
+},
+
+{
+"type":"lion",
+"Description":"large gregarious predatory feline of africa and india having a tawny coat with a shaggy mane in the male",
+"IsA": ["big cat"],
+"MemberOf": ["pride", "panthera"],
+},
+
+{
+"type":"record label",
+},
+
+{
+"type":"land of tiger",
+"IsA": ["television show"],
+},
+
+{
+"type":"carnivore",
+},
+
+{
+"type":"gryphon",
+"Description":"winged monster with the head of an eagle and the body of a lion",
+"IsA": ["mythical monster"],
+},
+
+{
+"type":"non-profit organisation",
+},
+
+{
+"type":"lion heart",
+"Description":"malaysian tv series",
+"IsA": ["television show"],
+},
+
+{
+"type":"ghost town",
+},
+
+{
+"type":"lion-hunter",
+"Description":"someone who hunts lions",
+"IsA": ["hunter"],
+},
+
+{
+"type":"ty tasmanian tiger",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"new zealand sea lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"tiger direct",
+"IsA": ["privately hold company", "organisation", "company"],
+"AtLocation": ["fountainebleau florida", "unite state"],
+},
+
+{
+"type":"washington",
+"Description":"state",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"merciless",
+"SimilarTo": ["tigerish"],
+},
+
+{
+"type":"kabushiki gaisha",
+},
+
+{
+"type":"kuekenthal yellow tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"lowland leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"t&apos;ai fu wrath of tiger",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"hamilton tiger-cats",
+"IsA": ["organisation", "canadian football team", "sport team"],
+"AtLocation": ["canada", "hamilton ontario"],
+},
+
+{
+"type":"tiger shrike",
+"IsA": ["bird"],
+},
+
+{
+"type":"cicindela puritana",
+},
+
+{
+"type":"paper lion",
+"IsA": ["band"],
+},
+
+{
+"type":"tiger that be not",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"mollusca",
+},
+
+{
+"type":"one day as lion",
+"IsA": ["band"],
+},
+
+{
+"type":"tiger salamander",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"word tire",
+"CapableOf": ["sound like tiger"],
+},
+
+{
+"type":"san diego wfc sea lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"blood of leopard",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger airway",
+"IsA": ["airline", "organisation", "company"],
+},
+
+{
+"type":"tiger flower",
+"IsA": ["athlete", "boxer"],
+},
+
+{
+"type":"leopard whipray",
+"IsA": ["fish"],
+},
+
+{
+"type":"rock tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"strip",
+},
+
+{
+"type":"daniel stripe tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"tiger orchid",
+"IsA": ["plant"],
+},
+
+{
+"type":"eared seal",
+"Description":"pinniped mammal having external ear flaps and hind limbs used for locomotion on land",
+"MemberOf": ["otariidae"],
+},
+
+{
+"type":"black tiger",
+"Description":"video game",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"office holder",
+},
+
+{
+"type":"wild tiger i have know",
+"IsA": ["film"],
+},
+
+{
+"type":"percy fender",
+"IsA": ["athlete", "cricketer"],
+},
+
+{
+"type":"dangerous animal",
+},
+
+{
+"type":"egyptian deity",
+"Description":"a deity worshipped by the ancient egyptians",
+},
+
+{
+"type":"weiske tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"mudguard",
+},
+
+{
+"type":"kill",
+},
+
+{
+"type":"eat gazelle",
+},
+
+{
+"type":"lion kin",
+},
+
+{
+"type":"flores tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"tiger lily",
+"Description":"lily of southeastern united states having cup-shaped flowers with deep yellow to scarlet recurved petals",
+"IsA": ["lily"],
+},
+
+{
+"type":"tiger wood",
+"DefinedAs": ["best golfer in whole universe", "best golfer"],
+"CapableOf": ["complete very well at golf"],
+"IsA": ["golf player", "talented golf player", "golfer"],
+"HasProperty": ["half black half asian"],
+},
+
+{
+"type":"lucid dream",
+"MotivatedByGoal": ["be tiger"],
+},
+
+{
+"type":"exit dragon enter tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger in well",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tiger snout seahorse",
+"IsA": ["fish"],
+},
+
+{
+"type":"time for lion",
+"IsA": ["album"],
+},
+
+{
+"type":"nimravus",
+"Description":"false sabertoothed tigers",
+"IsA": ["mammal genus"],
+"MemberOf": ["felidae"],
+},
+
+{
+"type":"shop mall",
+},
+
+{
+"type":"escape",
+"RelatedTo": ["from tiger", "tiger"],
+},
+
+{
+"type":"paint",
+},
+
+{
+"type":"oxeneers or lion sleep when it antelope go home",
+"IsA": ["album"],
+},
+
+{
+"type":"protect area",
+},
+
+{
+"type":"writer",
+"IsA": ["artist", "person"],
+},
+
+{
+"type":"tiger claw",
+"IsA": ["film"],
+},
+
+{
+"type":"iguanid",
+"Description":"lizards of the new world and madagascar and some pacific islands",
+},
+
+{
+"type":"hair lion",
+},
+
+{
+"type":"red lion hotel corporation",
+"IsA": ["organisation", "company", "public company"],
+"AtLocation": ["washington", "unite state", "spokane washington"],
+},
+
+{
+"type":"university of south alabama",
+},
+
+{
+"type":"york county pennsylvania",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"canadian football team",
+},
+
+{
+"type":"operation lion leap",
+"IsA": ["military conflict", "event"],
+"PartOf": ["post-invasion iraq"],
+},
+
+{
+"type":"unincorporated area",
+},
+
+{
+"type":"eastern leopard toad",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"chronicle of narnia lion witch and wardrobe",
+"Description":"video game",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"jaguar mark 1",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"pend oreille county washington",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"nubian lion",
+"Synonym": ["barbary lion"],
+},
+
+{
+"type":"seal",
+},
+
+{
+"type":"spot tiger",
+},
+
+{
+"type":"HasSubevent",
+},
+
+{
+"type":"tiger grouper",
+"IsA": ["fish"],
+},
+
+{
+"type":"ferocious animal",
+},
+
+{
+"type":"ottawa",
+"PartOf": ["ontario"],
+},
+
+{
+"type":"ferocious",
+},
+
+{
+"type":"tiger airway hold",
+"IsA": ["organisation", "company"],
+"AtLocation": ["singapore"],
+},
+
+{
+"type":"even lion",
+"CapableOf": ["tolerate fly"],
+},
+
+{
+"type":"nemean lion",
+"DerivedFrom": ["nemean", "lion"],
+},
+
+{
+"type":"sm tiger",
+"Description":"1887",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"ox eagle lion man",
+"IsA": ["band"],
+},
+
+{
+"type":"callimorpha",
+"Description":"cinnabar moths",
+"MemberOf": ["arctiidae"],
+},
+
+{
+"type":"puma",
+"Synonym": ["mountain lion"],
+},
+
+{
+"type":"jaguar mark 2",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"toledo ohio",
+},
+
+{
+"type":"live with lion",
+"Description":"band",
+"IsA": ["band"],
+},
+
+{
+"type":"lion sometimes",
+},
+
+{
+"type":"panthera leo fossilis",
+"IsA": ["mammal"],
+},
+
+{
+"type":"lion king i i simba pride",
+"IsA": ["film"],
+},
+
+{
+"type":"jenny",
+"NotCapableOf": ["beat lion"],
+},
+
+{
+"type":"yarn",
+},
+
+{
+"type":"lion club",
+"Description":"club dedicated to promoting responsible citizenship and good government and community and national and international welfare",
+"IsA": ["service club"],
+},
+
+{
+"type":"leggo de lion",
+"IsA": ["album"],
+},
+
+{
+"type":"educational institution",
+},
+
+{
+"type":"leopard bush fish",
+"IsA": ["fish"],
+},
+
+{
+"type":"timor yellow tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"lion king",
+"IsA": ["good movie", "musical"],
+},
+
+{
+"type":"rag wing rw 22 tiger moth",
+"IsA": ["homebuilt aircraft", "mean of transportation", "aircraft"],
+},
+
+{
+"type":"spring tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"group lion",
+},
+
+{
+"type":"man-tiger",
+},
+
+{
+"type":"this",
+"IsA": ["mountain lion", "speedboat", "speedboat go fast"],
+},
+
+{
+"type":"tiger wood pga tour",
+"Description":"video game",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"georgia",
+"Description":"u.s. state",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"henry lion",
+"IsA": ["british royalty", "person"],
+},
+
+{
+"type":"aphid lion",
+"Description":"carnivorous larva of lacewing flies",
+"IsA": ["larva"],
+"MemberOf": ["chrysopidae", "hemerobiidae"],
+},
+
+{
+"type":"tiger snake",
+"Description":"highly venomous brown-and-yellow snake of australia and tasmania",
+"IsA": ["elapid"],
+"MemberOf": ["notechis"],
+},
+
+{
+"type":"tagak leopard lord",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"daniel",
+"Description":"a youth who was taken into the court of nebuchadnezzar and given divine protection when thrown into a den of lions",
+"HasContext": ["old testament"],
+"InstanceOf": ["prophet"],
+},
+
+{
+"type":"jaguar",
+"Description":"band",
+"IsA": ["band"],
+},
+
+{
+"type":"jaguar love ep",
+"IsA": ["album"],
+},
+
+{
+"type":"lion as pet",
+},
+
+{
+"type":"tiger",
+"Description":"band",
+"IsA": ["band"],
+},
+
+{
+"type":"speakeasy",
+},
+
+{
+"type":"thunder tiger",
+"IsA": ["organisation", "company"],
+"AtLocation": ["taiwan", "taichung"],
+},
+
+{
+"type":"tiger kid",
+"IsA": ["athlete", "wrestler"],
+},
+
+{
+"type":"time for tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"tiger of eschnapur",
+"Description":"1959 film",
+"IsA": ["film"],
+},
+
+{
+"type":"arctiidae",
+"Description":"tiger moths",
+"IsA": ["arthropod family"],
+"MemberOf": ["lepidoptera"],
+},
+
+{
+"type":"butterfly orchid",
+"Description":"spectacular large tiger-striped orchids",
+"IsA": ["orchid"],
+"MemberOf": ["psychopsis"],
+},
+
+{
+"type":"lion ear",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"lion-devant-dun",
+"IsA": ["populate place", "place", "settlement"],
+},
+
+{
+"type":"tiger",
+"IsA": ["big cat", "cat"],
+"RelatedTo": ["lion and", "lion kin"],
+"CapableOf": ["live in asia", "circle it prey", "jump though hoop", "spring from bush", "eat", "hunt for food", "drink water", "kill you"],
+"IsA": ["very large cat", "cat family", "predatory carnivore and so may attack person"],
+"RelatedTo": ["similar leopard", "stripe cat", "kin", "ferocious animal", "big cat", "tail", "big", "jungle", "stripe tail", "similar", "zoo", "vicious animal", "wildcat", "bengal", "strip", "large", "big than", "stripe animal", "roar", "large cat", "vicious", "ferocious", "feline", "zebra", "than"],
+"AtLocation": ["jungle", "india", "zoo"],
+"SymbolOf": ["korea university"],
+},
+
+{
+"type":"bless you boy diary of detroit tiger 1984 season",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"golden",
+},
+
+{
+"type":"northwest mexico leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"sibirian tiger",
+"HasProperty": ["extinct"],
+},
+
+{
+"type":"corner prey",
+},
+
+{
+"type":"descendant of snow leopard",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger skin",
+"HasProperty": ["stripe"],
+},
+
+{
+"type":"lion bear",
+},
+
+{
+"type":"route of transportation",
+},
+
+{
+"type":"lion of ireland",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"commando leopard",
+"IsA": ["film"],
+},
+
+{
+"type":"jaguar v 12 engine",
+"IsA": ["device", "automobile engine"],
+},
+
+{
+"type":"century city los angeles",
+},
+
+{
+"type":"wear you out",
+},
+
+{
+"type":"send away tiger",
+"IsA": ["album"],
+},
+
+{
+"type":"sharp tooth",
+},
+
+{
+"type":"afraid to dismount",
+},
+
+{
+"type":"dhaka",
+},
+
+{
+"type":"samsons-lion",
+"IsA": ["populate place", "place", "settlement"],
+},
+
+{
+"type":"panthera palaeosinensis",
+"IsA": ["mammal"],
+},
+
+{
+"type":"symbolize power",
+},
+
+{
+"type":"when tiger broke free",
+"IsA": ["single"],
+},
+
+{
+"type":"big",
+},
+
+{
+"type":"glass tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"leopard chimaera",
+"IsA": ["fish"],
+},
+
+{
+"type":"port lion airport",
+"IsA": ["infrastructure", "airport", "architectural structure"],
+},
+
+{
+"type":"kill zebra",
+},
+
+{
+"type":"asterid dicot genus",
+"Description":"genus of more or less advanced dicotyledonous herbs and some trees and shrubs",
+},
+
+{
+"type":"drink water",
+},
+
+{
+"type":"food lion",
+"IsA": ["organisation", "company", "subsidiary"],
+"AtLocation": ["salisbury north carolina", "unite state"],
+},
+
+{
+"type":"gaydon",
+},
+
+{
+"type":"mark of lion series",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"jacksonville jaguar",
+"IsA": ["american football team", "organisation", "sport team"],
+},
+
+{
+"type":"fear lion",
+},
+
+{
+"type":"celebrity",
+"Description":"a widely known person",
+},
+
+{
+"type":"cave lion",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"mane tooth",
+},
+
+{
+"type":"cape lion",
+"IsA": ["mammal"],
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"jaguar land rover gaydon centre",
+},
+
+{
+"type":"live in asia",
+},
+
+{
+"type":"tiger cat",
+"Description":"medium-sized wildcat of central america and south america having a dark-striped coat",
+"IsA": ["wildcat"],
+"MemberOf": ["felis"],
+},
+
+{
+"type":"with mane",
+},
+
+{
+"type":"tiger have speak",
+"IsA": ["live album"],
+},
+
+{
+"type":"tusk of jaguar",
+"IsA": ["album"],
+},
+
+{
+"type":"lion on leash",
+"IsA": ["album"],
+},
+
+{
+"type":"northeastern beach tiger beetle",
+"DefinedAs": ["cicindela dorsalis dorsalis"],
+},
+
+{
+"type":"jaguar s-type",
+"Description":"1963",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"florida",
+"IsA": ["place"],
+},
+
+{
+"type":"belly of lion",
+},
+
+{
+"type":"bast",
+"Description":"cat- or lion-headed egyptian goddess",
+"InstanceOf": ["egyptian deity"],
+},
+
+{
+"type":"lion witch and wardrobe",
+"Description":"1988 tv serial",
+"IsA": ["television show"],
+},
+
+{
+"type":"not paper tiger",
+},
+
+{
+"type":"otaria",
+"Description":"type genus of the otariidae",
+"MemberOf": ["otariidae"],
+},
+
+{
+"type":"biak tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"lion tiger bear",
+"IsA": ["single"],
+},
+
+{
+"type":"modest tiger parrot",
+"IsA": ["bird"],
+},
+
+{
+"type":"tiger roar",
+"IsA": ["periodical literature", "student newspaper", "newspaper", "write work"],
+},
+
+{
+"type":"in midst of lion",
+"IsA": ["band"],
+},
+
+{
+"type":"panthera leo spelaea",
+"IsA": ["mammal"],
+},
+
+{
+"type":"tiger suit",
+"IsA": ["album"],
+},
+
+{
+"type":"cloud leopard",
+},
+
+{
+"type":"lion belly",
+},
+
+{
+"type":"protect specie",
+},
+
+{
+"type":"music download",
+},
+
+{
+"type":"pinal county arizona",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"elizabethan era",
+},
+
+{
+"type":"play",
+},
+
+{
+"type":"fast but dangerous",
+},
+
+{
+"type":"estimate at 4000 species year",
+},
+
+{
+"type":"privately hold company",
+},
+
+{
+"type":"nathi lion f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"NotDesires",
+},
+
+{
+"type":"sabre-tooth",
+"Synonym": ["sabre-toothed tiger"],
+},
+
+{
+"type":"lion tiger",
+},
+
+{
+"type":"when we be lion",
+"IsA": ["album"],
+},
+
+{
+"type":"represent courage",
+},
+
+{
+"type":"snow",
+},
+
+{
+"type":"notechis",
+"Description":"tiger snakes",
+"IsA": ["reptile genus"],
+"MemberOf": ["elapidae"],
+},
+
+{
+"type":"deer tiger",
+"Synonym": ["mountain lion"],
+},
+
+{
+"type":"fountainebleau florida",
+},
+
+{
+"type":"he who ride tiger",
+"IsA": ["album", "film"],
+"HasProperty": ["afraid to dismount"],
+},
+
+{
+"type":"le lion sont lÃƒÂ¢chÃƒÂ©s",
+"IsA": ["film"],
+},
+
+{
+"type":"dandelion",
+"RelatedTo": ["end lion", "lion"],
+},
+
+{
+"type":"leopard seal",
+"IsA": ["mammal"],
+"DerivedFrom": ["seal"],
+},
+
+{
+"type":"snow leopard",
+"Description":"large feline of upland central asia having long thick whitish fur",
+"IsA": ["big cat"],
+"MemberOf": ["panthera"],
+},
+
+{
+"type":"fin",
+"DerivedFrom": ["tail fin"],
+},
+
+{
+"type":"fender",
+"Description":"a low metal guard to confine falling coals to a hearth",
+"IsA": ["guard"],
+},
+
+{
+"type":"tiger shark",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"red tiger",
+"Synonym": ["mountain lion"],
+},
+
+{
+"type":"orchid",
+"Description":"any of numerous plants of the orchid family usually having flowers of unusual shapes and beautiful colors",
+},
+
+{
+"type":"lose land of tiger",
+"IsA": ["television show"],
+"AtLocation": ["bhutan"],
+},
+
+{
+"type":"lion gate entertainment",
+"IsA": ["organisation", "company", "public company"],
+"AtLocation": ["santa monica california", "unite state"],
+},
+
+{
+"type":"department store",
+},
+
+{
+"type":"AtLocation",
+},
+
+{
+"type":"aimÃƒÂ©e jaguar",
+"IsA": ["film"],
+},
+
+{
+"type":"dreadnought",
+},
+
+{
+"type":"tiger walk",
+"IsA": ["film"],
+},
+
+{
+"type":"construction",
+"RelatedTo": ["lion", "like lion"],
+},
+
+{
+"type":"lion pelican",
+"IsA": ["album"],
+},
+
+{
+"type":"lion of punjab",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger what",
+},
+
+{
+"type":"zinken tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"hm jaguar",
+"Description":"f34",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"sleep tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"share zebra",
+},
+
+{
+"type":"asian tiger",
+"DerivedFrom": ["tiger"],
+},
+
+{
+"type":"tiger stadium",
+"Description":"corsicana",
+"IsA": ["build", "place", "architectural structure", "stadium"],
+"AtLocation": ["texas state highway 22", "corsicana texas"],
+},
+
+{
+"type":"hamilton ontario",
+},
+
+{
+"type":"young lion",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"race of tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"lion of lucerne",
+"Description":"novel",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"new ireland yellow tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"50 lion",
+"IsA": ["band"],
+},
+
+{
+"type":"leopard cannot change it spot",
+"RelatedTo": ["leopard"],
+},
+
+{
+"type":"tiger wood pga tour 12",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"private company limit by share",
+},
+
+{
+"type":"foo dog",
+},
+
+{
+"type":"agressive animal",
+},
+
+{
+"type":"cry",
+"Description":"the characteristic utterance of an animal",
+},
+
+{
+"type":"lionfish",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"in zoo",
+},
+
+{
+"type":"able to do many other thing",
+},
+
+{
+"type":"beard",
+},
+
+{
+"type":"tiger wood pga tour 11",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"ross tiger",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"visayan leopard cat",
+"IsA": ["mammal"],
+},
+
+{
+"type":"lion",
+},
+
+{
+"type":"add thrill to circus",
+},
+
+{
+"type":"student newspaper",
+},
+
+{
+"type":"twist lion tail",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"jaguar car",
+"IsA": ["private company limit by share", "organisation", "company"],
+"AtLocation": ["unite kingdom", "coventry"],
+},
+
+{
+"type":"mosquito",
+"Description":"two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals",
+},
+
+{
+"type":"canada",
+"IsA": ["place"],
+},
+
+{
+"type":"lion-en-beauce",
+"IsA": ["populate place", "place", "settlement"],
+},
+
+{
+"type":"american football team",
+},
+
+{
+"type":"south africa",
+},
+
+{
+"type":"large",
+},
+
+{
+"type":"chair",
+"UsedFor": ["repel lion"],
+},
+
+{
+"type":"ghost lion",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"lion head provincial park",
+"IsA": ["place", "protect area"],
+},
+
+{
+"type":"cmc leopard",
+"IsA": ["mean of transportation", "aircraft"],
+},
+
+{
+"type":"afc leopard",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"live in africa",
+},
+
+{
+"type":"vegetable",
+},
+
+{
+"type":"pierre-louis lion",
+"IsA": ["scientist"],
+},
+
+{
+"type":"tiger wood pga tour 10",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"asian tiger mosquito",
+"Description":"striped native of japan thriving in southwestern and midwestern united states and spreading to the caribbean",
+"IsA": ["mosquito"],
+"MemberOf": ["aedes"],
+},
+
+{
+"type":"mac",
+},
+
+{
+"type":"barbary lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"thylacine",
+"Synonym": ["tasmanian tiger"],
+},
+
+{
+"type":"moon-blind",
+},
+
+{
+"type":"leopard security vehicle",
+"IsA": ["device", "weapon"],
+},
+
+{
+"type":"tiger shark",
+"IsA": ["predator", "large fierce shark", "television show", "large fierce shark that have faint stripe", "fish"],
+"RelatedTo": ["tiger beetle"],
+"DerivedFrom": ["tiger"],
+},
+
+{
+"type":"sea tiger",
+"IsA": ["navy", "organisation", "military unit"],
+},
+
+{
+"type":"lion",
+"Description":"mountain",
+"IsA": ["natural place", "mountain"],
+},
+
+{
+"type":"bosnian war",
+},
+
+{
+"type":"william tiger dunlop",
+"IsA": ["member of parliament", "politician", "person"],
+},
+
+{
+"type":"find in pride",
+},
+
+{
+"type":"tarzan and golden lion",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"vietnamese leopard gecko",
+"IsA": ["reptile"],
+},
+
+{
+"type":"slack creek tiger",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"golden lion",
+"IsA": ["award"],
+},
+
+{
+"type":"sound like tiger",
+},
+
+{
+"type":"paul brown tiger stadium",
+"IsA": ["build", "place", "architectural structure", "stadium"],
+"AtLocation": ["massillon ohio"],
+},
+
+{
+"type":"food",
+},
+
+{
+"type":"mountain lion",
+},
+
+{
+"type":"take tiger mountain",
+"Description":"by strategy",
+"IsA": ["album"],
+},
+
+{
+"type":"sphinx",
+"Description":"one of a number of large stone statues with the body of a lion and the head of a man that were built by the ancient egyptians",
+"IsA": ["statue"],
+},
+
+{
+"type":"cat",
+},
+
+{
+"type":"tiger beetle",
+},
+
+{
+"type":"us jaguar",
+"Description":"ix-120",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"studio album",
+},
+
+{
+"type":"hear from great distance",
+},
+
+{
+"type":"texas state highway 22",
+"IsA": ["place", "architectural structure"],
+},
+
+{
+"type":"there come lion",
+"IsA": ["album"],
+},
+
+{
+"type":"large city zoo",
+},
+
+{
+"type":"mountain",
+},
+
+{
+"type":"siberian",
+},
+
+{
+"type":"lion family",
+},
+
+{
+"type":"jaguar xkss",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"doleful lion",
+"IsA": ["band"],
+},
+
+{
+"type":"tiger",
+},
+
+{
+"type":"tiger eye",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"gazelle in jaw",
+"AtLocation": ["lion"],
+},
+
+{
+"type":"arabian leopard",
+"IsA": ["mammal"],
+},
+
+{
+"type":"vega valley leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"kin",
+},
+
+{
+"type":"artist",
+},
+
+{
+"type":"monoplane",
+},
+
+{
+"type":"antelope",
+"CapableOf": ["die from lion catch it"],
+},
+
+{
+"type":"club fender",
+"DerivedFrom": ["fender"],
+},
+
+{
+"type":"jaguar",
+"Description":"insurgent comix",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"beard lion",
+"DerivedFrom": ["beard", "lion"],
+},
+
+{
+"type":"leopard plant",
+"Description":"any of various plants of temperate eurasia",
+"IsA": ["herb"],
+"MemberOf": ["ligularia"],
+},
+
+{
+"type":"mammal",
+"IsA": ["animal"],
+},
+
+{
+"type":"herb",
+"Description":"a plant lacking a permanent woody stem",
+},
+
+{
+"type":"plain leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"tiger of malaya",
+"IsA": ["film"],
+},
+
+{
+"type":"panthera onca augusta",
+"IsA": ["mammal"],
+},
+
+{
+"type":"snow leopard",
+"hasContext": ["snow", "musical work", "non-profit organisation", "seattle", "snow", "run in snow", "snow leopard", "organisation", "military unit", "book", "snow spot", "specie", "porno", "uncia uncia", "panthera", "film", "write work", "big cat", "operate system", "special force"],
+},
+
+{
+"type":"jaguar x 350",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"hm jaguar",
+"Description":"f37",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"red lion",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"leopard lizard",
+"IsA": ["reptile"],
+},
+
+{
+"type":"lion cub",
+"Description":"a young lion",
+"IsA": ["lion", "cub"],
+},
+
+{
+"type":"belgrade",
+"IsA": ["place"],
+},
+
+{
+"type":"lion and lady",
+"IsA": ["film"],
+},
+
+{
+"type":"military unit",
+},
+
+{
+"type":"tiger army i i power of moonlite",
+"IsA": ["album"],
+},
+
+{
+"type":"bellow",
+"DerivedFrom": ["roar"],
+},
+
+{
+"type":"seoni madhya pradesh",
+"IsA": ["place"],
+},
+
+{
+"type":"doe hunt",
+},
+
+{
+"type":"collision",
+"Description":"an accident resulting from violent impact of a moving object",
+},
+
+{
+"type":"wild",
+},
+
+{
+"type":"cun can purr much loud than cat",
+},
+
+{
+"type":"malayan tiger",
+"IsA": ["mammal"],
+},
+
+{
+"type":"television episode",
+},
+
+{
+"type":"i get tiger by tail",
+"IsA": ["single"],
+},
+
+{
+"type":"duke lion fight terror",
+"IsA": ["album"],
+},
+
+{
+"type":"small and speedboat be fast and speedboat be boat",
+},
+
+{
+"type":"tiger lily",
+"Description":"east asian perennial having large reddish-orange black-spotted flowers with reflexed petals",
+"IsA": ["lily"],
+},
+
+{
+"type":"die from lion catch it",
+},
+
+{
+"type":"play in wizard of oz",
+},
+
+{
+"type":"man",
+"IsA": ["animal", "book", "write work"],
+},
+
+{
+"type":"florida panther",
+"IsA": ["subspecies of western mountain lion"],
+},
+
+{
+"type":"humble lion f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"pleistocene marsupial lion",
+"HasProperty": ["one of large marsupial carnivore"],
+},
+
+{
+"type":"tiger",
+"Description":"pornographic actor",
+"IsA": ["adult actor", "actor"],
+},
+
+{
+"type":"fuel filler caps",
+},
+
+{
+"type":"roar",
+"Description":"the sound made by a lion",
+"IsA": ["cry"],
+},
+
+{
+"type":"coal tiger",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"barbatula panthera",
+"IsA": ["fish"],
+},
+
+{
+"type":"ty tasmanian tiger 3 night of quinkan",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"amur",
+},
+
+{
+"type":"Fender",
+"hasContext": ["musical artist", "organisation", "single", "fend", "fender", "musical work", "specie", "collision", "decoration", "fender blemish", "fender skirt", "company", "cricketer", "person", "wing", "rugby player"],
+"hasContext": ["artist", "automobile", "spat", "scottsdale arizona", "car", "privately hold company", "guard", "mudguard", "fender bender", "locomotive", "barrier", "unite state", "icaricia icarioides fenderi", "framework", "repair shop"],
+},
+
+{
+"type":"lighthouse",
+},
+
+{
+"type":"crow tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"walk with lion",
+"IsA": ["film"],
+},
+
+{
+"type":"lion man",
+"Description":"serial",
+"IsA": ["film"],
+},
+
+{
+"type":"white tiger",
+"Description":"hector ayala",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"lion club",
+"RelatedTo": ["lion"],
+},
+
+{
+"type":"sri lanka lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"as tall as lion",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"australian sea lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"lionlike",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"white lion music",
+"IsA": ["record label", "organisation", "company"],
+},
+
+{
+"type":"tiger roche",
+"IsA": ["person"],
+},
+
+{
+"type":"mobile alabama",
+"IsA": ["place"],
+"PartOf": ["alabama"],
+},
+
+{
+"type":"framework",
+"Description":"a structure supporting or containing something",
+},
+
+{
+"type":"tiger of mompracem",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"black leopard f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"leopard coachlines",
+"IsA": ["infrastructure", "transit bus", "route of transportation", "place", "architectural structure", "public transit system"],
+"AtLocation": ["new zealand"],
+},
+
+{
+"type":"antlion",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"lion red",
+"IsA": ["beverage"],
+},
+
+{
+"type":"dangerous game",
+},
+
+{
+"type":"fender blue butterfly",
+"DefinedAs": ["icaricia icarioides fenderi"],
+},
+
+{
+"type":"california sea lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"Speedboat",
+"hasContext": ["transport person across water very fast", "speedboat in many state", "outboard motor", "small and speedboat be fast and speedboat be boat", "use at sea", "noisy", "board", "hear from great distance", "very fast", "motorboat", "go very fast", "fast but dangerous", "ski", "powerful motor", "boat", "small fast boat", "speedboat go fast", "power by gasoline"],
+},
+
+{
+"type":"ounce",
+"Synonym": ["snow leopard"],
+},
+
+{
+"type":"barbary lion",
+},
+
+{
+"type":"tear of tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"lion call",
+},
+
+{
+"type":"grumman xf 10 f jaguar",
+"IsA": ["fighter aircraft", "mean of transportation", "aircraft"],
+},
+
+{
+"type":"ramsey canyon leopard frog",
+"IsA": ["amphibian"],
+},
+
+{
+"type":"large animal",
+},
+
+{
+"type":"lion be lie in first plan elephant girafe and cow be stand behind him there be baobab on right and there",
+"IsA": ["sunset on leave"],
+},
+
+{
+"type":"feline",
+"IsA": ["carnivore"],
+"RelatedTo": ["cat lion"],
+},
+
+{
+"type":"tiger rattlesnake",
+"Description":"having irregularly cross-banded back",
+"IsA": ["rattlesnake"],
+"MemberOf": ["crotalus"],
+},
+
+{
+"type":"tiger town",
+"IsA": ["build", "place", "shop mall", "architectural structure"],
+"AtLocation": ["opelika alabama", "unite state"],
+},
+
+{
+"type":"glass tiger live",
+"IsA": ["album"],
+},
+
+{
+"type":"clemson south carolina",
+},
+
+{
+"type":"ukrainian lion",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"native to africa",
+},
+
+{
+"type":"bali tiger",
+},
+
+{
+"type":"leopard 12",
+"IsA": ["device", "weapon"],
+},
+
+{
+"type":"trainer",
+"Description":"aircraft",
+},
+
+{
+"type":"thylacinus cynocephalus",
+},
+
+{
+"type":"leopard skate",
+"IsA": ["fish"],
+},
+
+{
+"type":"felis",
+"Description":"true cats and most wildcats",
+},
+
+{
+"type":"three trap tiger",
+"IsA": ["band"],
+},
+
+{
+"type":"tarzan tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"tiger next door",
+"IsA": ["film"],
+},
+
+{
+"type":"paper",
+},
+
+{
+"type":"skintight jaguar",
+"IsA": ["band"],
+},
+
+{
+"type":"lionize",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"tiger fang",
+"IsA": ["film"],
+},
+
+{
+"type":"device",
+},
+
+{
+"type":"marsupial lion",
+"IsA": ["mammal"],
+"DerivedFrom": ["lion", "marsupial"],
+},
+
+{
+"type":"hold that lion",
+"IsA": ["film"],
+},
+
+{
+"type":"secularity",
+},
+
+{
+"type":"english ship leopard",
+"Description":"1635",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"leopard",
+"Description":"large feline of african and asian forests usually having a tawny coat with black spots",
+"IsA": ["big cat"],
+"MemberOf": ["panthera"],
+},
+
+{
+"type":"lion-mane",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"dance tiger",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"st b-acs tiger football team",
+"Description":"u16",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"be eat raw flesh",
+},
+
+{
+"type":"shark",
+"RelatedTo": ["water tiger", "tiger"],
+},
+
+{
+"type":"from africa",
+},
+
+{
+"type":"baseball player",
+"IsA": ["athlete"],
+},
+
+{
+"type":"stratford-upon-avon",
+"IsA": ["place"],
+},
+
+{
+"type":"eastern lion sc",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"lion among men",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"corsicana texas",
+"IsA": ["place"],
+},
+
+{
+"type":"crotalus",
+"Description":"large rattlesnakes",
+},
+
+{
+"type":"jaguar yokota",
+"IsA": ["athlete", "wrestler"],
+},
+
+{
+"type":"big cat",
+"Description":"any of several large cats typically able to roar and living in the wild",
+},
+
+{
+"type":"lion child",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"topic",
+"CapableOf": ["doe not contain these word mammal tiger leopard jaguar"],
+},
+
+{
+"type":"white tiger",
+"Description":"angela del toro",
+"IsA": ["comic character", "fictional character", "person"],
+},
+
+{
+"type":"jungle",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"wild animal from africa",
+},
+
+{
+"type":"hm leopard",
+"Description":"1741",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"bear cub",
+"Description":"a young bear",
+"IsA": ["cub"],
+},
+
+{
+"type":"african lion dog",
+"Synonym": ["rhodesian ridgeback"],
+},
+
+{
+"type":"stripe animal",
+},
+
+{
+"type":"arizona",
+"IsA": ["populate place", "place"],
+},
+
+{
+"type":"tiger washington",
+"IsA": ["populate place", "place", "settlement", "unincorporated area"],
+"PartOf": ["washington", "pend oreille county washington"],
+},
+
+{
+"type":"young lion",
+"Description":"film",
+"IsA": ["film"],
+},
+
+{
+"type":"southwest african lion",
+"IsA": ["mammal"],
+},
+
+{
+"type":"sweden",
+},
+
+{
+"type":"tiger jeet singh",
+"IsA": ["athlete", "wrestler"],
+},
+
+{
+"type":"water ski",
+"Description":"broad ski for skimming over water towed by a speedboat",
+"IsA": ["ski"],
+},
+
+{
+"type":"tiger make out",
+"IsA": ["film"],
+},
+
+{
+"type":"california jaguar",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"beetle",
+"Description":"insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings",
+},
+
+{
+"type":"eat your brother",
+},
+
+{
+"type":"sou le signe du lion",
+"IsA": ["television show"],
+},
+
+{
+"type":"leopard",
+"hasContext": ["bornean", "shark", "find in leap", "asterid dicot genus", "route of transportation", "limit partnership", "leopard", "large", "snow leopard", "soccer club", "musical work", "public transit system", "sport team", "o", "single", "change", "organisation", "film", "widely-distributed spot wild cat", "mean of transportation", "panthera pardus", "spot tiger", "moth", "locomotive", "frigate", "carnivore", "doe not contain these word mammal tiger leopard jaguar", "person", "origin of war of 1812", "rana", "architectural structure", "big cat", "neofelis nebulosa", "seattle", "big cat", "compositae", "wild cat", "software", "iguanidae", "cat", "run in snow", "cat spot", "panthera", "uncia uncia", "infrastructure", "fur", "snow", "black", "lily", "book", "spot cheetah", "have", "fictional character", "vientiane", "dhaka", "mac software", "event", "place"],
+"hasContext": ["operate system", "mac o", "cayman island", "streak", "transit bus", "true frog", "iguanid", "large cat", "prionailurus bengalensis bengalensis", "disease", "gambelia silus", "military unit", "phnom penh", "colombo", "herb", "ship", "non-profit organisation", "device", "aircraft", "weapon", "cloud leopard", "automobile", "snow spot", "write work", "monoplane", "company", "similar leopard", "have spot", "spot cat", "mac", "bornean cloud leopard", "fawn", "specie", "percina pantherina", "big", "spot", "snow", "military conflict", "wild", "felis", "comic character", "seal", "feline fawn", "reptile genus", "porno", "special force"],
+},
+
+{
+"type":"lion island",
+"Description":"new south wales",
+"IsA": ["place", "protect area"],
+"AtLocation": ["new south wale"],
+},
+
+{
+"type":"come i lion",
+"IsA": ["album"],
+},
+
+{
+"type":"leopard spot",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"cloud leopard",
+"DefinedAs": ["neofelis nebulosa"],
+"RelatedTo": ["bornean cloud leopard"],
+},
+
+{
+"type":"lion of juda",
+"IsA": ["album"],
+},
+
+{
+"type":"golden-headed lion tamarin",
+"IsA": ["mammal"],
+},
+
+{
+"type":"speedboat",
+"Description":"a fast motorboat",
+"IsA": ["motorboat"],
+},
+
+{
+"type":"carlstadt new jersey",
+},
+
+{
+"type":"hydroplane",
+"DerivedFrom": ["hydrofoil"],
+},
+
+{
+"type":"tiger ty",
+"IsA": ["fictional character", "person"],
+},
+
+{
+"type":"airport",
+"IsA": ["place"],
+},
+
+{
+"type":"tiger memon",
+"IsA": ["person"],
+},
+
+{
+"type":"new york",
+"PartOf": ["unite state"],
+},
+
+{
+"type":"india",
+"IsA": ["place"],
+},
+
+{
+"type":"blunt-nosed leopard lizard",
+"DefinedAs": ["gambelia silus"],
+},
+
+{
+"type":"PartOf",
+},
+
+{
+"type":"aphis",
+},
+
+{
+"type":"paint cat",
+"Synonym": ["mountain lion"],
+},
+
+{
+"type":"animal kingdom",
+},
+
+{
+"type":"lion class battlecruiser",
+"IsA": ["battlecruiser", "ship", "mean of transportation"],
+},
+
+{
+"type":"tiger moon",
+"Description":"band",
+"IsA": ["band"],
+},
+
+{
+"type":"use at sea",
+},
+
+{
+"type":"eelam",
+"Description":"the independent state that the tamil tigers have fought for",
+"PartOf": ["sri lanka"],
+},
+
+{
+"type":"willie lion smith",
+"IsA": ["artist", "musical artist", "person"],
+},
+
+{
+"type":"search for snow leopard",
+"IsA": ["book", "porno", "write work"],
+},
+
+{
+"type":"de havilland dh tiger moth",
+"IsA": ["mean of transportation", "aircraft"],
+},
+
+{
+"type":"tiger lou",
+"IsA": ["band"],
+},
+
+{
+"type":"lion",
+"DefinedAs": ["king of animal kingdom", "main cause of death among human"],
+"CapableOf": ["sound scary", "fear massai warrior", "eat elephant", "circle it prey", "hunt zebra", "do not eat cabbage", "live in den", "eat gazelle", "kill zebra", "share zebra", "be eat raw flesh", "rush to and fro", "cun can purr much loud than cat", "hurt person", "kill", "lie in jungle", "roar", "hunt for food", "eat other animal", "father some cub", "kill goat", "live in group call pride", "hunt", "would eat all animal in this picture", "live in africa", "corner prey", "hunt prey", "hunt human"],
+"IsA": ["carnivore he only eat meat", "big cat", "large animal", "cat and all cat can purr", "from africa", "book", "carnivoirs", "cat", "large than breadbox", "dangerous animal", "aggressive animal", "large cat", "fierce animal", "call king of jungle", "like cat", "large beast", "abig cat", "write work"],
+"RelatedTo": ["jungle cat", "with mane", "tiger kin", "man", "beast", "kin", "jungle king", "big mane", "african", "man animal", "predator", "big cat", "big", "jungle", "safari", "mammal", "safari animal", "carnivore", "beast king", "mane tooth", "carnivore animal", "wild cat", "wild", "large", "large cat", "tooth", "feline predator", "king of", "african mammal", "king", "cowardly", "cat animal"],
+"NotCapableOf": ["eat cabbage"],
+"UsedFor": ["act in tarzan movie", "play in wizard of oz", "tarzan movie", "cartoon", "safari", "add thrill to circus", "fable", "scary away intruder", "have circuis", "make nature movie", "prey on other animal", "symbolize power", "symbol", "hunt", "symbolize royalty", "zoo to have on display", "represent courage", "eat your brother", "symbolize strenght", "entertain", "keep as pet"],
+"AtLocation": ["paint", "in veldt", "jungle", "in zoo", "africa", "savannah", "large city zoo", "large group with other lion"],
+"HasProperty": ["native to africa", "alert", "agressive animal", "feline"],
+"PartOf": ["animal", "animal kingdom"],
+"HasA": ["four leg", "fur"],
+"ReceivesAction": ["relate to cat"],
+},
+
+{
+"type":"mizoram",
+"IsA": ["place"],
+},
+
+{
+"type":"us leopard",
+"Description":"ix-122",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"boxer",
+},
+
+{
+"type":"station",
+},
+
+{
+"type":"psychopsis krameriana",
+"Description":"orchid of south and central america having flowers similar to but smaller than psychopsis papilio",
+"IsA": ["butterfly orchid"],
+},
+
+{
+"type":"out of tiger mouth",
+"IsA": ["film"],
+},
+
+{
+"type":"xewkija tiger f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"tiger woman",
+"Description":"1944 film",
+"IsA": ["film"],
+},
+
+{
+"type":"MotivatedByGoal",
+},
+
+{
+"type":"eye tiger",
+},
+
+{
+"type":"trail of tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"jaguar xj r-9",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"east end lion f. c",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"MemberOf",
+},
+
+{
+"type":"tiger army",
+"Description":"album",
+"IsA": ["album"],
+},
+
+{
+"type":"wing commander ii i heart of tiger",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"public transit system",
+},
+
+{
+"type":"hyÃ…ï¿½go prefecture",
+},
+
+{
+"type":"jaguar d-type",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"dampa tiger reserve",
+"IsA": ["place", "protect area"],
+"AtLocation": ["mizoram", "india"],
+},
+
+{
+"type":"eat other animal",
+},
+
+{
+"type":"jaguar xk 6 engine",
+"IsA": ["device", "automobile engine"],
+},
+
+{
+"type":"lepidoptera",
+"Description":"moths and butterflies",
+},
+
+{
+"type":"eurocopter tiger",
+"IsA": ["mean of transportation", "attack helicopter", "aircraft"],
+},
+
+{
+"type":"many lion",
+"AtLocation": ["chobe"],
+},
+
+{
+"type":"jaguar s-type",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"wing",
+},
+
+{
+"type":"tampere tiger",
+"IsA": ["organisation", "sport team", "soccer club"],
+},
+
+{
+"type":"volusia county florida",
+"IsA": ["place"],
+},
+
+{
+"type":"ink lion",
+},
+
+{
+"type":"west bengal",
+"IsA": ["place"],
+},
+
+{
+"type":"black lion tamarin",
+"IsA": ["mammal"],
+},
+
+{
+"type":"sound like lion",
+},
+
+{
+"type":"crowley tiger",
+"IsA": ["insect"],
+},
+
+{
+"type":"three sad tiger",
+"IsA": ["film"],
+},
+
+{
+"type":"write work",
+},
+
+{
+"type":"military conflict",
+},
+
+{
+"type":"ty tasmanian tiger 2 bush rescue",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"lion of venice",
+"DerivedFrom": ["lion"],
+},
+
+{
+"type":"carve lion",
+"IsA": ["book", "write work"],
+},
+
+{
+"type":"bare-throated tiger heron",
+"IsA": ["bird"],
+},
+
+{
+"type":"hm leopard",
+"Description":"1703",
+"IsA": ["ship", "mean of transportation"],
+},
+
+{
+"type":"zookeeper",
+"CapableOf": ["keep lion"],
+},
+
+{
+"type":"tiger cat",
+"DefinedAs": ["leopardus tigrinus"],
+"RelatedTo": ["tiger beetle"],
+},
+
+{
+"type":"jump though hoop",
+},
+
+{
+"type":"good hunter",
+},
+
+{
+"type":"alien v predator",
+"Description":"jaguar game",
+"IsA": ["software", "video game"],
+},
+
+{
+"type":"Panthera",
+"hasContext": ["non-profit organisation", "felidae", "planet", "organisation", "panthera leo persica", "panthera pardus", "specie", "tiger", "panthera onca", "mammal genus", "mollusca"],
+},
+
+{
+"type":"aircraft",
+},
+
+{
+"type":"leopard anole",
+"IsA": ["reptile"],
+},
+
+{
+"type":"pride",
+"DefinedAs": ["group of lion"],
+"RelatedTo": ["lion", "lion family", "lion group", "group lion"],
+},
+
+{
+"type":"lily",
+},
+
+{
+"type":"eukaryote",
+"IsA": ["specie"],
+},
+
+{
+"type":"lion lamb",
+},
+
+{
+"type":"jaguar x-type",
+"IsA": ["mean of transportation", "automobile"],
+},
+
+{
+"type":"incline",
+"RelatedTo": ["lion", "ink lion"],
+},
+
+{
+"type":"hurricane",
+"Description":"pull tiger tail song",
+"IsA": ["single"],
+},
+
+{
+"type":"puritan tiger beetle",
+"DefinedAs": ["cicindela puritana"],
+},
+
+{
+"type":"jaguar",
+"DefinedAs": ["panthera onca"],
+},
+
+{
+"type":"public company",
+},
+
+{
+"type":"chimera",
+"Description":"fire-breathing female monster with a lion&apos;s head and a goat&apos;s body and a serpent&apos;s tail",
+"IsA": ["mythical monster"],
+},
+
+{
+"type":"sonoran tiger salamander",
+"DefinedAs": ["ambystoma tigrinum stebbinsi"],
+},
+
+{
+"type":"meg lion",
+"IsA": ["album"],
+},
+
+{
+"type":"tiger",
+"Description":"2005 film",
+"IsA": ["film"],
+},
+
+

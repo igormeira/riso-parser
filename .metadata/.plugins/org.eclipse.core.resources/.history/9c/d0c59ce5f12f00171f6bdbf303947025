@@ -1,0 +1,13 @@
+package main;
+
+import java.io.File;
+
+public class Json {
+	
+	private File fin;
+	
+	public void getJson (File fin) {
+		this.fin = fin;
+	}
+
+}

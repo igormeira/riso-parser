@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RDF Relations/src/files/rdfclean.txt&apos; to &apos;relations.txt&apos;" description="Rename resource &apos;rdfclean.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/files/rdfclean.txt" name="relations.txt" stamp="1489535478769" updateReferences="true"/>
+</session>

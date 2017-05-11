@@ -1,0 +1,376 @@
+package main;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Main {
+	
+	static List<Term> lista;
+
+	public static void main(String[] args) throws IOException {
+		File dir = new File(".");
+		File fin = new File(dir.getCanonicalPath() + File.separator + 
+				"src" + File.separator + "files" + File.separator + "rdf.txt");
+		File finalFile = new File(dir.getCanonicalPath() + File.separator + 
+				"src" + File.separator + "files" + File.separator + "rdfclean.txt");
+		
+		System.out.println(fin.toString());
+		String document = readFile(fin);
+		writeFile(finalFile, document);
+		System.out.println("DONE!");
+	}
+	
+	private static void writeFile(File finalFile, String document) throws FileNotFoundException, UnsupportedEncodingException {
+		PrintWriter writer = new PrintWriter(finalFile, "UTF-8");
+		writer.println(document);
+		writer.close();		
+	}
+
+	private static String readFile(File fin) throws IOException {
+		FileInputStream fis = new FileInputStream(fin);
+	 
+		//Construct BufferedReader from InputStreamReader
+		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
+	 
+		lista = new ArrayList<Term>();
+		String line = null;
+		Term term = new Term();
+		while ((line = br.readLine()) != null) {
+			if (line.contains("<rdf:Description")) {
+				term = new Term();
+				term.setType(getType(line));
+				term.setDescription(getDescription(line));
+			
+			} else {
+				if (line.contains("<rel:IsA")) {
+					term.getIs_a().add(addElement(line));					
+				} 
+				
+				else if (line.contains("<rel:PartOf")) {
+					term.getPart_of().add(addElement(line));
+				}
+				
+				else if (line.contains("<rel:InstanceOf")) {
+					term.getInstance_of().add(addElement(line));
+				}
+				
+				else if (line.contains("<rel:hasContext")) {
+					term.getHas_context().add(addElement(line));
+				}
+				
+				else if (line.contains("</rdf:Description>")) {
+					lista.add(term);
+				}
+			}
+			//System.out.println(lista.size());
+		}
+		br.close();
+		return finalText();
+	}
+
+
+	private static String addElement(String line) {
+		int start = line.indexOf("/en/");
+		
+		String result = line.substring(start+4, line.length()-3);
+		
+		if (result.contains("/")) {
+			result = result.substring(0, result.indexOf("/"));		
+		} 
+		
+		return result.replace("_", " ");
+	}
+	
+	private static String getDescription(String line) {
+		String result = "";
+		if (line.contains("/n/")) {
+			int start = line.indexOf("/n/");
+			result = line.substring(start+3, line.length()-2);
+			
+			return result.replace("_", " ");
+		} else {
+			return result;
+		}
+	}
+
+	private static String getType(String line) {
+		if (line.contains("/en/")) {
+			return baseCase(line);
+		
+		} else if (line.contains("/documents\\")) {
+			return docCase(line);
+		
+		} else if (line.contains("/r/")) {
+			return rCase(line);
+		
+		}
+		
+		return line;
+	}
+
+	
+	private static String rCase(String line) {
+		int start = line.indexOf("/r/");
+		String result = line.substring(start+3, line.length()-2);
+		
+		if (result.contains("/")) {
+			result = result.substring(0, result.indexOf("/"));			
+		} 
+		
+		return result.replace("_", " ");
+	}
+
+	private static String docCase(String line) {
+		int start = line.indexOf("/documents\\");
+		String result = line.substring(start+11, line.length()-2);
+		
+		if (result.contains("\\") && result.contains(".txt")) {			
+			result = result.substring(result.indexOf("\\")+1, result.indexOf("."));		
+		} 
+		
+		if (result.contains("\\") && !result.contains(".txt")) {
+			result = result.substring(result.indexOf("\\")+1);
+		}
+		
+		return result.replace("_", " ");
+	}
+
+	private static String baseCase(String line) {
+		int start = line.indexOf("/en/");
+		String result = line.substring(start+4, line.length()-2);
+		
+		if (result.contains("/")) {
+			result = result.substring(0, result.indexOf("/"));
+			
+		} 
+		
+		return result.replace("_", " ");
+	}
+
+	public static String finalText() {
+		String finalStr = "";		
+		
+		//addInverseRelation();
+		
+		for (Term term : lista) {
+			//finalStr += System.lineSeparator() + "{" + System.lineSeparator();
+			finalStr += "<" + term.getType() + System.lineSeparator();
+			
+			//System.out.println(finalStr);
+			
+			//finalStr += concatTerms(term);
+			if (!term.getDescription().equals("")) finalStr += concatDescription(term);
+			if (term.getIs_a().size() > 0) finalStr += concatIsA(term);
+			if (term.getPart_of().size() > 0) finalStr += concatPartOf(term);
+			if (term.getInstance_of().size() > 0) finalStr += concatInstanceOf(term);
+			if (term.getHas_context().size() > 0) finalStr += concatHasContext(term);			
+			
+			if (term.getType() != null && term.getType().equals(lista.get(lista.size()-1).getType())) {
+				finalStr += "/>";
+			}
+			else {
+				finalStr += "/>" + System.lineSeparator() + System.lineSeparator();
+			}			
+		}
+		//finalStr += "]";
+		//System.out.println(finalStr);
+		return finalStr;		
+	}
+	
+
+	private static String concatDescription(Term term) {
+		String str = "-Description: ";
+		str += term.getDescription();
+		str += System.lineSeparator();
+		return str;
+	}
+
+	//Inverse Relations 
+	private static void addInverseRelation() {
+		for (Term majorTerm : lista) {
+			//IsA relation
+			for (String isa : majorTerm.getIs_a()) {
+				for (Term term : lista) {
+					if (term.getType().equals(isa)) {
+						if (!term.getHas_subtype().contains(majorTerm.getType())) {
+							term.getHas_subtype().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//PartOf relation
+			for (String po : majorTerm.getPart_of()) {
+				for (Term term : lista) {
+					if (term.getType().equals(po)) {
+						if (!term.getHas_part().contains(majorTerm.getType())) {
+							term.getHas_part().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//HasSub relation
+			for (String sub : majorTerm.getHas_subtype()) {
+				for (Term term : lista) {
+					if (term.getType().equals(sub)) {
+						if (!term.getIs_a().contains(majorTerm.getType())) {
+							term.getIs_a().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//HasPart relation
+			for (String hp : majorTerm.getHas_part()) {
+				for (Term term : lista) {
+					if (term.getType().equals(hp)) {
+						if (!term.getPart_of().contains(majorTerm.getType())) {
+							term.getPart_of().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//HasContext relation
+			for (String hc : majorTerm.getHas_context()) {
+				for (Term term : lista) {
+					if (term.getType().equals(hc)) {
+						if (!term.getContext_of().contains(majorTerm.getType())) {
+							term.getContext_of().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//ContextOf relation
+			for (String co : majorTerm.getContext_of()) {
+				for (Term term : lista) {
+					if (term.getType().equals(co)) {
+						if (!term.getHas_context().contains(majorTerm.getType())) {
+							term.getHas_context().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//HasAcronym relation
+			for (String ha : majorTerm.getHas_acronym()) {
+				for (Term term : lista) {
+					if (term.getType().equals(ha)) {
+						if (!term.getAcronym_of().contains(majorTerm.getType())) {
+							term.getAcronym_of().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+			//AcronymOf relation
+			for (String ao : majorTerm.getAcronym_of()) {
+				for (Term term : lista) {
+					if (term.getType().equals(ao)) {
+						if (!term.getHas_acronym().contains(majorTerm.getType())) {
+							term.getHas_acronym().add(majorTerm.getType());
+						}
+					}
+				}
+			}
+		}
+		
+	}
+
+	//Concatenates
+	private static String concatHasContext(Term term) {
+		String str = "-HasContext: ";
+		String lastSub = "";
+		
+		for (String element : term.getHas_context()) {
+			if (element.contains("_")) {
+				int indexBegin = element.indexOf("_") + 1;
+				int indexFinal = element.length();
+				String sub = element.substring(indexBegin, indexFinal);				
+				element = sub;
+				
+				String lastElement = term.getHas_context().get(term.getHas_context().size()-1);
+				lastSub = lastElement.substring(indexBegin, lastElement.length());
+			}		
+			if (!str.contains(element)) {
+				str += element;
+				if (element.equals(term.getHas_context().get(term.getHas_context().size()-1)) || element.equals(lastSub)) {
+					str += System.lineSeparator();
+				}
+				else {
+					str += ", ";
+				}
+			}
+		}
+		
+		if (term.getHas_context().size() == 0) {
+			str += System.lineSeparator();
+		}
+		
+		return str;
+	}
+
+	private static String concatInstanceOf(Term term) {
+		String str = "-InstanceOf: ";
+		
+		for (String element : term.getInstance_of()) {
+			str += element;
+			if (element.equals(term.getInstance_of().get(term.getInstance_of().size()-1))) {
+				str += System.lineSeparator();
+			}
+			else {
+				str += ", ";
+			}
+		}
+		
+		if (term.getInstance_of().size() == 0) {
+			str += System.lineSeparator();
+		}
+		
+		return str;
+	}
+
+	private static String concatPartOf(Term term) {
+		String str = "-PartOf: ";
+		
+		for (String element : term.getPart_of()) {
+			str += element;
+			if (element.equals(term.getPart_of().get(term.getPart_of().size()-1))) {
+				str += System.lineSeparator();
+			}
+			else {
+				str += ", " + System.lineSeparator();
+			}
+		}
+		
+		if (term.getPart_of().size() == 0) {
+			str += System.lineSeparator();
+		}
+		
+		return str;
+	}
+
+	private static String concatIsA(Term term) {
+		String str = "-IsA: ";
+		
+		for (String element : term.getIs_a()) {
+			str += element;
+			if (element.equals(term.getIs_a().get(term.getIs_a().size()-1))) {
+				str += System.lineSeparator();
+			}
+			else {
+				str += ", ";
+			}
+		}
+		
+		if (term.getIs_a().size() == 0) {
+			str += System.lineSeparator();
+		}
+		
+		return str;
+	}
+	
+}
