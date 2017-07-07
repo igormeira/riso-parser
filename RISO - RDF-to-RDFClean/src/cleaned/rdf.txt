@@ -453,7 +453,7 @@
 -IsA: soccer club
 />
 
-<lion king 1Ã‚Â½
+<lion king 1Â½
 -IsA: film
 />
 
@@ -711,7 +711,7 @@
 />
 
 <jaguar 420 and daimler sovereign
--Description: 1966Ã¢â‚¬â€œ69
+-Description: 1966â€“69
 -IsA: mean of transportation
 -IsA: automobile
 />
@@ -2797,7 +2797,7 @@
 -IsA: write work
 />
 
-<chesapeakeÃ¢â‚¬â€œ leopard affair
+<chesapeakeâ€“ leopard affair
 -IsA: military conflict
 -IsA: event
 -PartOf: origin of war of 1812
@@ -5161,7 +5161,7 @@
 -IsA: butterfly orchid
 />
 
-<galÃƒÂ¡pagos sea lion
+<galÃ¡pagos sea lion
 -IsA: mammal
 />
 
@@ -6287,7 +6287,7 @@
 <hanshin tiger
 -IsA: organisation
 -IsA: company
--AtLocation: hyÃ…ï¿½go prefecture
+-AtLocation: hyÅ�go prefecture
 -AtLocation: japan
 -AtLocation: nishinomiya
 />
@@ -6898,7 +6898,7 @@
 <tiger
 -hasContext: small tiger
 -hasContext: feline animal
--hasContext: hyÃ…ï¿½go prefecture
+-hasContext: hyÅ�go prefecture
 -hasContext: homebuilt aircraft
 -hasContext: airline
 -hasContext: similar leopard
@@ -8457,7 +8457,7 @@
 -HasProperty: afraid to dismount
 />
 
-<le lion sont lÃƒÂ¢chÃƒÂ©s
+<le lion sont lÃ¢chÃ©s
 -IsA: film
 />
 
@@ -8519,7 +8519,7 @@
 <AtLocation
 />
 
-<aimÃƒÂ©e jaguar
+<aimÃ©e jaguar
 -IsA: film
 />
 
@@ -10033,7 +10033,7 @@
 <public transit system
 />
 
-<hyÃ…ï¿½go prefecture
+<hyÅ�go prefecture
 />
 
 <jaguar d-type

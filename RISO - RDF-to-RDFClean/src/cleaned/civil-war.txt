@@ -1,0 +1,5423 @@
+<Confederacy
+-hasContext: geographical area
+-hasContext: south
+/>
+
+<rappahannock
+-Description: a river that flows across eastern virginia into the tidewater region
+-PartOf: virginia
+/>
+
+<burnside
+-IsA: single broadcast tv show
+-EtymologicallyDerivedFrom: burn
+-EtymologicallyDerivedFrom: side
+/>
+
+<communication
+-Description: the activity of communicating
+/>
+
+<nashville hot chicken
+-RelatedTo: nashville
+/>
+
+<president of unite state
+-Description: the person who holds the office of head of state of the united states government
+/>
+
+<Maryland 
+/>
+
+<Anaconda Plan 
+/>
+
+<West 
+/>
+
+<north
+-Description: the direction in which a compass needle points
+-IsA: direction
+/>
+
+<Valley Campaigns 
+/>
+
+<blockade
+-hasContext: blockade
+-hasContext: military
+-hasContext: military action
+-hasContext: besiege
+-hasContext: blockade
+-hasContext: obstruct
+-hasContext: blockade
+/>
+
+<  -02-   to   -02-   
+/>
+
+<savannah
+-Synonym: grassland with some scrub growth
+/>
+
+<great new orleans bridge
+-Description: twin cantilever bridges across the mississippi at new orleans
+-PartOf: new orleans
+/>
+
+<tennessee
+-Description: a river formed by the confluence of two other rivers near knoxville
+-PartOf: tennessee
+-PartOf: kentucky
+/>
+
+<lee
+-Description: the side of something that is sheltered from the wind
+-IsA: side
+-Antonym: windward
+/>
+
+<georgia
+-IsA: state
+/>
+
+<Union 
+/>
+
+<Army 
+/>
+
+<general
+-Description: a general officer of the highest rank
+-HasContext: military
+/>
+
+<besiege
+/>
+
+<father&apos;s day
+-Description: third sunday in june
+-PartOf: june
+/>
+
+<car
+-PartOf: traffic
+/>
+
+<halted 
+/>
+
+<virginia
+-IsA: state
+/>
+
+<large body of salt water
+/>
+
+<alabama
+-Description: a state in the southeastern united states on the gulf of mexico
+-MemberOf: confederacy
+-PartOf: gulf state
+/>
+
+<simony
+-Description: traffic in ecclesiastical offices or preferments
+-IsA: traffic
+/>
+
+<get
+-DerivedFrom: capture
+/>
+
+<killed 
+/>
+
+<hattiesburg
+-Description: a town in southeast mississippi
+-PartOf: mississippi
+/>
+
+<troops
+/>
+
+<jazz
+-AtLocation: new orleans
+/>
+
+<big bend national park
+-Description: a large national park in texas featuring mountains and desert and canyons and wildlife
+-PartOf: texas
+/>
+
+<soldier
+-Description: an enlisted man or woman who serves in an army
+/>
+
+<Alabama
+-hasContext: muskhogean
+-hasContext: state
+-hasContext: gulf state
+/>
+
+<abraham lincoln
+-Description: morse books
+-IsA: book
+/>
+
+<Nashville
+-hasContext: tv show
+-hasContext: georgia
+-hasContext: illinois
+-hasContext: radio station
+-hasContext: north carolina
+-hasContext: tennessee
+-hasContext: state capital
+/>
+
+<sign
+-DerivedFrom: signer
+/>
+
+<mississippi river
+-DefinedAs: long river in unite state
+-IsA: underspecified location
+-IsA: river
+-InstanceOf: natural place
+/>
+
+<hooker
+-Description: the player in the middle of the front row of the scrum who tries to capture the ball with the foot
+-HasContext: rugby
+/>
+
+<General Franz Sigel 
+/>
+
+<kola peninsula
+-Description: a peninsula in northwestern russia projecting eastward between the barents sea and the white sea
+-InstanceOf: peninsula
+/>
+
+<lie down
+/>
+
+<arabian peninsula
+-Description: a peninsula between the red sea and the persian gulf
+-InstanceOf: peninsula
+/>
+
+<isle
+-AtLocation: sea
+/>
+
+<install
+/>
+
+<McClellan 
+/>
+
+<  -05-1861 to   -05-1861 
+/>
+
+<burnside
+-Description: tv series
+-IsA: tv show
+/>
+
+<vicksburg
+-Description: a town in western mississippi on bluffs above the mississippi river to the west of jackson
+-PartOf: mississippi
+-InstanceOf: town
+/>
+
+<spring
+-Synonym: jump
+/>
+
+<last useful Southern port 
+/>
+
+<collapse
+-Description: an abrupt failure of function or complete physical exhaustion
+/>
+
+<Confederate hands
+/>
+
+<spring 
+/>
+
+<Mississippi 
+/>
+
+<north
+-Description: a location in the northern part of a country region or city
+-Attribute: northern
+/>
+
+<american civil war
+-Description: civil war in the united states between the north and the south
+/>
+
+<pluralism
+-Description: a social organization in which diversity of racial or religious or ethnic or cultural groups is tolerated
+-IsA: social organization
+/>
+
+<several Northern governors
+/>
+
+<placental
+-Description: mammals having a placenta
+/>
+
+<lee
+-Description: united states striptease artist who became famous on broadway in the 1930s
+-InstanceOf: stripper
+/>
+
+<june
+-IsA: month
+/>
+
+<last month of year
+/>
+
+<arm force day
+-Description: the 3rd saturday in may
+-PartOf: may
+/>
+
+<kanawha
+-Description: a tributary of the ohio river in west virginia
+-PartOf: west virginia
+/>
+
+<leader of unite state
+/>
+
+<union blockade
+-InstanceOf: military conflict
+-InstanceOf: event
+-InstanceOf: societal event
+/>
+
+<Confederate States of America 
+/>
+
+<death
+-AtLocation: war
+/>
+
+<benjamin butler
+-Description: politician
+-InstanceOf: congressman
+-InstanceOf: politician
+-InstanceOf: person
+/>
+
+<Alabama 
+/>
+
+<end
+-RelatedTo: finish
+-Antonym: begin
+/>
+
+<Grant commander 
+/>
+
+<set
+-RelatedTo: advance
+/>
+
+<Johnston 
+/>
+
+<person
+-CapableOf: plan
+/>
+
+<Union control 
+/>
+
+<nashville
+-IsA: radio station
+/>
+
+<river
+-Description: a large natural stream of water
+/>
+
+<capture
+-Description: any process in which an atomic or nuclear system acquires an additional particle
+/>
+
+<capture of Vicksburg
+/>
+
+<north
+-Description: the region of the united states lying to the north of the mason dixon line
+-Attribute: northern
+-InstanceOf: geographical area
+/>
+
+<season
+-Description: one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions
+/>
+
+<sherman
+-RelatedTo: jewish
+/>
+
+<Confederate government 
+/>
+
+<mississippi river
+-Description: ontario
+-IsA: river
+/>
+
+<east
+-Description: the region of the united states lying to the north of the ohio river and to the east of the mississippi river
+-InstanceOf: geographical area
+/>
+
+<hasText
+/>
+
+<musician
+-InstanceOf: musical artist
+-InstanceOf: person
+/>
+
+<way
+-Description: a course of conduct
+/>
+
+<san francisco
+-PartOf: california
+/>
+
+<fusion
+-Description: an occurrence that involves the production of a union
+-IsA: union
+/>
+
+<General Lee 
+/>
+
+<north carolina
+/>
+
+<capitol
+-Description: the government building in washington where the united states senate and the house of representatives meet
+-PartOf: washington
+/>
+
+<grant in aid
+-Description: a grant to a person or school for some educational project
+-IsA: grant
+/>
+
+<american state
+-Description: one of the 50 states of the united states
+/>
+
+<annunciation
+-Description: a festival commemorating the announcement of the incarnation by the angel gabriel to the virgin mary
+-PartOf: march
+/>
+
+<major fight
+/>
+
+<Sharpsburg
+/>
+
+<fortress
+/>
+
+<summer solstice
+-Description: june 21 when the sun is at its northernmost point
+-PartOf: june
+/>
+
+<live in barn
+/>
+
+<agropastoralist
+-RelatedTo: livestock
+/>
+
+<alabama
+-RelatedTo: montgomery
+/>
+
+<state capital
+-Description: the capital city of a political subdivision of a country
+/>
+
+<analyze
+-DerivedFrom: breakdown
+/>
+
+<state militias
+/>
+
+<march
+-Description: a procession of people walking together
+/>
+
+<ranch house
+-AtLocation: texas
+/>
+
+<crisis 
+/>
+
+<pressure
+-hasContext: pressure
+-hasContext: pressure
+-hasContext: pressure
+/>
+
+<single
+-InstanceOf: musical work
+/>
+
+<peninsula
+-Description: a large mass of land projecting into a body of water
+/>
+
+<Shenandoah Valley 
+/>
+
+<kentucky
+-Description: a state in east central united states
+/>
+
+<west potomac park
+-AtLocation: potomac river
+/>
+
+<natural place
+/>
+
+<victory
+-CausesDesire: celebrate
+/>
+
+<control
+-DerivedFrom: commander
+/>
+
+<way
+/>
+
+<smoke cigar
+/>
+
+<golfer
+-Description: someone who plays the game of golf
+/>
+
+<McClellan
+/>
+
+<traffic
+-Description: the amount of activity over a communication system during a given period of time
+-IsA: communication
+/>
+
+<Union Navy 
+/>
+
+<January
+-hasContext: january
+-hasContext: first month of year
+-hasContext: gregorian calendar month
+/>
+
+<Burnside
+-hasContext: side
+-hasContext: whisker
+-hasContext: general
+-hasContext: beard
+-hasContext: cheek
+-hasContext: moustache
+-hasContext: chin
+-hasContext: burn
+-hasContext: single broadcast tv show
+-hasContext: tv show
+/>
+
+<may
+/>
+
+<put in
+/>
+
+<defeated 
+/>
+
+<Confederate President Jefferson Davis 
+/>
+
+<New Orleans 
+/>
+
+<temporary capital 
+/>
+
+<cell
+-RelatedTo: mobile
+/>
+
+<Confederate President Jefferson Davis
+/>
+
+<abraham lincoln
+-RelatedTo: emancipator
+/>
+
+<Confederate hands 
+/>
+
+<fish
+-RelatedTo: sea
+/>
+
+<cricketer
+/>
+
+<Johnston
+-hasContext: habitational
+-hasContext: johnston
+-hasContext: scottish
+-hasContext: cricketer
+-hasContext: surname
+-hasContext: person
+-hasContext: english
+-hasContext: general
+/>
+
+<south carolina
+-Description: a state in the deep south
+-PartOf: deep south
+-PartOf: carolina
+-InstanceOf: american state
+/>
+
+<md
+-RelatedTo: maryland
+/>
+
+<playhouse
+/>
+
+<eyre peninsula
+-Description: a peninsula of southern australia
+-InstanceOf: peninsula
+/>
+
+<  -02-1861 to   -02-1861 
+/>
+
+<lead troop
+/>
+
+<lee
+-Description: american general who led the confederate armies in the american civil war
+-InstanceOf: general
+/>
+
+<human
+-AtLocation: battle
+/>
+
+<Peninsula Campaign
+-hasContext: military conflict
+-hasContext: event
+-hasContext: societal event
+/>
+
+<celebrate
+/>
+
+<met 
+/>
+
+<alaska peninsula
+-Description: a peninsula of southwestern alaska
+-InstanceOf: peninsula
+/>
+
+<Virginia
+-hasContext: state
+-hasContext: virginia
+/>
+
+<june
+-Description: the month following may and preceding july
+/>
+
+<fortress
+-Description: a fortified defensive structure
+/>
+
+<after
+/>
+
+<orders
+/>
+
+<Washington
+-hasContext: washington
+-hasContext: washington
+-hasContext: state
+-hasContext: general
+/>
+
+<Battle of Fredericksburg 
+/>
+
+<american revolutionary leader
+-Description: a nationalist leader in the american revolution and in the creation of the united states
+/>
+
+<hold to elect president
+/>
+
+<plural
+-Description: the form of a word that is used to denote more than one
+/>
+
+<add up
+/>
+
+<anemone
+-AtLocation: atlantic ocean
+/>
+
+<emancipator
+/>
+
+<trophy
+-SymbolOf: victory
+/>
+
+<bolivar
+-Description: venezuelan statesman who led the revolt of south american colonies against spanish rule
+-InstanceOf: general
+/>
+
+<artillery
+/>
+
+<reelection of Lincoln
+/>
+
+<plain
+-AtLocation: georgia
+/>
+
+<second battle of fort fisher
+-IsA: conflict
+-InstanceOf: military conflict
+-InstanceOf: event
+-InstanceOf: societal event
+/>
+
+<astonishing losses
+/>
+
+<tennessee
+/>
+
+<film
+/>
+
+<single day
+-InstanceOf: holiday
+-InstanceOf: international
+/>
+
+<street
+/>
+
+<end
+-Description: a final part or section
+/>
+
+<thrash
+-Description: a sound defeat
+-IsA: defeat
+/>
+
+<grant
+-Synonym: grant money
+/>
+
+<johnson city
+-Description: a town in northeastern tennessee
+-PartOf: tennessee
+/>
+
+<govern country
+/>
+
+<gulf state
+-Description: a region of the united states comprising states bordering the gulf of mexico
+/>
+
+<snake
+-AtLocation: texas
+-AtLocation: mississippi
+/>
+
+<spring
+-IsA: season
+/>
+
+<geographical area
+-Description: a demarcated area of the earth
+/>
+
+<regular international shipments 
+/>
+
+<side
+-Description: a surface forming part of the outside of an object
+/>
+
+<Second Bull Run 
+/>
+
+<livestock
+-hasContext: live in barn
+-hasContext: placental
+-hasContext: stocker
+/>
+
+<may
+-Description: the month following april and preceding june
+/>
+
+<ambulant
+/>
+
+<tuscaloosa
+-Description: a university town in west central alabama
+-PartOf: alabama
+/>
+
+<abraham lincoln
+-Description: book
+-IsA: book
+/>
+
+<spotsylvania
+-Description: a battle between the armies of grant and lee during the wilderness campaign
+-HasContext: virginia
+/>
+
+<made 
+/>
+
+<secession
+-hasContext: artistic movement
+-hasContext: separation
+-hasContext: secession
+-hasContext: school
+/>
+
+<William W. Averell 
+/>
+
+<5-09-   to 5-09-   
+/>
+
+<body of water
+/>
+
+<system
+-Description: a group of independent but interrelated elements comprising a unified whole
+/>
+
+<wordnet
+/>
+
+<  -12-1864 to   -12-1864 
+/>
+
+<coalition
+-Description: the state of being combined into one body
+-IsA: union
+/>
+
+<muscle
+-PartOf: body
+/>
+
+<General Philip Sheridan
+-hasContext: artwork
+/>
+
+<state militias 
+/>
+
+<on street
+/>
+
+<  -05-1863 to   -05-1863 
+/>
+
+<hooker
+-Description: a golfer whose shots typically curve left
+-IsA: golfer
+/>
+
+<award
+-DerivedFrom: grant
+/>
+
+<writer
+-Description: writes professionally
+/>
+
+<transfer property
+-Description: a possession whose ownership changes or lapses
+/>
+
+<abraham lincoln
+-Description: 1924 film
+-InstanceOf: film
+/>
+
+<Union victory 
+/>
+
+<nashvillian
+-RelatedTo: nashville
+/>
+
+<automobile
+/>
+
+<fall 
+/>
+
+<state
+/>
+
+<south carolina
+-IsA: state
+/>
+
+<redneck
+-AtLocation: georgia
+/>
+
+<cumberland
+-Description: a river that rises in southeastern kentucky and flows westward through northern tennessee to become a tributary of the ohio river in southwestern kentucky
+-PartOf: tennessee
+/>
+
+<sherman
+-Description: a peak in the rocky mountains in central colorado
+-PartOf: colorado
+-InstanceOf: mountain peak
+/>
+
+<york spit light
+-AtLocation: york river
+/>
+
+<lee
+-Description: united states physicist who collaborated with yang chen ning in disproving the principle of conservation of parity
+-InstanceOf: nuclear physicist
+/>
+
+<cut 
+/>
+
+<Tennessee 
+/>
+
+<red
+/>
+
+<her maj
+-DerivedFrom: maj
+/>
+
+<albany decatur
+-AtLocation: stonewall jackson
+/>
+
+<artillery
+-hasContext: artillery
+-hasContext: army unit
+-hasContext: military
+-hasContext: armament
+-hasContext: battery
+/>
+
+<battle of chancellorsville
+-IsA: conflict
+-InstanceOf: military conflict
+-InstanceOf: event
+-InstanceOf: societal event
+/>
+
+<lead country
+/>
+
+<carry
+-HasContext: livestock
+/>
+
+<digit
+/>
+
+<peninsula
+-hasContext: peninsula
+-hasContext: peninsula
+/>
+
+<bewitchery
+-Description: magnetic personal charm
+/>
+
+<advance
+/>
+
+<  -05-1862 to   -05-1862 
+/>
+
+<mid june
+-Description: the middle part of june
+-PartOf: june
+/>
+
+<ordered
+/>
+
+<failed attempt 
+/>
+
+<texas
+-Description: the second largest state
+/>
+
+<fort
+-Synonym: fortress
+/>
+
+<fall of Atlanta 
+/>
+
+<organization
+/>
+
+<significant factor
+/>
+
+<wear hat
+/>
+
+<fort
+-hasContext: garrison
+-hasContext: fortress
+-hasContext: meet
+-hasContext: fortress
+-hasContext: station
+-hasContext: playhouse
+/>
+
+<grant
+-Description: scottish painter
+-MemberOf: bloomsbury group
+/>
+
+<nest
+-Description: a cosy or secluded retreat
+-IsA: retreat
+/>
+
+<village
+-IsA: place
+/>
+
+<allowed Union forces 
+/>
+
+<radio station
+/>
+
+<general philip sheridan
+-InstanceOf: artwork
+/>
+
+<petersburg
+-Description: a town in southeastern virginia
+-PartOf: virginia
+-InstanceOf: town
+/>
+
+<Confederate forces
+/>
+
+<wayside
+-Description: edge of a way or road or path
+-PartOf: way
+/>
+
+<calendar book
+-UsedFor: plan
+/>
+
+<watercourse
+-IsA: body of water
+/>
+
+<sail on
+/>
+
+<corner of two street
+/>
+
+<zero
+-IsA: number
+/>
+
+<Burnside 
+/>
+
+<male
+/>
+
+<retreat
+-hasContext: signal
+-hasContext: withdrawal
+-hasContext: military
+-hasContext: area
+-hasContext: bugle call
+-hasContext: withdraw
+-hasContext: withdrawer
+/>
+
+<petersburg
+-Description: novel
+-IsA: book
+/>
+
+<political
+-RelatedTo: presidential election
+/>
+
+<twelvth month of year
+-IsA: december
+/>
+
+<lose
+/>
+
+<key stronghold 
+/>
+
+<demand high wage
+/>
+
+<knoxville
+-Description: a city in eastern tennessee on the tennessee river
+-PartOf: tennessee
+/>
+
+<capture 
+/>
+
+<georgetown
+-Description: a section of northwestern washington d c
+-PartOf: washington
+/>
+
+<city
+/>
+
+<immobile
+/>
+
+<chess move
+-Description: the act of moving a chess piece
+/>
+
+<savannah
+-RelatedTo: unite state
+/>
+
+<place
+/>
+
+<pressure
+/>
+
+<Virginia 
+/>
+
+<artillery
+-Description: an army unit that uses big guns
+-IsA: army unit
+-HasContext: military
+/>
+
+<potomac palisade site
+-AtLocation: potomac river
+/>
+
+<blockade
+-IsA: besiege
+-DerivedFrom: blockade
+/>
+
+<casualties 
+/>
+
+<established
+/>
+
+<artillery
+-Description: large but transportable armament
+-IsA: armament
+-PartOf: battery
+/>
+
+<commission naval officer
+-Description: a commissioned officer in the navy
+/>
+
+<military unit
+/>
+
+<spring
+-hasContext: rebound
+-hasContext: grow
+-hasContext: spring
+-hasContext: spring
+-hasContext: season
+-hasContext: jump
+-hasContext: season
+/>
+
+<unite state
+/>
+
+<spring
+-Description: the season of growth
+-IsA: season
+/>
+
+<resolution
+-Description: analysis into clear cut components
+-IsA: breakdown
+/>
+
+<military conflict
+/>
+
+<retreat 
+/>
+
+<fail
+-DerivedFrom: breakdown
+/>
+
+<sediment
+-Description: matter that has been deposited by some natural process
+/>
+
+<major battles
+/>
+
+<burnside
+-Description: united states general in the american civil war who was defeated by robert e lee at the battle of fredericksburg
+-InstanceOf: general
+/>
+
+<secession 
+/>
+
+<union
+-Description: the occurrence of a uniting of separate parts
+/>
+
+<grantee
+-Description: a recipient of a grant
+/>
+
+<go to sleep
+-UsedFor: rest
+/>
+
+<sworn 
+/>
+
+<war
+-DefinedAs: opposite of peace
+-IsA: hell
+-IsA: fight
+/>
+
+<union
+-CapableOf: demand high wage
+-AtLocation: workplace
+/>
+
+<east
+-RelatedTo: direction
+/>
+
+<opposite of peace
+/>
+
+<general
+-DerivedFrom: general
+/>
+
+<Union blockade 
+/>
+
+<advance
+/>
+
+<Potomac River
+-hasContext: underspecified location
+-hasContext: body of water
+/>
+
+<stream
+-IsA: watercourse
+/>
+
+<lee
+-Description: soldier of the american revolution
+-InstanceOf: soldier
+/>
+
+<defeat 
+/>
+
+<several Northern governors 
+/>
+
+<stonewall jackson
+-Description: musician
+-InstanceOf: musician
+/>
+
+<12-04-   to 12-04-   
+/>
+
+<gates of Richmond
+/>
+
+<transpondian
+-RelatedTo: atlantic ocean
+/>
+
+<1-04-   to 1-04-   
+/>
+
+<sculpture
+-Description: a three dimensional work of plastic art
+/>
+
+<thousands of freed slaves 
+/>
+
+<relief of Rosecrans 
+/>
+
+<PartOf
+/>
+
+<small dog
+-AtLocation: georgia
+/>
+
+<va
+-RelatedTo: virginia
+/>
+
+<richmond
+-IsA: capital
+-IsA: borough
+-PartOf: san francisco
+/>
+
+<johnston
+-RelatedTo: surname
+-RelatedTo: habitational
+-RelatedTo: english
+-RelatedTo: johnson
+-RelatedTo: scottish
+/>
+
+<free state
+-Description: any state prohibiting slavery prior to the american civil war
+-PartOf: union
+/>
+
+<north carolina
+-Description: a state in southeastern united states
+-MemberOf: confederacy
+/>
+
+<readied
+-Synonym: put in
+-Synonym: install
+-Synonym: set up
+/>
+
+<defeat
+-SimilarTo: lick
+/>
+
+<clinton
+-IsA: president
+/>
+
+<RelatedTo
+/>
+
+<Third Battle of Chattanooga 
+/>
+
+<conflict
+-IsA: event
+/>
+
+<grant
+-Description: any monetary aid
+/>
+
+<general
+-Description: the head of a religious order or congregation
+-DerivedFrom: generalship
+/>
+
+<build
+/>
+
+<december
+-DefinedAs: twelfth month of year
+-DefinedAs: last month of year
+-IsA: month
+/>
+
+<Lee army 
+/>
+
+<hold every four year
+/>
+
+<little bloodshed 
+/>
+
+<  -  -1860 to   -  -1860 
+/>
+
+<yazoo
+-Description: a river that rises in west central mississippi and flows southwest to empty into the mississippi river above vicksburg
+-PartOf: mississippi
+/>
+
+<battle of fredericksburg
+-IsA: conflict
+-InstanceOf: military conflict
+-InstanceOf: event
+-InstanceOf: societal event
+/>
+
+<east
+/>
+
+<north
+-SimilarTo: northeastern
+/>
+
+<international
+/>
+
+<Atlanta 
+/>
+
+<savannah
+-Description: a river in south carolina that flows southeast to the atlantic
+-PartOf: south carolina
+-InstanceOf: river
+/>
+
+<heart
+-AtLocation: person
+-SymbolOf: love
+-IsA: muscle
+-PartOf: human body
+-UsedFor: love
+-IsA: pump for blood
+-PartOf: body
+-HasProperty: red
+-UsedFor: pump blood
+-AtLocation: body
+/>
+
+<east
+-SimilarTo: eastern
+/>
+
+<matriarchy
+-Description: a form of social organization in which a female is the family head and title is traced through the female line
+-IsA: social organization
+/>
+
+<Tennessee
+-hasContext: tennessee
+-hasContext: south
+-hasContext: kentucky
+/>
+
+<battery
+-Description: a collection of related things intended for use together
+/>
+
+<cotton
+-AtLocation: georgia
+/>
+
+<sign
+-Description: a perceptible indication of something not immediately apparent
+/>
+
+<natchez
+-Description: a town in southwest mississippi on the mississippi river
+-PartOf: mississippi
+/>
+
+<grant
+-DerivedFrom: grantee
+/>
+
+<south
+/>
+
+<Western Theater
+/>
+
+<leningrad
+/>
+
+<dance music
+/>
+
+<signal
+-Description: any nonverbal action or gesture that encodes a message
+/>
+
+<Western Theater 
+/>
+
+<abraham lincoln
+-DefinedAs: 16th president of unite state
+-IsA: president of unite state
+-IsA: american president
+-InstanceOf: person
+/>
+
+<montgomery
+-IsA: city
+/>
+
+<SimilarTo
+/>
+
+<battle of antietam
+-IsA: conflict
+-InstanceOf: military conflict
+-InstanceOf: event
+-InstanceOf: societal event
+/>
+
+<Second Battle of Fort Fisher
+-hasContext: military conflict
+-hasContext: event
+-hasContext: societal event
+/>
+
+<chattanooga
+-Description: in the american civil war the union armies of hooker thomas and sherman under the command of ulysses s grant won a decisive victory over the confederate army under braxton bragg
+-HasContext: tennessee
+/>
+
+<Richmond 
+/>
+
+<capital city of nebraska
+-IsA: lincoln
+/>
+
+<christmas
+-RelatedTo: december
+/>
+
+<his maj
+-DerivedFrom: maj
+/>
+
+<blade
+-UsedFor: cut
+/>
+
+<Grant
+-hasContext: general
+-hasContext: grantee
+-hasContext: law
+-hasContext: grant
+-hasContext: transfer property
+-hasContext: grant money
+-hasContext: bloomsbury group
+/>
+
+<first invasion
+-InstanceOf: album
+/>
+
+<Marye Heights 
+/>
+
+<next day
+-hasContext: musical work
+-hasContext: rock music
+/>
+
+<asia minor
+-Description: a peninsula in southwestern asia that forms the asian part of turkey
+-InstanceOf: peninsula
+/>
+
+<grassland with some scrub growth
+/>
+
+<Maj
+-hasContext: maj
+/>
+
+<Southern ports
+/>
+
+<you know how to reach your goal
+/>
+
+<soldier
+-CapableOf: march
+-AtLocation: battle
+/>
+
+<sherman
+-Description: a town in northeastern texas near the oklahoma border
+-PartOf: texas
+-InstanceOf: town
+/>
+
+<burnside
+-RelatedTo: cheek
+-RelatedTo: beard
+-RelatedTo: moustache
+-RelatedTo: whisker
+-RelatedTo: chin
+/>
+
+<bugle call
+-Description: a signal broadcast by the sound of a bugle
+/>
+
+<virginia
+-Description: a state in the eastern united states
+/>
+
+<months 
+/>
+
+<capture
+-IsA: change
+-DerivedFrom: capture
+/>
+
+<naval blockade
+-Description: the interdiction of a nation&apos;s lines of communication at sea by the use of naval power
+-IsA: blockade
+/>
+
+<significant factor 
+/>
+
+<offensive operations 
+/>
+
+<capture
+-IsA: get
+/>
+
+<defeated
+/>
+
+<water
+-AtLocation: spring
+/>
+
+<sleep
+-IsA: relax
+-MotivatedByGoal: rest
+/>
+
+<capture
+-IsA: represent
+/>
+
+<way
+-Description: the property of distance in general
+-IsA: distance
+/>
+
+<achieve goal
+/>
+
+<beard
+/>
+
+<generalship
+-Description: the office and authority of a general
+/>
+
+<sit down
+-MotivatedByGoal: rest
+/>
+
+<multiple directions
+/>
+
+<single broadcast tv show
+/>
+
+<railroad supply lines
+/>
+
+<meet
+/>
+
+<destroy your enemy
+-Causes: victory
+-HasPrerequisite: plan
+/>
+
+<plan
+-UsedFor: achieve goal
+-Causes: you know how to reach your goal
+-HasPrerequisite: logic
+/>
+
+<set up
+/>
+
+<garrison
+-Description: a fortified military post where troops are stationed
+/>
+
+<forces
+/>
+
+<texas
+-IsA: state
+-PartOf: unite state of america
+/>
+
+<pump for blood
+/>
+
+<center for disease control and prevention
+-Description: a federal agency in the department of health and human services
+-PartOf: atlanta
+/>
+
+<Atlantic Ocean 
+/>
+
+<sworn
+/>
+
+<get good of
+/>
+
+<gordon height new york
+-InstanceOf: populate place
+-InstanceOf: place
+-InstanceOf: settlement
+-InstanceOf: census designate place
+/>
+
+<  -03-1781 to   -03-1781 
+/>
+
+<withdraw
+/>
+
+<churchill
+-Description: english general considered one of the greatest generals in history
+-InstanceOf: general
+/>
+
+<Battle 
+/>
+
+<whisker
+/>
+
+<retire
+-DerivedFrom: secession
+/>
+
+<area
+-Description: a particular geographical region of indefinite boundary
+/>
+
+<elizabeth furnace
+-AtLocation: shenandoah valley
+/>
+
+<Abraham Lincoln
+-hasContext: movie
+-hasContext: american president
+-hasContext: site
+-hasContext: person
+-hasContext: book
+-hasContext: 16th president of unite state
+-hasContext: film
+-hasContext: president of unite state
+-hasContext: emancipator
+/>
+
+<northeastern
+/>
+
+<blockade
+/>
+
+<abraham lincoln
+-Description: pullman car
+-IsA: site
+/>
+
+<general
+-Description: a fact about the whole
+/>
+
+<florence
+-Description: a town in northeast south carolina
+-PartOf: south carolina
+/>
+
+<dead person
+-AtLocation: war
+/>
+
+<leader
+/>
+
+<win war
+/>
+
+<aberdeen
+-Description: a town in northeastern maryland
+-PartOf: maryland
+/>
+
+<commit murder
+-HasPrerequisite: plan
+/>
+
+<humiliated 
+/>
+
+<vicksburg
+-Description: a decisive battle in the american civil war
+-HasContext: mississippi
+-PartOf: american civil war
+-InstanceOf: siege
+/>
+
+<military
+-Description: the military forces of a nation
+/>
+
+<readied 
+/>
+
+<pressurize
+-RelatedTo: pressure
+/>
+
+<presidential election
+-IsA: hold every four year
+-CausesDesire: change society
+-ReceivesAction: hold to elect president
+/>
+
+<george
+-RelatedTo: georgia
+/>
+
+<johnston
+-Description: middlesex cricketer
+-InstanceOf: athlete
+-InstanceOf: cricketer
+-InstanceOf: person
+/>
+
+<power outage
+-Description: equipment failure resulting when the supply of power fails
+-IsA: breakdown
+/>
+
+<Lee surrender 
+/>
+
+<HasContext
+/>
+
+<johnston
+-Description: confederate general in the american civil war
+-InstanceOf: general
+/>
+
+<military action
+-Description: a military engagement
+/>
+
+<number
+-hasContext: phone book
+-hasContext: add up
+-hasContext: digit
+/>
+
+<walk
+/>
+
+<father child
+/>
+
+<month
+/>
+
+<notice
+-DerivedFrom: sign
+/>
+
+<sold
+/>
+
+<attrition of local food supplies 
+/>
+
+<acquire
+-Description: the act of acquiring something
+/>
+
+<pressurize
+-DerivedFrom: pressure
+/>
+
+<captured 
+/>
+
+<central Tennessee
+-hasContext: populate place
+-hasContext: place
+-hasContext: settlement
+-hasContext: census designate place
+/>
+
+<President
+-hasContext: government
+-hasContext: elect
+-hasContext: lead country
+-hasContext: leader of unite state
+-hasContext: govern country
+-hasContext: govern nation
+-hasContext: sign bill
+-hasContext: lead nation
+-hasContext: head company
+/>
+
+<retreat
+-Description: a bugle call signaling the lowering of the flag at sunset
+-IsA: bugle call
+/>
+
+<capture
+-Description: the removal of an opponent&apos;s piece from the chess board
+-IsA: chess move
+/>
+
+<pressure
+-Description: a force that compels
+/>
+
+<way 
+/>
+
+<fort
+-IsA: station
+-DerivedFrom: garrison
+-DerivedFrom: fortress
+/>
+
+<day 
+/>
+
+<capture
+-Description: the act of forcibly dispossessing an owner of property
+-IsA: acquire
+/>
+
+<unending
+-RelatedTo: end
+/>
+
+<lead nation
+/>
+
+<fight
+/>
+
+<atlantic
+-RelatedTo: atlantic ocean
+/>
+
+<very vast body of water
+/>
+
+<siege
+-Description: the action of an armed force that surrounds a fortified place and isolates it while continuing to attack
+/>
+
+<sign
+-UsedFor: direction
+-AtLocation: bus stop
+-AtLocation: corner of two street
+-RelatedTo: road
+-AtLocation: fork in road
+/>
+
+<get
+/>
+
+<President 
+/>
+
+<montgomery
+-RelatedTo: monty
+/>
+
+<controlled
+/>
+
+<artwork
+/>
+
+<societal event
+/>
+
+<grant
+-Description: a transfer of property by deed of conveyance
+-IsA: transfer property
+-HasContext: law
+/>
+
+<SymbolOf
+/>
+
+<countermarch
+-Description: a march in the reverse direction or back along the same route
+-IsA: march
+/>
+
+<UsedFor
+/>
+
+<states 
+/>
+
+<blockade
+-Description: prevents access or progress
+/>
+
+<thousands of freed slaves
+/>
+
+<site
+/>
+
+<numerous successes 
+/>
+
+<george meade
+-IsA: military personnel
+-InstanceOf: military person
+-InstanceOf: person
+/>
+
+<blockade
+-IsA: obstruct
+-DerivedFrom: blockade
+/>
+
+<lick
+/>
+
+<head company
+/>
+
+<muskhogean
+-Description: a member of any of the peoples formerly living in southeastern united states and speaking muskhogean languages
+/>
+
+<underspecified location
+/>
+
+<tet
+-Description: the new year in vietnam
+-PartOf: january
+/>
+
+<slice
+/>
+
+<feudalism
+-Description: the social system that developed in europe in the 8th century
+-IsA: social organization
+/>
+
+<March
+-hasContext: gregorian calendar month
+-hasContext: march
+-hasContext: walk
+-hasContext: mar
+-hasContext: march
+-hasContext: month
+/>
+
+<heart 
+/>
+
+<upper peninsula
+-Description: the peninsula between lake superior and lake michigan that forms the northwestern part of michigan
+-InstanceOf: peninsula
+/>
+
+<bring
+-RelatedTo: advance
+/>
+
+<InstanceOf
+/>
+
+<movie
+/>
+
+<habitational
+/>
+
+<reelection of Lincoln 
+/>
+
+<recalled 
+/>
+
+<slave state
+-Description: any of the southern states in which slavery was legal prior to the american civil war
+-PartOf: confederacy
+/>
+
+<armament
+-Description: weaponry used by military or naval force
+/>
+
+<Lincoln victory 
+/>
+
+<United States military history 
+/>
+
+<followed
+/>
+
+< 
+/>
+
+<body
+/>
+
+<number 
+/>
+
+<ocean dump
+/>
+
+<change
+/>
+
+<steakhouse
+-AtLocation: texas
+/>
+
+<Texas
+-hasContext: state
+-hasContext: texas
+/>
+
+<mardi gras
+-Description: a carnival held in some countries on shrove tuesday but especially in new orleans
+-PartOf: new orleans
+/>
+
+<abraham lincoln
+-Description: film
+-IsA: movie
+/>
+
+<lee
+-EtymologicallyDerivedFrom: leer
+/>
+
+<Sherman
+-hasContext: american revolutionary leader
+-hasContext: general
+-hasContext: jewish
+-hasContext: texas
+-hasContext: village
+-hasContext: colorado
+-hasContext: mountain peak
+-hasContext: sherman
+-hasContext: populate area
+-hasContext: town
+/>
+
+<futile frontal assaults 
+/>
+
+<montgomery
+-Description: town
+-IsA: populate area
+/>
+
+<washington
+-Description: a state in northwestern united states on the pacific
+/>
+
+<York River 
+/>
+
+<fountain of youth
+-Description: a fountain described in folk tales as able to make people young again
+-IsA: spring
+/>
+
+<tombigbee
+-Description: a river that rises in northeastern mississippi and flows southward through western alabama to join the alabama river and form the mobile river
+-PartOf: mississippi
+/>
+
+<pump blood
+/>
+
+<sign
+-hasContext: corner of two street
+-hasContext: road
+-hasContext: fork in road
+-hasContext: sign
+-hasContext: signer
+-hasContext: bus stop
+-hasContext: direction
+/>
+
+<rank
+/>
+
+<Days Battles 
+/>
+
+<commander 
+/>
+
+<cannon
+-Description: a large artillery gun that is usually on wheels
+-IsA: artillery
+/>
+
+<defeated Bragg
+/>
+
+<saint peter and paul
+-Description: first celebrated in the 3rd century
+-PartOf: june
+/>
+
+<Hooker
+-hasContext: golfer
+-hasContext: on street
+-hasContext: supply sex for money
+-hasContext: any large city
+-hasContext: motel
+-hasContext: street corner
+-hasContext: city
+-hasContext: general
+-hasContext: rugby
+-hasContext: bedroom
+/>
+
+<first invasion
+-hasContext: musical work
+-hasContext: dance music
+-hasContext: pop music
+/>
+
+<union
+-Description: the united states
+/>
+
+<made
+-RelatedTo: past
+-RelatedTo: second person singular
+-RelatedTo: make
+/>
+
+<new orleans
+-IsA: city
+-HasProperty: famous for jazz
+/>
+
+<january
+-DefinedAs: first month of year
+/>
+
+<AtLocation
+/>
+
+<central tennessee
+-InstanceOf: populate place
+-InstanceOf: settlement
+-InstanceOf: place
+-InstanceOf: census designate place
+-IsA: village
+/>
+
+<way
+-hasContext: way
+-hasContext: distance
+-hasContext: way
+-hasContext: way
+/>
+
+<breakdown
+-Description: a cessation of normal operation
+/>
+
+<commander
+-hasContext: leader
+-hasContext: commission naval officer
+-hasContext: leader
+-hasContext: commandership
+-hasContext: military
+/>
+
+<  -01-1865 to   -01-1865 
+/>
+
+<troop
+/>
+
+<blockade
+/>
+
+<carolina
+-Description: the area of the states of north carolina and south carolina
+/>
+
+<new year&apos;s eve
+-Description: the last day of the year
+-PartOf: december
+/>
+
+<defeat
+-hasContext: defeat
+-hasContext: get good of
+-hasContext: person
+-hasContext: victory
+-hasContext: lick
+-hasContext: loss
+-hasContext: lose
+/>
+
+<indian ocean
+-AtLocation: east
+/>
+
+<pop music
+/>
+
+<humiliated
+/>
+
+<gates of Richmond 
+/>
+
+<defeat
+-Description: people who are defeated
+-IsA: person
+/>
+
+<nuclear physicist
+-Description: a physicist who specializes in nuclear physics
+/>
+
+<shenandoah valley
+-Description: a large valley between the allegheny mountains and the blue ridge mountains in northern virginia
+-PartOf: virginia
+-InstanceOf: valley
+/>
+
+<georgia
+-Description: a state in southeastern united states
+-MemberOf: confederacy
+-PartOf: deep south
+/>
+
+<mobile
+-SimilarTo: ambulant
+-SimilarTo: rangy
+-SimilarTo: perambulate
+-SimilarTo: versatile
+-Antonym: immobile
+/>
+
+<elect
+/>
+
+<lincoln car
+/>
+
+<york river
+-Description: virginia
+-InstanceOf: natural place
+-InstanceOf: place
+-InstanceOf: river
+/>
+
+<montgomery
+-Description: english general during world war ii
+-InstanceOf: general
+/>
+
+<season
+/>
+
+<adopted 
+/>
+
+<Confederates
+/>
+
+<jump
+/>
+
+<Lee
+-hasContext: side
+-hasContext: general
+-hasContext: plural
+-hasContext: nuclear physicist
+-hasContext: soldier
+-hasContext: leer
+-hasContext: american revolutionary leader
+-hasContext: sediment
+-hasContext: stripper
+/>
+
+<forces 
+/>
+
+<moncena dunn
+-Description: soldier
+/>
+
+<govern nation
+/>
+
+<change society
+/>
+
+<sherman
+-Description: town
+-IsA: populate area
+/>
+
+<represent
+/>
+
+<hydrostatic head
+-Description: the pressure at a given point in a liquid measured in terms of the vertical height of a column of the liquid needed to produce the same pressure
+-IsA: pressure
+/>
+
+<army
+/>
+
+<book
+/>
+
+<grow
+/>
+
+<Atlantic Ocean
+-hasContext: ship
+-hasContext: earth
+-hasContext: ocean dump
+-hasContext: very vast body of water
+-hasContext: sail on
+/>
+
+<maryland
+-IsA: state
+/>
+
+<alabama
+-Description: a river in alabama formed by the confluence of the coosa and tallapoosa rivers near montgomery
+-PartOf: alabama
+/>
+
+<workplace
+/>
+
+<Attribute
+/>
+
+<any large city
+/>
+
+<cobb point bar light
+-AtLocation: potomac river
+/>
+
+<  -  -1861 to   -  -1863 
+/>
+
+<fredericksburg
+-Description: a town in northeastern virginia on the rappahannock river
+-PartOf: virginia
+/>
+
+<Winfield Scott 
+/>
+
+<number
+-RelatedTo: digit
+-AtLocation: phone book
+-ReceivesAction: add up
+/>
+
+<congressman
+/>
+
+<shark
+-AtLocation: atlantic ocean
+/>
+
+<outage
+-Description: a temporary suspension of operation
+-IsA: breakdown
+/>
+
+<campaign
+/>
+
+<repeated 
+/>
+
+<biloxi
+-Description: an old town in southern mississippi on the gulf of mexico
+-PartOf: mississippi
+/>
+
+<secession
+-Description: an austrian school of art and architecture parallel to the french art nouveau in the 1890s
+-IsA: artistic movement
+-IsA: school
+/>
+
+<major battles 
+/>
+
+<air
+-HasA: pressure
+/>
+
+<heart
+-hasContext: person
+-hasContext: body
+-hasContext: red
+-hasContext: pump for blood
+-hasContext: pump blood
+/>
+
+<mississippi
+-IsA: state
+/>
+
+<temporary capital
+/>
+
+<retreat
+-SimilarTo: withdraw
+-DerivedFrom: withdrawer
+/>
+
+<repeated
+/>
+
+<george bowman
+-Description: pioneer
+/>
+
+<jewish
+/>
+
+<top subordinates James Longstreet 
+/>
+
+<fort 
+/>
+
+<triggered 
+/>
+
+<Stonewall Jackson 
+/>
+
+<blockader
+-RelatedTo: blockade
+/>
+
+<knife
+-UsedFor: cut
+/>
+
+<nashville
+-Description: tv series
+-IsA: tv show
+/>
+
+<men
+-hasContext: do laundry
+-hasContext: male
+-hasContext: strong than woman
+-hasContext: wear hat
+-hasContext: father child
+-hasContext: age gracefully
+-hasContext: father their child
+-hasContext: fancy woman
+-hasContext: smoke cigar
+/>
+
+<Texas 
+/>
+
+<Southern states
+/>
+
+<end
+-DerivedFrom: end point
+-DerivedFrom: end
+/>
+
+<fayetteville
+-Description: a town in central west virginia on the new river
+-PartOf: west virginia
+/>
+
+<christmas
+-Description: period extending from dec 24 to jan 6
+-PartOf: january
+-PartOf: december
+/>
+
+<secede
+-Synonym: secession
+/>
+
+<Savannah
+-hasContext: south carolina
+-hasContext: port
+-hasContext: river
+-hasContext: grassland with some scrub growth
+-hasContext: city
+-hasContext: unite state
+-hasContext: georgia
+/>
+
+<Union forces 
+/>
+
+<craft union
+-Description: a labor union whose membership is restricted to workers in a particular craft
+-IsA: union
+/>
+
+<geyser
+-Description: a spring that discharges hot water and steam
+-IsA: spring
+/>
+
+<big bend
+-Description: a triangular area in southwestern texas on the mexican border
+-PartOf: texas
+/>
+
+<reached
+/>
+
+<next day
+-InstanceOf: album
+/>
+
+<tallapoosa
+-Description: river that rises in northwestern georgia and flows southwest through central alabama to join the coosa river near montgomery and form the alabama river
+-PartOf: alabama
+/>
+
+<sea
+-hasContext: water
+-hasContext: large body of salt water
+-hasContext: swim in
+/>
+
+<readied
+/>
+
+<withdrawal
+-Description: the act of withdrawing
+/>
+
+<Benjamin Butler
+-hasContext: congressman
+-hasContext: politician
+-hasContext: person
+/>
+
+<pee dee
+-Description: a river that flows through central north carolina and northeastern south carolina to the atlantic ocean
+-PartOf: south carolina
+/>
+
+<cut
+-hasContext: slice
+-hasContext: knife
+/>
+
+<James River 
+/>
+
+<Lee 
+/>
+
+<atlanta
+-Description: a siege in which federal troops under sherman cut off the railroads supplying the city and then burned it
+-HasContext: atlanta
+-PartOf: american civil war
+-InstanceOf: siege
+/>
+
+<lawyer
+-Description: a professional person authorized to practice law
+/>
+
+<Abraham Lincoln 
+/>
+
+<Second Bull Run
+/>
+
+<eastern
+/>
+
+<settlement
+/>
+
+<advance
+-Synonym: progress
+/>
+
+<last useful Southern port
+/>
+
+<dbpedia
+/>
+
+<fall of Atlanta
+/>
+
+<established 
+/>
+
+<attrition of local food supplies
+/>
+
+<monongahela
+-Description: a river that rises in northern west virginia and flows north into pennsylvania where it joins the allegheny river at pittsburgh to form the ohio river
+-PartOf: west virginia
+/>
+
+<Mobile
+-hasContext: versatile
+-hasContext: sculpture
+-hasContext: river
+-hasContext: immobile
+-hasContext: alabama
+-hasContext: perambulate
+-hasContext: rangy
+-hasContext: mobile
+-hasContext: ambulant
+/>
+
+<new year&apos;s day
+-Description: the first day of the year
+-PartOf: january
+/>
+
+<hooker
+-CapableOf: supply sex for money
+-AtLocation: city
+-AtLocation: on street
+-AtLocation: motel
+-AtLocation: bedroom
+-AtLocation: street corner
+-AtLocation: any large city
+/>
+
+<way
+-Description: any artifact consisting of a road or path affording passage from one place to another
+/>
+
+<organisation
+/>
+
+<rest 
+/>
+
+<in georgia
+/>
+
+<Mississippi River
+-hasContext: long river in unite state
+-hasContext: underspecified location
+-hasContext: natural place
+-hasContext: body of water
+/>
+
+<populate place
+/>
+
+<end point
+-Description: a place where something ends or is complete
+/>
+
+<Philip Sheridan 
+/>
+
+<penis
+-PartOf: male
+/>
+
+<march
+-DerivedFrom: march
+/>
+
+<fight war
+/>
+
+<advance
+-IsA: wax
+/>
+
+<victory 
+/>
+
+<advance
+-Description: someone who advances
+/>
+
+<Mississippi
+-hasContext: mississippi
+-hasContext: state
+/>
+
+<CausesDesire
+/>
+
+<traffic
+-Description: buying and selling
+/>
+
+<direction
+/>
+
+<similar declarations
+/>
+
+<capture
+-hasContext: acquire
+-hasContext: get
+-hasContext: charmer
+-hasContext: bewitchery
+-hasContext: capture
+-hasContext: chess move
+-hasContext: catch
+-hasContext: represent
+-hasContext: change
+-hasContext: capture
+/>
+
+<stonewall jackson
+-IsA: military personnel
+-InstanceOf: military person
+-InstanceOf: person
+/>
+
+<commander
+-Description: someone in an official position of authority who can command or control others
+-IsA: leader
+-DerivedFrom: commandership
+/>
+
+<february
+-IsA: month
+/>
+
+<fight enemy
+-HasSubevent: victory
+/>
+
+<jefferson davis birthday
+-Description: celebrated in southern united states
+-PartOf: june
+/>
+
+<deep south
+-Description: south carolina and georgia and alabama and mississippi and louisiana
+/>
+
+<louisiana
+-Description: a state in southern united states on the gulf of mexico
+-MemberOf: confederacy
+/>
+
+<violence
+-AtLocation: war
+/>
+
+<marriage
+-IsA: union
+/>
+
+<national cemetery in mississippi
+/>
+
+<shermanesque
+-EtymologicallyDerivedFrom: sherman
+/>
+
+<end
+-Causes: end
+-DerivedFrom: end
+/>
+
+<captured
+/>
+
+<seven
+-IsA: number
+/>
+
+<charleston
+-Description: a port city in southeastern south carolina
+-PartOf: south carolina
+/>
+
+<HasProperty
+/>
+
+<lincoln
+-Description: long wooled mutton sheep originally from lincolnshire
+-IsA: domestic sheep
+/>
+
+<december
+-RelatedTo: dec
+/>
+
+<tank
+-AtLocation: war
+/>
+
+<Georgia 
+/>
+
+<livestock 
+/>
+
+<atlantic ocean
+-UsedFor: ship
+-AtLocation: earth
+-UsedFor: ocean dump
+-IsA: very vast body of water
+-UsedFor: sail on
+/>
+
+<motel
+/>
+
+<close out
+-IsA: end
+/>
+
+<lincoln
+-Description: capital of the state of nebraska
+-PartOf: nebraska
+-InstanceOf: state capital
+/>
+
+<string
+-IsA: advance
+/>
+
+<york river
+-Description: ontario
+-InstanceOf: place
+-InstanceOf: stream
+-InstanceOf: river
+-IsA: river
+-InstanceOf: natural place
+/>
+
+<mar
+/>
+
+<phone book
+/>
+
+<rangy
+/>
+
+<allegheny
+-Description: the western part of the appalachian mountains
+-PartOf: west virginia
+-PartOf: virginia
+/>
+
+<agistment
+-RelatedTo: livestock
+/>
+
+<McLean House 
+/>
+
+<play tennis
+-Causes: victory
+/>
+
+<Union blockade
+-hasContext: military conflict
+-hasContext: event
+-hasContext: societal event
+/>
+
+<west virginia
+-IsA: state
+/>
+
+<  -  -1864 to   -  -1864 
+/>
+
+<monty
+-RelatedTo: montgomery
+/>
+
+<  -  -1864 to   -  -1865 
+/>
+
+<begin
+/>
+
+<make
+/>
+
+<conquer your opponent
+-UsedFor: victory
+-MotivatedByGoal: victory
+/>
+
+<Vicksburg
+-hasContext: mississippi
+-hasContext: town
+-hasContext: national cemetery in mississippi
+-hasContext: siege
+-hasContext: american civil war
+/>
+
+<country music
+/>
+
+<traffic
+-hasContext: traffic
+-hasContext: communication
+-hasContext: street
+-hasContext: smuggle
+-hasContext: commercial activity
+/>
+
+<South Carolina
+-hasContext: american state
+-hasContext: deep south
+-hasContext: state
+-hasContext: carolina
+/>
+
+<commander
+-Synonym: leader
+/>
+
+<army unit
+-Description: a military unit that is part of an army
+/>
+
+<lincolnesque
+-DerivedFrom: lincoln
+/>
+
+<decisive victory
+/>
+
+<rock music
+/>
+
+<peninsula 
+/>
+
+<windward
+-Description: the side of something that is toward the wind
+-IsA: side
+/>
+
+<traffic
+-Synonym: smuggle
+/>
+
+<Army of Northern Virginia
+-hasContext: organisation
+-hasContext: military unit
+-hasContext: troop
+-hasContext: organization
+/>
+
+<father their child
+/>
+
+<washington
+-IsA: state
+/>
+
+<two
+-IsA: number
+/>
+
+<est
+/>
+
+<crack up
+-DerivedFrom: breakdown
+/>
+
+<peninsula
+/>
+
+<may
+-RelatedTo: month
+-RelatedTo: after april
+-RelatedTo: april
+-DefinedAs: fifth month of year
+-RelatedTo: after
+-RelatedTo: june
+/>
+
+<richmond
+-Description: capital of the state of virginia located in the east central part of the state
+-PartOf: virginia
+-InstanceOf: state capital
+/>
+
+<lincoln
+-Synonym: lincoln car
+/>
+
+<musical artist
+/>
+
+<hell
+/>
+
+<decisive victory 
+/>
+
+<holiday
+/>
+
+<withdrawer
+-Description: a student who withdraws from the educational institution in which he or she was enrolled
+/>
+
+<industrial worker of world
+-Description: a former international labor union and radical labor movement in the united states
+-IsA: union
+/>
+
+<perambulate
+/>
+
+<general
+-CapableOf: lead army
+-CapableOf: lead troop
+-RelatedTo: army
+-RelatedTo: rank
+/>
+
+<killed
+/>
+
+<IsA
+/>
+
+<grant
+-Description: 18th president of the united states
+-InstanceOf: general
+/>
+
+<ReceivesAction
+/>
+
+<rugby
+-Description: a form of football played with an oval ball
+/>
+
+<Union forces
+/>
+
+<heifer
+-AtLocation: texas
+/>
+
+<petersburg
+-Description: the final campaign of the american civil war
+-HasContext: virginia
+-PartOf: american civil war
+-InstanceOf: campaign
+-InstanceOf: siege
+/>
+
+<something you find downtown
+-IsA: traffic
+/>
+
+<maryland
+-Description: a mid atlantic state
+-PartOf: mid atlantic state
+-PartOf: south
+-InstanceOf: american state
+/>
+
+<commercial activity
+/>
+
+<tupelo
+-Description: a town in northeast mississippi
+-PartOf: mississippi
+/>
+
+<commandership
+-Description: the position or office of commander
+/>
+
+<eight
+-IsA: number
+-RelatedTo: number
+/>
+
+<borough
+/>
+
+<presidential election
+-hasContext: change society
+-hasContext: hold every four year
+-hasContext: hold to elect president
+/>
+
+<port of entry
+-Description: a port in the united states where customs officials are stationed to oversee the entry and exit of people and merchandise
+/>
+
+<secessionist
+-RelatedTo: secession
+/>
+
+<potomac river
+-IsA: underspecified location
+-IsA: river
+-InstanceOf: body of water
+/>
+
+<fault
+-Description: equipment failure attributable to some defect in a circuit
+-IsA: breakdown
+/>
+
+<cannonade
+-RelatedTo: artillery
+/>
+
+<union
+-Description: the state of being joined or united or linked
+/>
+
+<lead army
+/>
+
+<devised
+/>
+
+<end 
+/>
+
+<mountain peak
+-Description: the summit of a mountain
+/>
+
+<alabama
+-Description: a member of the muskhogean people formerly living in what is now the state of alabama
+-IsA: muskhogean
+/>
+
+<relax
+/>
+
+<president
+-CapableOf: lead country
+-CapableOf: govern nation
+-ReceivesAction: elect
+-CapableOf: sign bill
+-AtLocation: government
+-CapableOf: govern country
+-CapableOf: lead nation
+-DefinedAs: leader of unite state
+-CapableOf: head company
+/>
+
+<retreat
+-Description: a place of privacy
+-IsA: area
+/>
+
+<upper cedar point light
+-AtLocation: potomac river
+/>
+
+<populate area
+/>
+
+<austin
+-PartOf: texas
+/>
+
+<advance
+-hasContext: advance
+-hasContext: progress
+-hasContext: advance
+-hasContext: advance
+-hasContext: modernity
+-hasContext: set
+-hasContext: advance
+-hasContext: wax
+/>
+
+<plan
+-hasContext: logic
+-hasContext: you know how to reach your goal
+-hasContext: achieve goal
+/>
+
+<leaf spring
+-Description: long narrow spring consisting of several layers of metal springs bracketed together
+-IsA: spring
+/>
+
+<military person
+/>
+
+<retreat
+-Description: a signal to begin a withdrawal from a dangerous position
+-IsA: signal
+/>
+
+<high water mark 
+/>
+
+<Petersburg 
+/>
+
+<island
+-AtLocation: mississippi river
+/>
+
+<Southern ports 
+/>
+
+<university of nebraska
+-Description: a university in lincoln nebraska
+-PartOf: lincoln
+/>
+
+<monty
+/>
+
+<Washington 
+/>
+
+<progressive
+-SimilarTo: advance
+/>
+
+<river
+-IsA: watercourse
+-RelatedTo: mississippi
+/>
+
+<Benjamin Butler 
+/>
+
+<Richmond
+-hasContext: state capital
+-hasContext: populate area
+-hasContext: virginia
+-hasContext: capital
+-hasContext: borough
+-hasContext: california
+/>
+
+<social organization
+-hasContext: social organization
+-hasContext: system
+-hasContext: society
+/>
+
+<village of Appomattox Court House 
+/>
+
+<Confederacy 
+/>
+
+<something
+-AtLocation: east
+-AtLocation: sea
+-AtLocation: end
+/>
+
+<lincoln
+-Description: 16th president of the united states
+-InstanceOf: president of unite state
+-InstanceOf: lawyer
+/>
+
+<wounded
+/>
+
+<california
+/>
+
+<nashville sound
+-DerivedFrom: nashville
+/>
+
+<MemberOf
+/>
+
+<war
+-hasContext: hell
+-hasContext: opposite of peace
+/>
+
+<Generals George Meade 
+/>
+
+<army of northern virginia
+-IsA: troop
+-IsA: organization
+-InstanceOf: organisation
+-InstanceOf: military unit
+/>
+
+<  -  -1862 to   -  -1862 
+/>
+
+<new orleans
+-Description: a port and largest city in louisiana
+-PartOf: louisiana
+-InstanceOf: city
+-InstanceOf: port of entry
+/>
+
+<march
+-Causes: march
+/>
+
+<United States military history
+/>
+
+<mean of transportation
+/>
+
+<single day
+-hasContext: holiday
+-hasContext: international
+/>
+
+<long river in unite state
+/>
+
+<Nashville 
+/>
+
+<social organization 
+/>
+
+<primrose path
+-Description: a life of ease and pleasure
+-IsA: way
+/>
+
+<fifth month of year
+/>
+
+<beckley
+-Description: a city in southern west virginia
+-PartOf: west virginia
+/>
+
+<cape cod
+-Description: a massachusetts peninsula to the south of boston extending into the atlantic
+-InstanceOf: peninsula
+/>
+
+<capture of Vicksburg 
+/>
+
+<decatur
+-Description: a town in northern alabama on the tennessee river
+-PartOf: alabama
+/>
+
+<states
+/>
+
+<offensive operations
+/>
+
+<tennessee
+-Description: a state in east central united states
+-PartOf: south
+/>
+
+<musical work
+/>
+
+<lee
+-Description: leader of the american revolution who proposed the resolution calling for independence of the american colonies
+-InstanceOf: american revolutionary leader
+/>
+
+<brake failure
+-Description: brakes fail to stop a vehicle
+-IsA: breakdown
+/>
+
+<next day
+-Description: song
+-InstanceOf: single
+/>
+
+<social organization
+/>
+
+<dbpedia
+/>
+
+<johnston
+/>
+
+<Atlanta
+-hasContext: state capital
+-hasContext: city
+-hasContext: georgia
+-hasContext: siege
+-hasContext: american civil war
+-hasContext: in georgia
+/>
+
+<asia
+-Description: the nations of the asian continent collectively
+/>
+
+<Confederates 
+/>
+
+<coordinated strategy
+/>
+
+<Union victory
+/>
+
+<battery
+-Description: group of guns or missile launchers operated together at one place
+-IsA: artillery
+/>
+
+<DefinedAs
+/>
+
+<mobile
+/>
+
+<General
+-hasContext: military
+-hasContext: lead troop
+-hasContext: rank
+-hasContext: general
+-hasContext: generalship
+-hasContext: lead army
+-hasContext: army
+/>
+
+<DerivedFrom
+/>
+
+<secession
+-Description: the withdrawal of eleven southern states from the union in 1860 which precipitated the american civil war
+-InstanceOf: separation
+/>
+
+<march
+-RelatedTo: february
+-RelatedTo: month
+/>
+
+<shell
+-RelatedTo: artillery
+/>
+
+<military personnel
+/>
+
+<Antonym
+/>
+
+<athlete
+-IsA: person
+/>
+
+<Sherman 
+/>
+
+<United States 
+/>
+
+<bloomsbury group
+-Description: an inner circle of writers and artists and philosophers who lived in or around bloomsbury early in the 20th century and were noted for their unconventional lifestyles
+/>
+
+<HasA
+/>
+
+<jackson
+-Description: a town in western tennessee
+-PartOf: tennessee
+/>
+
+<presidential election 
+/>
+
+<first invasion 
+/>
+
+<selma
+-Description: a town in central alabama on the alabama river
+-PartOf: alabama
+/>
+
+<central Tennessee 
+/>
+
+<washington
+-Description: the capital of the united states in the district of columbia and a tourist mecca
+/>
+
+<potomac
+-Description: a river in the east central united states
+-PartOf: west virginia
+/>
+
+<cease
+-Description: end
+-IsA: end
+/>
+
+<maj
+/>
+
+<benjamin butler
+-Description: artist
+-InstanceOf: person
+/>
+
+<followed 
+/>
+
+<sea
+-IsA: large body of salt water
+-RelatedTo: water
+-UsedFor: swim in
+/>
+
+<famous for jazz
+/>
+
+<East
+-hasContext: geographical area
+-hasContext: asia
+-hasContext: eastern
+-hasContext: east
+-hasContext: eastern
+-hasContext: direction
+/>
+
+<east
+-Description: the countries of asia
+-Attribute: eastern
+-InstanceOf: asia
+/>
+
+<washington
+-Description: 1st president of the united states
+-InstanceOf: general
+/>
+
+<direction
+-Description: the spatial relation between something and the course along which it points or moves
+/>
+
+<Pickett Charge 
+/>
+
+<n
+-RelatedTo: north
+/>
+
+<misfire
+-Description: an explosion that fails to occur
+-IsA: breakdown
+/>
+
+<east tennessee
+-RelatedTo: tennessee
+/>
+
+<love
+-InstanceOf: person
+/>
+
+<Army of Northern Virginia 
+/>
+
+<HasSubevent
+/>
+
+<access
+-Description: a way of entering or leaving
+-IsA: way
+/>
+
+<west virginia
+-Description: a state in east central united states
+-InstanceOf: american state
+/>
+
+<mobile
+-Description: a river in southwestern alabama
+-PartOf: alabama
+-InstanceOf: river
+/>
+
+<camp david
+-Description: a retreat to the northwest of washington that is used by the president of the united states
+-InstanceOf: retreat
+/>
+
+<blockade 
+/>
+
+<single day 
+/>
+
+<philip sheridan
+-IsA: military personnel
+-InstanceOf: military person
+-InstanceOf: person
+/>
+
+<Causes
+/>
+
+<Battle of Antietam
+-hasContext: military conflict
+-hasContext: event
+-hasContext: societal event
+/>
+
+<  -  -1861 to   -  -1865 
+/>
+
+<eastern
+/>
+
+<ordered 
+/>
+
+<mobile
+-Description: sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents
+-IsA: sculpture
+/>
+
+<chesapeake bay
+-Description: a large inlet of the north atlantic between virginia and maryland
+-PartOf: maryland
+/>
+
+<artistic movement
+-Description: a group of artists who agree on general principles
+/>
+
+<union
+-Description: an organization of employees formed to bargain with the employer
+/>
+
+<artillery 
+/>
+
+<tuskegee
+-Description: a town in eastern alabama
+-PartOf: alabama
+/>
+
+<command 
+/>
+
+<made
+-hasContext: past
+-hasContext: populate place
+-hasContext: est
+-hasContext: place
+-hasContext: second person singular
+-hasContext: make
+-hasContext: settlement
+-hasContext: census designate place
+/>
+
+<spit
+-Synonym: peninsula
+/>
+
+<fort capitulation 
+/>
+
+<one
+-RelatedTo: number
+/>
+
+<passage
+-Description: a way through or along which someone or something may pass
+-IsA: way
+/>
+
+<clinch river
+-Description: a river that rises in southwestern virginia and flows generally southwestward across eastern tennessee to the tennessee river
+-PartOf: virginia
+/>
+
+<march
+-RelatedTo: mar
+/>
+
+<domestic sheep
+-Description: any of various breeds raised for wool or edible meat or skin
+/>
+
+<leader
+-Description: a person who rules or guides or inspires others
+/>
+
+<obstruct
+/>
+
+<burn
+/>
+
+<  -03-1861 to   -03-1861 
+/>
+
+<charmer
+-Description: a person who charms others
+/>
+
+<sword
+-UsedFor: cut
+/>
+
+<  -  -1861 to   -  -1861 
+/>
+
+<prevail
+-DerivedFrom: victory
+/>
+
+<General Philip Sheridan 
+/>
+
+<General Sherman 
+/>
+
+<Lincoln
+-hasContext: president of unite state
+-hasContext: state capital
+-hasContext: domestic sheep
+-hasContext: lawyer
+-hasContext: lincoln car
+-hasContext: nebraska
+/>
+
+<driftwood
+-AtLocation: sea
+/>
+
+<go on strike
+-HasPrerequisite: union
+/>
+
+<CapableOf
+/>
+
+<futile frontal assaults
+/>
+
+<johnson
+-IsA: surname
+/>
+
+<class structure
+-Description: the organization of classes within a society
+-IsA: social organization
+/>
+
+<Union armies 
+/>
+
+<fork in road
+/>
+
+<colorado
+-Description: a state in west central united states in the rocky mountains
+/>
+
+<secede
+-DerivedFrom: secession
+/>
+
+<law
+-Description: the collection of rules imposed by authority
+/>
+
+<cut
+-RelatedTo: slice
+-RelatedTo: knife
+/>
+
+<midsummer day
+-Description: a quarter day in england wales and ireland
+-PartOf: june
+/>
+
+<end
+-hasContext: end point
+-hasContext: finish
+-hasContext: begin
+-hasContext: end
+-hasContext: end
+/>
+
+<General Robert E. Lee 
+/>
+
+<lake chelan
+-Description: a narrow very deep lake in central washington in the cascade range
+-PartOf: washington
+/>
+
+<Generals George Crook 
+/>
+
+<secession
+/>
+
+<traffic
+-Synonym: commercial activity
+/>
+
+<nebraska
+-Description: a midwestern state on the great plains
+/>
+
+<missouri
+-Description: a midwestern state in central united states
+-MemberOf: confederacy
+/>
+
+<i
+-AtLocation: alabama
+-AtLocation: washington
+/>
+
+<readied
+-hasContext: put in
+-hasContext: install
+-hasContext: readied
+-hasContext: set up
+/>
+
+<sherman
+-Description: american revolutionary leader and signer of the declaration of independence and the articles of confederation and the united states constitution
+-InstanceOf: american revolutionary leader
+/>
+
+<blockade
+-Description: a war measure that isolates some area of importance to the enemy
+-IsA: military action
+-HasContext: military
+/>
+
+<january
+-Description: the first month of the year
+-IsA: gregorian calendar month
+/>
+
+<capital city of alabama
+-IsA: montgomery
+/>
+
+<someone
+-AtLocation: sea
+-AtLocation: way
+/>
+
+<town
+-Description: an urban area with a fixed boundary that is smaller than a city
+/>
+
+<northern
+/>
+
+<petersburg
+-Description: amtrak station
+-IsA: build
+/>
+
+<capture
+-Description: the act of taking of a person by force
+/>
+
+<strong than woman
+/>
+
+<modernity
+-Description: the quality of being current or of the present
+/>
+
+<head
+-Description: the pressure exerted by a fluid
+-IsA: pressure
+/>
+
+<see
+-UsedFor: cut
+/>
+
+<Grant 
+/>
+
+<strong urging of President Lincoln 
+/>
+
+<arkansas
+-Description: a state in south central united states
+-MemberOf: confederacy
+/>
+
+<astonishing losses 
+/>
+
+<petersburg
+-RelatedTo: leningrad
+-RelatedTo: campaign
+/>
+
+<entire Confederacy
+/>
+
+<stocker
+-Description: a domestic animal kept as stock until fattened or matured and suitable for a breeding establishment
+/>
+
+<industrial union
+-Description: a labor union that admits all workers in a given industry irrespective of their craft
+-IsA: union
+/>
+
+<blackmail
+-DerivedFrom: pressure
+/>
+
+<Battle of Antietam 
+/>
+
+<end
+-Description: the point in time at which something ends
+/>
+
+<General Sherman
+/>
+
+<EtymologicallyDerivedFrom
+/>
+
+<Confederate government
+/>
+
+<Georgia
+-hasContext: deep south
+-hasContext: state
+/>
+
+<Battle of Chancellorsville
+-hasContext: military conflict
+-hasContext: event
+-hasContext: societal event
+/>
+
+<war 
+/>
+
+<reached 
+/>
+
+<triggered
+/>
+
+<advance
+-DerivedFrom: modernity
+/>
+
+<breakaway
+-Description: the act of breaking away or withdrawing from
+-IsA: secession
+/>
+
+<smuggle
+/>
+
+<lincoln memorial
+-Description: memorial building in washington containing a large marble statue of abraham lincoln
+-PartOf: washington
+/>
+
+<MotivatedByGoal
+/>
+
+<second person singular
+/>
+
+<Maryland
+-hasContext: mid atlantic state
+-hasContext: american state
+-hasContext: state
+-hasContext: south
+/>
+
+<Valley Campaigns
+/>
+
+<after april
+/>
+
+<Mississippi River 
+/>
+
+<orders 
+/>
+
+<olympia
+-Description: capital of the state of washington
+-PartOf: washington
+/>
+
+<South Carolina 
+/>
+
+<bedroom
+/>
+
+<swim in
+/>
+
+<rest
+-HasPrerequisite: sleep
+-HasSubevent: sleep
+-HasPrerequisite: relax
+-RelatedTo: relax
+-HasPrerequisite: lie down
+/>
+
+<hooker
+-Description: united states general in the union army who was defeated at chancellorsville by robert e lee
+-InstanceOf: general
+/>
+
+<forced
+/>
+
+<sold 
+/>
+
+<defeat
+-DerivedFrom: defeat
+/>
+
+<saucepan
+-AtLocation: georgia
+/>
+
+<moustache
+/>
+
+<replaced
+/>
+
+<separation
+-Description: the act of dividing or disconnecting
+/>
+
+<opening route 
+/>
+
+<Peninsula Campaign 
+/>
+
+<strong urging of President Lincoln
+/>
+
+<U.S. 
+/>
+
+<freed slaves 
+/>
+
+<Union control
+/>
+
+<pressure 
+/>
+
+<coerce
+-DerivedFrom: pressure
+/>
+
+<age gracefully
+/>
+
+<general lee
+-Description: car
+-InstanceOf: mean of transportation
+-InstanceOf: automobile
+/>
+
+<north
+-IsA: direction
+-RelatedTo: direction
+-Antonym: south
+/>
+
+<nashville
+-Description: capital of the state of tennessee
+-PartOf: tennessee
+-InstanceOf: state capital
+/>
+
+<sherman
+-Description: united states general who was commander of all union troops in the west
+-InstanceOf: general
+/>
+
+<atlanta
+-IsA: city
+-IsA: in georgia
+/>
+
+<surname
+/>
+
+<fort meade
+-Description: a united states army base in maryland
+-PartOf: maryland
+/>
+
+<New Orleans
+-hasContext: city
+-hasContext: louisiana
+-hasContext: port of entry
+-hasContext: famous for jazz
+-hasContext: city
+/>
+
+<sherman
+-Description: village
+-IsA: village
+/>
+
+<march
+-Description: the month following february and preceding april
+-IsA: gregorian calendar month
+/>
+
+<secession
+-Description: formal separation from an alliance or federation
+-IsA: separation
+/>
+
+<catch
+-Description: a person regarded as a good matrimonial prospect
+/>
+
+<Generals George Meade
+/>
+
+<James River
+/>
+
+<politician
+/>
+
+<York River
+-hasContext: natural place
+-hasContext: place
+-hasContext: watercourse
+/>
+
+<breakdown
+-hasContext: breakdown
+-hasContext: breakdown
+-hasContext: collapse
+/>
+
+<Southern states 
+/>
+
+<hasContext
+/>
+
+<plantation
+-AtLocation: georgia
+/>
+
+<scissor
+-UsedFor: cut
+/>
+
+<multiple directions 
+/>
+
+<versatile
+/>
+
+<entire Confederacy 
+/>
+
+<south
+-Description: the region of the united states lying to the south of the mason dixon line
+/>
+
+<south
+-IsA: direction
+/>
+
+<railroad supply lines 
+/>
+
+<Days Battles
+/>
+
+<richmond
+-Description: nova scotia provincial electoral district
+-IsA: populate area
+/>
+
+<AmCivWar
+-hasContext: water
+-hasContext: port of entry
+-hasContext: south
+-hasContext: event
+-hasContext: separation
+-hasContext: military person
+-hasContext: organization
+-hasContext: celebrate
+-hasContext: watercourse
+-hasContext: peninsula
+-hasContext: south
+-hasContext: film
+-hasContext: achieve goal
+-hasContext: mississippi
+-hasContext: add up
+-hasContext: union
+-hasContext: general
+-hasContext: alabama
+-hasContext: hold to elect president
+-hasContext: battery
+-hasContext: begin
+-hasContext: musical work
+-hasContext: ship
+-hasContext: month
+-hasContext: may
+-hasContext: stripper
+-hasContext: red
+-hasContext: male
+-hasContext: mid atlantic state
+-hasContext: state
+-hasContext: military conflict
+-hasContext: traffic
+-hasContext: person
+-hasContext: government
+-hasContext: set up
+-hasContext: way
+-hasContext: live in barn
+-hasContext: est
+-hasContext: hell
+-hasContext: june
+-hasContext: president of unite state
+-hasContext: artwork
+-hasContext: pressure
+-hasContext: american revolutionary leader
+-hasContext: relax
+-hasContext: direction
+-hasContext: garrison
+-hasContext: tennessee
+-hasContext: victory
+-hasContext: mean of transportation
+-hasContext: georgia
+-hasContext: american civil war
+-hasContext: advance
+-hasContext: eastern
+-hasContext: slice
+-hasContext: holiday
+-hasContext: american state
+-hasContext: spring
+-hasContext: society
+-hasContext: place
+-hasContext: breakdown
+-hasContext: body of water
+-hasContext: gregorian calendar month
+-hasContext: fight war
+-hasContext: chess move
+-hasContext: commandership
+-hasContext: maj
+-hasContext: military
+-hasContext: virginia
+/>
+
+<wheel
+-Description: a city in the northern panhandle of west virginia on the ohio river
+-PartOf: west virginia
+/>
+
+<gas pressure
+-Description: the pressure exerted by a gas
+-IsA: pressure
+/>
+
+<capital
+-RelatedTo: washington
+/>
+
+<capture
+-DerivedFrom: bewitchery
+-DerivedFrom: catch
+-DerivedFrom: charmer
+/>
+
+<unite state of america
+-IsA: state
+/>
+
+<1
+-IsA: number
+/>
+
+<abort
+-IsA: end
+/>
+
+<fancy woman
+/>
+
+<relief of Rosecrans
+/>
+
+<december
+-Description: the last month of the year
+/>
+
+<jellyfish
+-AtLocation: atlantic ocean
+/>
+
+<complex situation
+-CausesDesire: plan
+/>
+
+<troops 
+/>
+
+<spring
+-Description: a metal elastic device that returns to its shape or position when pushed or pulled or pressed
+/>
+
+<stripper
+-Description: a performer who provides erotic entertainment by undressing to music
+/>
+
+<defeat
+-RelatedTo: lose
+-RelatedTo: loss
+-Synonym: get good of
+-Antonym: victory
+/>
+
+<john
+-RelatedTo: johnston
+/>
+
+<martin luther king jr&apos;s birthday
+-Description: observed on the monday closest to january 15
+-PartOf: january
+/>
+
+<faubourg
+-Description: a new orleans district lying outside the original city limits
+-PartOf: new orleans
+/>
+
+<coordinated strategy 
+/>
+
+<controlled 
+/>
+
+<valley
+-Description: a long depression in the surface of the land that usually contains a river
+/>
+
+<advance 
+/>
+
+<atlanta
+-Description: state capital and largest city of georgia
+-PartOf: georgia
+-InstanceOf: state capital
+/>
+
+<patriarchy
+-Description: a form of social organization in which a male is the family head and title is traced through the male line
+-IsA: social organization
+/>
+
+<segregation
+-Description: a social system that provides separate facilities for minority groups
+-IsA: social organization
+/>
+
+<shenandoah valley
+/>
+
+<stock
+-Description: the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun
+-PartOf: artillery
+/>
+
+<epiphany
+-Description: twelve days after christmas
+-PartOf: january
+/>
+
+<forced 
+/>
+
+<regular international shipments
+/>
+
+<spring
+-IsA: grow
+/>
+
+<beaumont
+-Description: a city of southeastern texas near houston
+-PartOf: texas
+/>
+
+<distance
+-Description: the property created by the space between two objects or points
+/>
+
+<May
+-hasContext: month
+-hasContext: after april
+-hasContext: may
+-hasContext: fifth month of year
+-hasContext: after
+-hasContext: may
+/>
+
+<recalled
+/>
+
+<twelfth month of year
+/>
+
+<cowpens
+-Description: battle in the american revolution
+-HasContext: south carolina
+/>
+
+<retreat
+-Description: withdrawal of troops to a more favorable position to escape the enemy&apos;s superior forces or after a defeat
+-IsA: withdrawal
+-HasContext: military
+/>
+
+<social organisation
+-Synonym: social organization
+/>
+
+<vicksburg
+-IsA: national cemetery in mississippi
+/>
+
+<event
+/>
+
+<president of unite state
+/>
+
+<society
+-Description: an extended social group having a distinctive cultural and economic organization
+/>
+
+<nashville
+-RelatedTo: north carolina
+-RelatedTo: illinois
+-RelatedTo: georgia
+/>
+
+<advance
+-IsA: set
+/>
+
+<chin
+/>
+
+<16th president of unite state
+/>
+
+<halted
+/>
+
+<past
+/>
+
+<Confederate States of America
+/>
+
+<victory
+-hasContext: victory
+-hasContext: celebrate
+/>
+
+<P. G. T. Beauregard 
+/>
+
+<Montgomery
+-hasContext: general
+-hasContext: city
+-hasContext: alabama
+-hasContext: populate area
+-hasContext: writer
+-hasContext: state capital
+-hasContext: monty
+/>
+
+<defeat
+-Description: an unsuccessful ending to a struggle or contest
+/>
+
+<port
+-Description: a place where people and merchandise can enter or leave a country
+/>
+
+<Hooker 
+/>
+
+<grantor
+-RelatedTo: grant
+/>
+
+<install
+-Synonym: readied
+/>
+
+<straight and narrow
+-Description: the way of proper and honest behavior
+-IsA: way
+/>
+
+<english
+/>
+
+<grant money
+/>
+
+<men
+-CapableOf: wear hat
+-RelatedTo: male
+-HasA: penis
+-CapableOf: do laundry
+-IsA: strong than woman
+-CapableOf: father child
+-CapableOf: fancy woman
+-CapableOf: father their child
+-CapableOf: smoke cigar
+-CapableOf: age gracefully
+/>
+
+<plan 
+/>
+
+<wax
+/>
+
+<Battle of Fredericksburg
+-hasContext: military conflict
+-hasContext: event
+-hasContext: societal event
+/>
+
+<sign bill
+/>
+
+<general lee
+-IsA: car
+-IsA: self power vehicle
+/>
+
+<North 
+/>
+
+<baltimore
+-Description: the largest city in maryland
+-PartOf: maryland
+/>
+
+<census designate place
+/>
+
+<withdrawal
+-Synonym: secession
+/>
+
+<station
+/>
+
+<city
+-Description: a large and densely populated urban area
+/>
+
+<mid may
+-Description: the middle part of may
+-PartOf: may
+/>
+
+<key stronghold
+/>
+
+<allowed Union forces
+/>
+
+<Union armies
+/>
+
+<april
+-IsA: month
+/>
+
+<finish
+/>
+
+<Synonym
+/>
+
+<sign 
+/>
+
+<illinois
+/>
+
+<loss
+/>
+
+<government
+/>
+
+<signer
+-Description: someone who signs and is bound by a document
+/>
+
+<men 
+/>
+
+<breakdown
+-Description: an analysis into mutually exclusive categories
+/>
+
+<East 
+/>
+
+<HasPrerequisite
+/>
+
+<major fight 
+/>
+
+<defeated Bragg 
+/>
+
+<side
+/>
+
+<Battle of Chancellorsville 
+/>
+
+<razor
+-UsedFor: cut
+/>
+
+<Philip Sheridan
+-hasContext: military personnel
+-hasContext: military person
+-hasContext: person
+/>
+
+<Confederate forces 
+/>
+
+<many times 
+/>
+
+<human body
+-IsA: body
+/>
+
+<march
+-IsA: walk
+/>
+
+<mississippi
+-Description: a state in the deep south on the gulf of mexico
+-MemberOf: confederacy
+/>
+
+<solemnity of mary
+-Description: a holy day of obligation
+-PartOf: january
+/>
+
+<advance
+-DerivedFrom: advance
+/>
+
+<steppe
+-RelatedTo: savannah
+/>
+
+<social organization
+-Description: the people in a society considered as a system organized by a characteristic pattern of relationships
+-IsA: system
+-MemberOf: society
+/>
+
+<columbia
+-Description: capital and largest city in south carolina
+-PartOf: south carolina
+/>
+
+<lee
+-Description: the sediment from fermentation of an alcoholic beverage
+-IsA: sediment
+-HasContext: plural
+/>
+
+<frederick
+-Description: a town in northern maryland to the west of baltimore
+-PartOf: maryland
+/>
+
+<Second Battle of Fort Fisher 
+/>
+
+<rebound
+/>
+
+<street corner
+/>
+
+<breakdown
+-Description: a mental or physical breakdown
+-IsA: collapse
+/>
+
+<Union Navy
+/>
+
+<West Virginia
+-hasContext: american state
+-hasContext: state
+/>
+
+<command
+-DerivedFrom: commander
+-DerivedFrom: commander
+/>
+
+<Petersburg
+-hasContext: leningrad
+-hasContext: campaign
+-hasContext: campaign
+-hasContext: american civil war
+-hasContext: build
+-hasContext: town
+-hasContext: virginia
+-hasContext: book
+-hasContext: siege
+/>
+
+<slave trade
+-Description: traffic in slaves
+-IsA: traffic
+/>
+
+<tv show
+/>
+
+<scottish
+/>
+
+<low california
+-Description: a mountainous peninsula on northwest mexico
+-InstanceOf: peninsula
+/>
+
+<maying
+-DerivedFrom: may
+/>
+
+<Grant commander
+/>
+
+<gazelle
+-AtLocation: savannah
+/>
+
+<ship
+/>
+
+<June
+-hasContext: june
+-hasContext: june
+/>
+
+<school
+-Description: a body of creative artists or writers or thinkers linked by a similar style or by similar teachers
+/>
+
+<cheek
+/>
+
+<devised 
+/>
+
+<victorious
+-DerivedFrom: victory
+/>
+
+<months
+/>
+
+<mathias point light
+-AtLocation: potomac river
+/>
+
+<following day 
+/>
+
+<supply sex for money
+/>
+
+<victory
+-Description: a successful ending of a struggle or contest
+/>
+
+<Potomac River 
+/>
+
+<particular
+-Description: a fact about some part
+-Antonym: general
+/>
+
+<person
+-Description: any group of human beings collectively
+/>
+
+<traffic
+-AtLocation: street
+/>
+
+<northern
+/>
+
+<montgomery
+-Description: the state capital of alabama on the mobile river
+-PartOf: alabama
+-InstanceOf: state capital
+/>
+
+<Lincoln 
+/>
+
+<progress
+/>
+
+<leer
+/>
+
+<rest
+-hasContext: lie down
+-hasContext: relax
+/>
+
+<preventive
+-SimilarTo: blockade
+/>
+
+<jamestown
+-Description: a former village on the james river in virginia to the north of norfolk
+-PartOf: virginia
+/>
+
+<December
+-hasContext: twelfth month of year
+-hasContext: month
+-hasContext: last month of year
+-hasContext: december
+/>
+
+<Vicksburg 
+/>
+
+<stairway
+-Description: a way of access consisting of a set of steps
+-IsA: way
+/>
+
+<7-02-   to 7-02-   
+/>
+
+<sea 
+/>
+
+<self power vehicle
+/>
+
+<iberian peninsula
+-Description: a peninsula in southwestern europe
+-InstanceOf: peninsula
+/>
+
+<  -  -1863 to   -  -1863 
+/>
+
+<album
+-InstanceOf: musical work
+/>
+
+<logic
+/>
+
+<sherman
+/>
+
+<eastward
+-DerivedFrom: east
+/>
+
+<dec
+-RelatedTo: december
+/>
+
+<wounded 
+/>
+
+<Third Battle of Chattanooga
+/>
+
+<your maj
+-DerivedFrom: maj
+/>
+
+<Generals George Crook
+/>
+
+<peninsula campaign
+-InstanceOf: military conflict
+-InstanceOf: event
+-InstanceOf: societal event
+/>
+
+<pressurise
+-RelatedTo: pressure
+/>
+
+<similar declarations 
+/>
+
+<General Franz Sigel
+/>
+
+<Savannah 
+/>
+
+<Anaconda Plan
+/>
+
+<fort
+-Synonym: playhouse
+/>
+
+<bellingham
+-Description: a town in northwestern washington on a bay near the canadian border
+-PartOf: washington
+/>
+
+<top subordinates James Longstreet
+/>
+
+<gregorian calendar month
+-Description: a month in the gregorian calendar
+/>
+
+<recreant
+-RelatedTo: defeat
+/>
+
+<Sherman army 
+/>
+
+<norfolk
+-Description: port city located in southeastern virginia on the elizabeth river at the mouth of chesapeake bay
+-PartOf: virginia
+/>
+
+<political system
+-Description: the members of a social organization who are in power
+-MemberOf: social organization
+/>
+
+<battle
+-UsedFor: fight war
+-AtLocation: war
+-RelatedTo: war
+-PartOf: war
+-UsedFor: win war
+/>
+
+<bus stop
+/>
+
+<George Meade
+-hasContext: military personnel
+-hasContext: military person
+-hasContext: person
+/>
+
+<retreat
+-DerivedFrom: retreat
+/>
+
+<barricade
+-DerivedFrom: blockade
+/>
+
+<some artillery
+-HasProperty: mobile
+/>
+
+<made
+-EtymologicallyDerivedFrom: est
+-EtymologicallyDerivedFrom: make
+/>
+
+<Sharpsburg 
+/>
+
+<next day 
+/>
+
+<adopted
+/>
+
+<savannah
+-Description: a port in eastern georgia near the mouth of the savannah river
+-PartOf: georgia
+-InstanceOf: port
+-InstanceOf: city
+/>
+
+<North
+-hasContext: geographical area
+-hasContext: direction
+-hasContext: northeastern
+-hasContext: northern
+-hasContext: direction
+-hasContext: northern
+/>
+
+<march
+-Description: the act of marching
+/>
+
+<alabama
+-IsA: state
+/>
+
+<earth
+/>
+
+<design software
+-HasSubevent: plan
+/>
+
+<american president
+/>
+
+<commander
+-Description: a commissioned naval officer who ranks above a lieutenant commander and below a captain
+-IsA: commission naval officer
+-HasContext: military
+-DerivedFrom: commandership
+/>
+
+<3-07-   to 3-07-   
+/>
+
+<clarksburg
+-Description: a city in northern west virginia
+-PartOf: west virginia
+/>
+
+<montgomery
+-Description: canadian novelist
+-InstanceOf: writer
+/>
+
+<casualties
+/>
+
+<drug traffic
+-Description: traffic in illegal drugs
+-IsA: traffic
+/>
+
+<confederacy
+-Description: the southern states that seceded from the united states in 1861
+-Attribute: south
+-InstanceOf: geographical area
+/>
+
+<breakdown 
+/>
+
+<appanage
+-Description: a grant of resources to maintain a dependent member of a ruling family
+-IsA: grant
+/>
+
+<Union
+-hasContext: workplace
+-hasContext: demand high wage
+-hasContext: union
+-hasContext: union
+-hasContext: union
+-hasContext: union
+/>
+
+<campaign
+-Description: several related operations aimed at achieving a particular goal
+/>
+
+<bracken
+-RelatedTo: livestock
+/>
+
+<livestock
+-CapableOf: live in barn
+/>
+
+<Shenandoah Valley
+-hasContext: shenandoah valley
+-hasContext: valley
+-hasContext: virginia
+/>
+
+<local port
+/>
+
+<pressure
+-Description: the force applied to a unit area of surface
+/>
+
+<road
+/>
+
+<Stonewall Jackson
+-hasContext: person
+-hasContext: musical artist
+-hasContext: military personnel
+-hasContext: military person
+-hasContext: country music
+/>
+
+<weapon
+-AtLocation: war
+/>
+
+<end of Lee plan 
+/>
+
+<spring
+-Description: a natural flow of ground water
+/>
+
+<Battle
+-hasContext: win war
+-hasContext: fight war
+-hasContext: fight
+/>
+
+<Montgomery 
+/>
+
+<livestock
+-Description: any animals kept for use or profit
+-IsA: placental
+-DerivedFrom: stocker
+/>
+
+<mid atlantic state
+-Description: a region of the eastern united states comprising new york and new jersey and pennsylvania and delaware and maryland
+/>
+
+<fort
+-IsA: meet
+-DerivedFrom: garrison
+-DerivedFrom: fortress
+/>
+
+<supercharge
+-DerivedFrom: pressure
+/>
+
+<General Lee
+-hasContext: car
+-hasContext: self power vehicle
+-hasContext: mean of transportation
+-hasContext: automobile
+/>
+
+<chancellorsville
+-Description: a village in northeastern virginia
+-PartOf: virginia
+/>
+
+<field artillery
+-Description: movable artillery used by armies in the field
+-IsA: artillery
+/>
+
+<do laundry
+/>
+
+<spring
+-Synonym: rebound
+/>
+
+<first month of year
+-IsA: january
+/>
+
+

@@ -18,21 +18,35 @@ public class Main {
 	private static Json json; 
 
 	public static void main(String[] args) throws IOException {
-		json = new Json();
-		
-		finalText = "";
-		
 		File dir = new File(".");
-		File fin = new File(dir.getCanonicalPath() + File.separator + 
-				"src" + File.separator + "files" + File.separator + "rdf.txt");
-		File finalFile = new File(dir.getCanonicalPath() + File.separator + 
-				"src" + File.separator + "files" + File.separator + "rdfclean.txt");
+		File[] files = new File(dir.getCanonicalPath() + File.separator + "src" + File.separator + "files").listFiles();
 		
-		System.out.println(fin.toString());
-		readFile(fin);
-		writeFile(finalFile, finalText);
-		json.getJson(fin);
-		System.out.println("DONE!");
+		for (File file : files) {
+		    if (file.isFile()) {
+				json = new Json();
+				
+				finalText = "";
+				
+				File original = new File(dir.getCanonicalPath() + File.separator + 
+						"src" + File.separator + "files" + File.separator + file.getName());
+				File finalFile = new File(dir.getCanonicalPath() + File.separator + 
+						"src" + File.separator + "cleaned" + File.separator + file.getName());
+				
+				if(!finalFile.exists()){
+					finalFile.createNewFile();
+				}
+				
+				System.out.println("CLEAN:");
+				System.out.println(file.getName());
+				readFile(original);
+				writeFile(finalFile, finalText);
+				
+				System.out.println("JSON:");
+				json.getJson(original, finalFile.getName());
+				
+				System.out.println("DONE!" + System.lineSeparator() + System.lineSeparator());
+		    }
+		}
 	}
 	
 	private static void writeFile(File finalFile, String document) throws FileNotFoundException, UnsupportedEncodingException {
@@ -44,7 +58,6 @@ public class Main {
 	private static void readFile(File fin) throws IOException {
 		FileInputStream fis = new FileInputStream(fin);
 	 
-		//Construct BufferedReader from InputStreamReader
 		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
 	 
 		lista = new ArrayList<Term>();
@@ -59,18 +72,13 @@ public class Main {
 			
 			} else if (line.contains("<rel:") && (!line.contains("<rel:hasText>"))) {
 				
-				//System.out.println("In");
-				
 				String relation = addRelation(line);
 				String element = addElement(line);
 				finalRDF(relation, element);
-								
-				//System.out.println("Out");
 			
 			} else if (line.contains("</rdf:Description>")) {
 				finalText += "/>" + System.lineSeparator() + System.lineSeparator();
 			}
-			//System.out.println(finalText);
 		}
 		br.close();
 	}
@@ -185,8 +193,6 @@ public class Main {
 	}
 	
 	public static void finalRDF(Term term) {
-		System.out.println("entrou: " + term.getType());
-		
 		finalText += "<" + term.getType() + System.lineSeparator();
 		if (!term.getDescription().equals("")) finalText += concatDescription(term);
 	}	

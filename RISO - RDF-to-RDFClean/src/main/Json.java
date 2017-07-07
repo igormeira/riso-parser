@@ -13,36 +13,43 @@ import java.util.List;
 
 public class Json {
 	
-	private File fin;
 	private static String finalText;
 	private static List<String> listaElements;
 	private static List<String> lista;
+	private File finalFile;
 	
-	public void getJson (File fin) throws IOException {
+	public void getJson (File original, String finalFile) throws IOException {
+		File dir = new File(".");
 		finalText = "[" + System.lineSeparator();
 		
-		this.fin = fin;		
-		File dir = new File(".");
-		File finalFile = new File(dir.getCanonicalPath() + File.separator + 
-				"src" + File.separator + "files" + File.separator + "json.txt");
+		this.finalFile = new File(dir.getCanonicalPath() + File.separator + 
+				"src" + File.separator + "json" + File.separator + finalFile);
 		
-		System.out.println(fin.toString());
-		readFile(fin);
-		prepareJson(fin);
-		writeFile(finalFile, finalText);
-		System.out.println("DONE!");
+		if(!this.finalFile.exists()){
+			this.finalFile.createNewFile();
+		}
+		
+		System.out.println(original.getName());
+		readFile(original);
+		prepareJson(original);
+		writeFile(this.finalFile, finalText);
 	}
 	
 	private void prepareJson(File fin) throws IOException {
 		FileInputStream fis = new FileInputStream(fin);
 		 
-		//Construct BufferedReader from InputStreamReader
 		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
 	 
 		String line = null;
 		Term term = new Term();
-		while ((line = br.readLine()) != null) {
+		boolean aux = true;
+		
+		while ((line = br.readLine()) != null) {	
 			if (line.contains("<rdf:Description")) {
+				
+				if (aux == true) aux = false;
+				else finalText += "," + System.lineSeparator() + System.lineSeparator();
+				
 				term = new Term();
 				term.setType(getType(line));
 				term.setDescription(getDescription(line));
@@ -50,7 +57,6 @@ public class Json {
 			
 			} else if (line.contains("<rel:") && (!line.contains("<rel:hasText>"))) {
 				listaElements = new ArrayList<String>();
-				//System.out.println("In");
 								
 				String relation = addRelation(line);
 				while (line.contains(relation)) {
@@ -59,14 +65,10 @@ public class Json {
 					line = br.readLine();
 				}
 				finalRDF(relation, listaElements);
-								
-				//System.out.println("Out");
 			
 			} if (line.contains("</rdf:Description>")) {
-				finalText += "}," + System.lineSeparator() + System.lineSeparator();
+				finalText += System.lineSeparator() + "}";
 			}
-			
-			//System.out.println(finalText);
 		}
 		br.close();		
 	}
@@ -165,19 +167,19 @@ public class Json {
 	
 	public static void finalRDF(String relation, List<String> lista) {
 		String elmts = "";
-		String rel = "\"" + relation + "\"" + ": [";
+		String rel = "," + System.lineSeparator();
+		rel += "\"" + relation + "\"" + ": [";
 		for (int i = 0; i < lista.size() - 1; i++) {
 			elmts += "\"" + lista.get(i) + "\"" + ", ";
 		}
-		elmts += "\"" + lista.get(lista.size()-1) + "\"" + "],";
+		elmts += "\"" + lista.get(lista.size()-1) + "\"" + "]";
 		
-		finalText += rel + elmts + System.lineSeparator();
+		finalText += rel + elmts;
 	}
 	
 	public static void finalRDF(Term term) {
-		System.out.println("entrou: " + term.getType());
 		
-		finalText += "{" + System.lineSeparator() + "\"type\"" + ":" + term.getType() + "," + System.lineSeparator();
+		finalText += "{" + System.lineSeparator() + "\"Term\"" + ":" + term.getType();
 		if (!term.getDescription().equals("")) finalText += concatDescription(term);
 	}	
 	
@@ -194,16 +196,15 @@ public class Json {
 	}	
 
 	private static String concatDescription(Term term) {
-		String str = "\"Description\":";
+		String str = "," + System.lineSeparator();
+		str += "\"Description\":";
 		str += term.getDescription();
-		str += "," + System.lineSeparator();
 		return str;
 	}
 
 	private static void readFile(File fin) throws IOException {
 		FileInputStream fis = new FileInputStream(fin);
 	 
-		//Construct BufferedReader from InputStreamReader
 		BufferedReader br = new BufferedReader(new InputStreamReader(fis));
 	 
 		lista = new ArrayList<String>();
