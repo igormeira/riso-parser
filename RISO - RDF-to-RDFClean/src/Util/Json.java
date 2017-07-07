@@ -1,4 +1,4 @@
-package main;
+package Util;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -23,7 +23,7 @@ public class Json {
 		finalText = "[" + System.lineSeparator();
 		
 		this.finalFile = new File(dir.getCanonicalPath() + File.separator + 
-				"src" + File.separator + "json" + File.separator + finalFile);
+				"src" + File.separator + "res" + File.separator + "json" + File.separator + finalFile);
 		
 		if(!this.finalFile.exists()){
 			this.finalFile.createNewFile();

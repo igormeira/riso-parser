@@ -11,6 +11,10 @@ import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
 
+import Util.Json;
+import Util.Merge;
+import Util.Term;
+
 public class Main {
 	
 	private static List<Term> lista;
@@ -19,7 +23,8 @@ public class Main {
 
 	public static void main(String[] args) throws IOException {
 		File dir = new File(".");
-		File[] files = new File(dir.getCanonicalPath() + File.separator + "src" + File.separator + "files").listFiles();
+		File[] files = new File(dir.getCanonicalPath() + File.separator + "src"+ File.separator + "res" 
+								+ File.separator + "files").listFiles();
 		
 		for (File file : files) {
 		    if (file.isFile()) {
@@ -28,13 +33,15 @@ public class Main {
 				finalText = "";
 				
 				File original = new File(dir.getCanonicalPath() + File.separator + 
-						"src" + File.separator + "files" + File.separator + file.getName());
+						"src" + File.separator + "res" + File.separator + "files" + File.separator + file.getName());
 				File finalFile = new File(dir.getCanonicalPath() + File.separator + 
-						"src" + File.separator + "cleaned" + File.separator + file.getName());
+						"src" + File.separator + "res" + File.separator + "cleaned" + File.separator + file.getName());
 				
 				if(!finalFile.exists()){
 					finalFile.createNewFile();
 				}
+				
+				Merge.genMergedFile(files);
 				
 				System.out.println("CLEAN:");
 				System.out.println(file.getName());
